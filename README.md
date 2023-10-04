@@ -2,6 +2,8 @@
 
 This GitHub repository maintains the code and data files necessary to reproduce the analyses of the manuscript "Wool They, Won’t They: Untangling the Zooarchaeological Evidence for Intensive Wool Production in Northern Mesopotamia c. 4500-1500 cal. BC”, authored by Max D. Price and Jesse Wolfhagen, submitted to the *Journal of Anthropological Archaeology*. The methods rely on [Stan](https://mc-stan.org/) for Bayesian analysis and are written for use in the R statistical computing framework.
 
+Bayesian modeling results are saved as three files for the metric data and two files for the aging data. These files contain the posterior distributions of key model parameters at different scales of inference (the site-level and period-level). Additionally, the metric analysis contains a "specimen-level" result that displays the posterior mean membership probability for each specimen (i.e., the calculated probability that a specimen is immature, female, or male).
+
 References for the data sources are available in the associated bibtex file, as referenced in the two data files (wool_mandible_data.csv and woolmixmod_demographic_data.csv).
 
 # Abstract	

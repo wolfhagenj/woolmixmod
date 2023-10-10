@@ -113,14 +113,21 @@ beepr::beep()
 
 prior_predictive_perioddata <- rbindlist(lapply(1:length(agemodel_predicted_assemblages), function(x) data.table(Iteration = x, agemodel_predicted_assemblages[[x]]$Period_Parameters)))
 prior_predictive_sitedata <- rbindlist(lapply(1:length(agemodel_predicted_assemblages), function(x) data.table(Iteration = x, Period = agemodel_observation_data$Period, agemodel_predicted_assemblages[[x]]$Site_Parameters)))
-hist(prior_predictive_perioddata[, theta_period])
-hist(prior_predictive_sitedata[, theta_site])
-hist(prior_predictive_perioddata[, max(theta_period) - min(theta_period), Iteration][, V1])
+
+####4. Visualizations####
 #
-hist(rbindlist(lapply(agemodel_predicted_assemblages, function(x) x$Overall_Parameters))[, mu_sigma])
+hist(prior_predictive_perioddata[, theta_period], main = "Histogram of Simulated Theta Values (Period-level)", xlab = "Theta (Period)")
+#
+hist(prior_predictive_sitedata[, theta_site], main = "Histogram of Simulated Theta Values (Site-level)", xlab = "Theta (Site)")
 
 #
+hist(prior_predictive_perioddata[, max(theta_period) - min(theta_period), Iteration][, V1], main = "Histogram of Ranges of Period-Level Theta Values", xlab = "Range of Theta Values (Period-Level)")
+
+#
+hist(rbindlist(lapply(agemodel_predicted_assemblages, function(x) x$Overall_Parameters))[, mu_sigma], main = "Histogram of Simulated Average Variability of Regional Theta Values", xlab = "mu_sigma (Variability of Regional Theta Values)")
+
+#Examinations of the spread of theta values within a region#
 prior_predictive_sitedata[, .(Site_Theta_sd = sd(theta_site), Site_Theta_range = max(theta_site) - min(theta_site)), .(Iteration, Period)][, quantile(Site_Theta_range, c(0.025, 0.50, 0.975))]
 prior_predictive_sitedata[, .(Site_Theta_sd = sd(theta_site), Site_Theta_range = max(theta_site) - min(theta_site)), .(Iteration, Period)][, mean(Site_Theta_range)]
 hist(prior_predictive_sitedata[, .(Site_Theta_sd = sd(theta_site), Site_Theta_range = max(theta_site) - min(theta_site)), .(Iteration, Period)][, Site_Theta_range], main = "Range of Simulated Site Theta Values per Region", xlab = "Range of Theta Values")
-hist(prior_predictive_sitedata[, .(Site_Theta_sd = sd(theta_site), Site_Theta_range = max(theta_site) - min(theta_site)), .(Iteration, Period)][, Site_Theta_sd])
+hist(prior_predictive_sitedata[, .(Site_Theta_sd = sd(theta_site), Site_Theta_range = max(theta_site) - min(theta_site)), .(Iteration, Period)][, Site_Theta_sd], main = "Standard Deviation of Simulated Site Theta Values per Region", xlab = "Standard Deviation of Theta Values")

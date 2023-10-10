@@ -1,0 +1,1968 @@
+"Specimen_No","Specimen","Site_No","Site","Period_No","Period","Element_Portion","Element","LSI","p_immature","p_female","p_male"
+1,"Animal.1",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.082,0.61,0.3,0.08
+2,"Animal.10",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.117,0.57,0.3,0.13
+3,"Animal.100",5,"El Kowm 2",1,"PPNB",6,"Ast",0.152,0.35,0.29,0.36
+4,"Animal.1000",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.22,0,0.32,0.68
+5,"Animal.1001",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.17,0,0.47,0.53
+6,"Animal.1002",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.177,0,0.45,0.55
+7,"Animal.1003",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.246,0,0.26,0.74
+8,"Animal.1004",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.153,0,0.53,0.47
+9,"Animal.1005",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.149,0,0.55,0.45
+10,"Animal.1006",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.212,0,0.34,0.66
+11,"Animal.1007",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.145,0,0.56,0.44
+12,"Animal.1008",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.284,0,0.22,0.78
+13,"Animal.1009",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.137,0,0.59,0.41
+14,"Animal.101",5,"El Kowm 2",1,"PPNB",6,"Ast",0.052,0.55,0.37,0.08
+15,"Animal.1010",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.128,0,0.63,0.37
+16,"Animal.1011",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.157,0,0.52,0.48
+17,"Animal.1012",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.141,0,0.58,0.42
+18,"Animal.1013",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.161,0,0.51,0.49
+19,"Animal.1015",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.209,0,0.35,0.65
+20,"Animal.1016",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.242,0,0.27,0.73
+21,"Animal.1017",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.223,0,0.31,0.69
+22,"Animal.1018",23,"Tell Sabi Abyad (Op III)",2,"Halaf",7,"Cal",0.19,0,0.28,0.72
+23,"Animal.1019",23,"Tell Sabi Abyad (Op III)",2,"Halaf",7,"Cal",0.202,0,0.27,0.73
+24,"Animal.102",5,"El Kowm 2",1,"PPNB",6,"Ast",0.1,0.47,0.36,0.17
+25,"Animal.1020",23,"Tell Sabi Abyad (Op III)",2,"Halaf",7,"Cal",0.04,0,0.72,0.28
+26,"Animal.1023",24,"Tell Sabi Abyad (Op III)",1,"PN",4,"Mtc",0.032,0,0.63,0.37
+27,"Animal.1024",24,"Tell Sabi Abyad (Op III)",1,"PN",8,"Mtt",0.005,0,0.67,0.33
+28,"Animal.1025",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.041,0.1,0.49,0.41
+29,"Animal.1026",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.062,0.08,0.42,0.5
+30,"Animal.1027",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.026,0.12,0.54,0.34
+31,"Animal.1028",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",-0.027,0.18,0.64,0.18
+32,"Animal.1029",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.067,0.07,0.4,0.52
+33,"Animal.103",5,"El Kowm 2",1,"PPNB",6,"Ast",0.113,0.45,0.35,0.21
+34,"Animal.1030",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",-0.033,0.19,0.64,0.17
+35,"Animal.1031",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.017,0.13,0.56,0.31
+36,"Animal.1032",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",-0.014,0.17,0.62,0.21
+37,"Animal.1033",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.047,0.09,0.47,0.43
+38,"Animal.1034",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",-0.052,0.21,0.65,0.14
+39,"Animal.1035",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.058,0.08,0.44,0.48
+40,"Animal.1036",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.147,0.02,0.15,0.83
+41,"Animal.1037",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.075,0.07,0.38,0.56
+42,"Animal.1038",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.016,0.13,0.57,0.3
+43,"Animal.1039",24,"Tell Sabi Abyad (Op III)",1,"PN",1,"Hum_dist",0.019,0.13,0.56,0.32
+44,"Animal.104",5,"El Kowm 2",1,"PPNB",6,"Ast",0.091,0.49,0.36,0.15
+45,"Animal.1040",23,"Tell Sabi Abyad (Op III)",2,"Halaf",1,"Hum_dist",0.001,0.17,0.6,0.23
+46,"Animal.1041",23,"Tell Sabi Abyad (Op III)",2,"Halaf",1,"Hum_dist",0.069,0.08,0.43,0.49
+47,"Animal.1042",23,"Tell Sabi Abyad (Op III)",2,"Halaf",1,"Hum_dist",0.073,0.08,0.41,0.52
+48,"Animal.1043",23,"Tell Sabi Abyad (Op III)",2,"Halaf",1,"Hum_dist",-0.067,0.24,0.65,0.11
+49,"Animal.1044",23,"Tell Sabi Abyad (Op III)",2,"Halaf",1,"Hum_dist",0.12,0.04,0.26,0.7
+50,"Animal.1045",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.107,0,0.25,0.75
+51,"Animal.1046",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.055,0,0.46,0.54
+52,"Animal.1047",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.065,0,0.41,0.59
+53,"Animal.1048",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.05,0.24,0.44,0.32
+54,"Animal.1049",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.02,0.3,0.48,0.22
+55,"Animal.105",5,"El Kowm 2",1,"PPNB",6,"Ast",0.104,0.47,0.36,0.18
+56,"Animal.1050",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.025,0.29,0.48,0.23
+57,"Animal.1051",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.1,0.13,0.32,0.55
+58,"Animal.1052",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.089,0.15,0.35,0.5
+59,"Animal.1053",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.035,0,0.54,0.46
+60,"Animal.1054",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.025,0.29,0.48,0.23
+61,"Animal.1055",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.017,0.31,0.48,0.21
+62,"Animal.1056",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",-0.011,0,0.72,0.28
+63,"Animal.1057",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.02,0,0.6,0.4
+64,"Animal.1058",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.062,0.21,0.42,0.37
+65,"Animal.1059",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.184,0.02,0.12,0.86
+66,"Animal.106",5,"El Kowm 2",1,"PPNB",6,"Ast",0.091,0.49,0.37,0.14
+67,"Animal.1060",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.011,0.32,0.49,0.19
+68,"Animal.1061",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",-0.002,0,0.69,0.31
+69,"Animal.1062",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",-0.004,0.34,0.5,0.16
+70,"Animal.1063",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.031,0.28,0.47,0.25
+71,"Animal.1064",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.091,0,0.31,0.69
+72,"Animal.1065",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.032,0,0.55,0.45
+73,"Animal.1066",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.064,0,0.42,0.58
+74,"Animal.1067",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.078,0.18,0.37,0.45
+75,"Animal.1068",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.065,0.21,0.41,0.38
+76,"Animal.1069",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.016,0.31,0.48,0.21
+77,"Animal.107",5,"El Kowm 2",1,"PPNB",6,"Ast",0.073,0.52,0.37,0.11
+78,"Animal.1070",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.03,0.28,0.47,0.25
+79,"Animal.1071",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.039,0.26,0.46,0.28
+80,"Animal.1072",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.019,0,0.61,0.39
+81,"Animal.1073",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.062,0.21,0.42,0.37
+82,"Animal.1074",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.014,0,0.63,0.37
+83,"Animal.1075",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.045,0.25,0.45,0.3
+84,"Animal.1076",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.048,0.24,0.44,0.31
+85,"Animal.1077",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",-0.028,0,0.76,0.24
+86,"Animal.1078",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.004,0,0.66,0.34
+87,"Animal.1079",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",-0.001,0.34,0.49,0.17
+88,"Animal.108",5,"El Kowm 2",1,"PPNB",6,"Ast",0.113,0.45,0.35,0.2
+89,"Animal.1080",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",-0.04,0,0.8,0.2
+90,"Animal.1081",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",-0.001,0.34,0.5,0.17
+91,"Animal.1082",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",-0.018,0,0.74,0.26
+92,"Animal.1083",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.01,0,0.64,0.36
+93,"Animal.1084",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.013,0.31,0.49,0.2
+94,"Animal.1085",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.016,0,0.62,0.38
+95,"Animal.1086",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",-0.087,0,0.87,0.13
+96,"Animal.1087",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.027,0.29,0.47,0.24
+97,"Animal.1088",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.117,0.1,0.27,0.63
+98,"Animal.1089",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.112,0.11,0.28,0.61
+99,"Animal.109",5,"El Kowm 2",1,"PPNB",6,"Ast",0.174,0.28,0.24,0.47
+100,"Animal.1090",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.041,0,0.52,0.48
+101,"Animal.1091",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.029,0,0.57,0.43
+102,"Animal.1092",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.035,0,0.54,0.46
+103,"Animal.1093",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.081,0.17,0.37,0.46
+104,"Animal.1094",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",0.073,0.19,0.39,0.42
+105,"Animal.1095",24,"Tell Sabi Abyad (Op III)",1,"PN",2,"Rad_prox",-0.049,0.41,0.49,0.1
+106,"Animal.1096",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.026,0,0.58,0.42
+107,"Animal.1097",24,"Tell Sabi Abyad (Op III)",1,"PN",3,"Rad_dist",0.013,0,0.63,0.37
+108,"Animal.1098",23,"Tell Sabi Abyad (Op III)",2,"Halaf",3,"Rad_dist",-0.032,0,0.77,0.23
+109,"Animal.1099",23,"Tell Sabi Abyad (Op III)",2,"Halaf",2,"Rad_prox",-0.024,0.33,0.48,0.18
+110,"Animal.11",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.082,0.61,0.3,0.08
+111,"Animal.110",5,"El Kowm 2",1,"PPNB",6,"Ast",0.156,0.34,0.28,0.38
+112,"Animal.1100",23,"Tell Sabi Abyad (Op III)",2,"Halaf",3,"Rad_dist",0.05,0,0.48,0.52
+113,"Animal.1101",23,"Tell Sabi Abyad (Op III)",2,"Halaf",2,"Rad_prox",0.059,0.16,0.35,0.49
+114,"Animal.1102",23,"Tell Sabi Abyad (Op III)",2,"Halaf",2,"Rad_prox",0.047,0.19,0.38,0.44
+115,"Animal.1103",23,"Tell Sabi Abyad (Op III)",2,"Halaf",2,"Rad_prox",-0.097,0.41,0.5,0.09
+116,"Animal.1105",27,"Umm Qseir",2,"Halaf",2,"Rad_prox",0.077,0.23,0.4,0.37
+117,"Animal.1106",27,"Umm Qseir",2,"Halaf",2,"Rad_prox",0.06,0.27,0.43,0.31
+118,"Animal.1107",28,"Umm Qseir",4,"LC 4-5",2,"Rad_prox",0.184,0.21,0.35,0.45
+119,"Animal.111",5,"El Kowm 2",1,"PPNB",6,"Ast",0.104,0.47,0.36,0.18
+120,"Animal.112",5,"El Kowm 2",1,"PPNB",6,"Ast",0.069,0.53,0.37,0.11
+121,"Animal.113",5,"El Kowm 2",1,"PPNB",6,"Ast",0.174,0.28,0.24,0.48
+122,"Animal.114",5,"El Kowm 2",1,"PPNB",6,"Ast",0.157,0.33,0.28,0.39
+123,"Animal.115",5,"El Kowm 2",1,"PPNB",6,"Ast",0.113,0.45,0.35,0.21
+124,"Animal.116",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.05,0.23,0.65,0.12
+125,"Animal.117",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.045,0.22,0.65,0.13
+126,"Animal.118",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.044,0.22,0.65,0.13
+127,"Animal.119",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.008,0.15,0.59,0.26
+128,"Animal.12",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.232,0.24,0.17,0.59
+129,"Animal.120",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.013,0.18,0.62,0.19
+130,"Animal.121",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.027,0.2,0.64,0.16
+131,"Animal.122",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.026,0.2,0.64,0.16
+132,"Animal.1226",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.026,0.12,0.67,0.21
+133,"Animal.1227",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.061,0.04,0.42,0.54
+134,"Animal.1228",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.045,0.14,0.7,0.17
+135,"Animal.1229",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.017,0.11,0.66,0.23
+136,"Animal.123",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.032,0.12,0.53,0.35
+137,"Animal.1230",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.069,0.04,0.38,0.58
+138,"Animal.1231",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.055,0.05,0.44,0.51
+139,"Animal.1232",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.121,0.01,0.2,0.78
+140,"Animal.1233",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.006,0.1,0.64,0.26
+141,"Animal.1234",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.01,0.09,0.59,0.32
+142,"Animal.1235",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.113,0.02,0.23,0.76
+143,"Animal.1236",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.003,0.1,0.63,0.27
+144,"Animal.1237",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.026,0.07,0.54,0.38
+145,"Animal.1238",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.02,0.11,0.66,0.23
+146,"Animal.1239",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.003,0.1,0.63,0.27
+147,"Animal.124",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.036,0.12,0.52,0.36
+148,"Animal.1240",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.11,0.02,0.23,0.75
+149,"Animal.1241",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.016,0.08,0.58,0.34
+150,"Animal.1242",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.027,0.12,0.67,0.21
+151,"Animal.1243",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.07,0.15,0.71,0.13
+152,"Animal.1244",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.081,0.03,0.33,0.63
+153,"Animal.1245",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.01,0.08,0.6,0.32
+154,"Animal.1246",3,"Domuztepe",2,"Halaf",1,"Hum_dist",0.049,0.05,0.46,0.49
+155,"Animal.1247",3,"Domuztepe",2,"Halaf",1,"Hum_dist",-0.062,0.15,0.71,0.14
+156,"Animal.1248",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.018,0.18,0.51,0.3
+157,"Animal.1249",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.007,0.2,0.53,0.26
+158,"Animal.125",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.102,0.05,0.31,0.65
+159,"Animal.1250",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.074,0.08,0.36,0.56
+160,"Animal.1251",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.027,0.17,0.5,0.34
+161,"Animal.1252",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.048,0.29,0.58,0.14
+162,"Animal.1253",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.074,0.31,0.58,0.11
+163,"Animal.1254",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.116,0.03,0.23,0.74
+164,"Animal.1255",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.024,0.17,0.5,0.33
+165,"Animal.1256",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.027,0.26,0.57,0.17
+166,"Animal.1257",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.009,0.23,0.56,0.21
+167,"Animal.1258",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.048,0.13,0.44,0.43
+168,"Animal.1259",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.09,0.06,0.31,0.63
+169,"Animal.126",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.121,0.03,0.25,0.72
+170,"Animal.1260",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.036,0.27,0.57,0.15
+171,"Animal.1261",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.039,0.14,0.47,0.39
+172,"Animal.1262",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.027,0.26,0.57,0.17
+173,"Animal.1263",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.114,0.04,0.24,0.73
+174,"Animal.1264",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.056,0.11,0.42,0.47
+175,"Animal.1265",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.033,0.27,0.57,0.16
+176,"Animal.1266",3,"Domuztepe",2,"Halaf",3,"Rad_dist",0.119,0,0.24,0.76
+177,"Animal.1267",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.042,0.28,0.58,0.14
+178,"Animal.1268",3,"Domuztepe",2,"Halaf",3,"Rad_dist",-0.037,0.01,0.78,0.2
+179,"Animal.1269",3,"Domuztepe",2,"Halaf",3,"Rad_dist",0.012,0.01,0.65,0.35
+180,"Animal.127",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.125,0.03,0.24,0.73
+181,"Animal.1270",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.138,0.02,0.18,0.8
+182,"Animal.1271",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.08,0.08,0.34,0.58
+183,"Animal.1272",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.119,0.03,0.22,0.75
+184,"Animal.1273",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.009,0.23,0.55,0.22
+185,"Animal.1274",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.073,0.31,0.58,0.11
+186,"Animal.1275",3,"Domuztepe",2,"Halaf",2,"Rad_prox",0.048,0.13,0.44,0.43
+187,"Animal.1276",3,"Domuztepe",2,"Halaf",2,"Rad_prox",-0.015,0.24,0.56,0.2
+188,"Animal.1277",3,"Domuztepe",2,"Halaf",6,"Ast",0.051,0.27,0.39,0.34
+189,"Animal.1278",3,"Domuztepe",2,"Halaf",6,"Ast",-0.003,0.39,0.46,0.16
+190,"Animal.1279",3,"Domuztepe",2,"Halaf",6,"Ast",0.007,0.37,0.45,0.18
+191,"Animal.128",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.087,0.06,0.36,0.58
+192,"Animal.1280",3,"Domuztepe",2,"Halaf",6,"Ast",-0.037,0.43,0.46,0.1
+193,"Animal.1281",3,"Domuztepe",2,"Halaf",6,"Ast",0.022,0.34,0.44,0.22
+194,"Animal.1282",3,"Domuztepe",2,"Halaf",6,"Ast",0.075,0.2,0.34,0.46
+195,"Animal.1283",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.078,0.09,0.48,0.43
+196,"Animal.1284",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.229,0.01,0.13,0.87
+197,"Animal.1285",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.027,0.14,0.61,0.25
+198,"Animal.1286",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.118,0.05,0.35,0.6
+199,"Animal.1287",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.092,0.07,0.44,0.49
+200,"Animal.1288",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.095,0.07,0.43,0.5
+201,"Animal.1289",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.057,0.11,0.54,0.35
+202,"Animal.129",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.102,0.05,0.31,0.65
+203,"Animal.1290",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.048,0.12,0.56,0.32
+204,"Animal.1291",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.086,0.08,0.46,0.46
+205,"Animal.1292",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.106,0.06,0.39,0.55
+206,"Animal.1293",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.092,0.07,0.44,0.49
+207,"Animal.1294",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.086,0.08,0.46,0.46
+208,"Animal.1295",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.147,0.03,0.26,0.71
+209,"Animal.1296",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.106,0.06,0.39,0.55
+210,"Animal.1297",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.074,0.09,0.49,0.42
+211,"Animal.1298",21,"Tell Mozan",5,"EBA",1,"Hum_dist",-0.006,0.17,0.65,0.17
+212,"Animal.1299",21,"Tell Mozan",5,"EBA",1,"Hum_dist",-0.023,0.18,0.67,0.15
+213,"Animal.13",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.199,0.36,0.22,0.42
+214,"Animal.130",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.108,0.04,0.29,0.67
+215,"Animal.1300",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.021,0.15,0.62,0.23
+216,"Animal.1301",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.048,0.12,0.56,0.32
+217,"Animal.1302",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.095,0.07,0.43,0.5
+218,"Animal.1303",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.1,0.06,0.41,0.52
+219,"Animal.1304",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.072,0.09,0.5,0.41
+220,"Animal.1305",21,"Tell Mozan",5,"EBA",1,"Hum_dist",-0.069,0.19,0.69,0.12
+221,"Animal.1306",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.222,0.01,0.13,0.86
+222,"Animal.1307",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.078,0.09,0.48,0.43
+223,"Animal.1308",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.195,0.01,0.16,0.83
+224,"Animal.1309",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.148,0.03,0.26,0.71
+225,"Animal.131",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.127,0.03,0.23,0.74
+226,"Animal.1310",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.169,0.02,0.21,0.77
+227,"Animal.1311",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.139,0.03,0.29,0.68
+228,"Animal.1312",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.147,0.03,0.26,0.71
+229,"Animal.1313",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.142,0.03,0.28,0.69
+230,"Animal.1314",21,"Tell Mozan",5,"EBA",1,"Hum_dist",0.2,0.01,0.15,0.84
+231,"Animal.1315",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.148,0.07,0.27,0.65
+232,"Animal.1316",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.191,0.03,0.18,0.79
+233,"Animal.1317",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.244,0.01,0.13,0.87
+234,"Animal.1318",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.038,0.28,0.5,0.22
+235,"Animal.1319",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.02,0.31,0.51,0.18
+236,"Animal.132",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.043,0.22,0.65,0.14
+237,"Animal.1320",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.084,0.2,0.43,0.37
+238,"Animal.1321",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.027,0.3,0.51,0.19
+239,"Animal.1322",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.166,0.05,0.23,0.72
+240,"Animal.1323",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.147,0.07,0.28,0.65
+241,"Animal.1324",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.092,0.18,0.41,0.41
+242,"Animal.1325",21,"Tell Mozan",5,"EBA",3,"Rad_dist",-0.114,0,0.8,0.2
+243,"Animal.1326",21,"Tell Mozan",5,"EBA",3,"Rad_dist",-0.059,0,0.64,0.36
+244,"Animal.1327",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.221,0.01,0.14,0.84
+245,"Animal.1328",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.153,0.07,0.26,0.67
+246,"Animal.1329",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.018,0.31,0.51,0.18
+247,"Animal.133",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.106,0.26,0.65,0.08
+248,"Animal.1330",21,"Tell Mozan",5,"EBA",2,"Rad_prox",0.095,0.17,0.4,0.42
+249,"Animal.1331",21,"Tell Mozan",5,"EBA",4,"Mtc",0.007,0,0.63,0.37
+250,"Animal.1332",21,"Tell Mozan",5,"EBA",4,"Mtc",-0.004,0,0.67,0.33
+251,"Animal.1333",21,"Tell Mozan",5,"EBA",4,"Mtc",0.036,0,0.52,0.48
+252,"Animal.1334",21,"Tell Mozan",5,"EBA",4,"Mtc",-0.001,0,0.66,0.34
+253,"Animal.1335",21,"Tell Mozan",5,"EBA",4,"Mtc",0.026,0,0.56,0.44
+254,"Animal.1336",21,"Tell Mozan",5,"EBA",4,"Mtc",0.13,0,0.2,0.8
+255,"Animal.1337",21,"Tell Mozan",5,"EBA",4,"Mtc",0.025,0,0.56,0.44
+256,"Animal.1338",21,"Tell Mozan",5,"EBA",4,"Mtc",0.113,0,0.24,0.76
+257,"Animal.1339",21,"Tell Mozan",5,"EBA",4,"Mtc",0.103,0,0.27,0.73
+258,"Animal.134",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.076,0.25,0.66,0.1
+259,"Animal.1340",21,"Tell Mozan",5,"EBA",7,"Cal",-0.201,0,0.88,0.12
+260,"Animal.1341",21,"Tell Mozan",5,"EBA",7,"Cal",-0.064,0,0.66,0.34
+261,"Animal.1342",21,"Tell Mozan",5,"EBA",7,"Cal",0.021,0,0.37,0.63
+262,"Animal.1343",21,"Tell Mozan",5,"EBA",7,"Cal",-0.097,0,0.76,0.24
+263,"Animal.1344",21,"Tell Mozan",5,"EBA",7,"Cal",0.049,0,0.31,0.69
+264,"Animal.1345",21,"Tell Mozan",5,"EBA",7,"Cal",0.063,0,0.29,0.71
+265,"Animal.1346",21,"Tell Mozan",5,"EBA",7,"Cal",-0.096,0,0.76,0.24
+266,"Animal.1347",21,"Tell Mozan",5,"EBA",6,"Ast",-0.041,0.38,0.37,0.25
+267,"Animal.1348",21,"Tell Mozan",5,"EBA",6,"Ast",0.071,0.07,0.19,0.74
+268,"Animal.1349",21,"Tell Mozan",5,"EBA",6,"Ast",-0.058,0.41,0.39,0.2
+269,"Animal.135",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.001,0.17,0.61,0.23
+270,"Animal.1350",21,"Tell Mozan",5,"EBA",6,"Ast",-0.02,0.32,0.35,0.33
+271,"Animal.1351",21,"Tell Mozan",5,"EBA",6,"Ast",0.016,0.21,0.28,0.5
+272,"Animal.1352",21,"Tell Mozan",5,"EBA",6,"Ast",-0.015,0.31,0.34,0.35
+273,"Animal.1353",21,"Tell Mozan",5,"EBA",6,"Ast",0.032,0.16,0.26,0.58
+274,"Animal.1354",21,"Tell Mozan",5,"EBA",6,"Ast",-0.047,0.39,0.38,0.23
+275,"Animal.1355",21,"Tell Mozan",5,"EBA",6,"Ast",-0.063,0.42,0.39,0.18
+276,"Animal.1356",21,"Tell Mozan",5,"EBA",6,"Ast",-0.068,0.43,0.4,0.17
+277,"Animal.1357",21,"Tell Mozan",5,"EBA",6,"Ast",-0.079,0.44,0.41,0.15
+278,"Animal.1358",21,"Tell Mozan",5,"EBA",6,"Ast",-0.249,0.33,0.57,0.1
+279,"Animal.1359",21,"Tell Mozan",5,"EBA",6,"Ast",-0.047,0.39,0.38,0.23
+280,"Animal.136",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.002,0.17,0.61,0.22
+281,"Animal.1360",21,"Tell Mozan",5,"EBA",6,"Ast",-0.101,0.46,0.42,0.12
+282,"Animal.1361",21,"Tell Mozan",5,"EBA",6,"Ast",-0.068,0.43,0.4,0.17
+283,"Animal.1362",21,"Tell Mozan",5,"EBA",6,"Ast",0.006,0.24,0.31,0.45
+284,"Animal.1363",21,"Tell Mozan",5,"EBA",6,"Ast",0.046,0.12,0.23,0.65
+285,"Animal.1364",21,"Tell Mozan",5,"EBA",6,"Ast",0.021,0.2,0.28,0.53
+286,"Animal.1365",21,"Tell Mozan",5,"EBA",6,"Ast",-0.011,0.29,0.33,0.37
+287,"Animal.1366",21,"Tell Mozan",5,"EBA",6,"Ast",-0.069,0.43,0.4,0.17
+288,"Animal.1367",21,"Tell Mozan",5,"EBA",6,"Ast",0.067,0.08,0.19,0.73
+289,"Animal.1368",21,"Tell Mozan",5,"EBA",6,"Ast",0.067,0.08,0.19,0.73
+290,"Animal.1369",21,"Tell Mozan",5,"EBA",6,"Ast",-0.047,0.39,0.38,0.23
+291,"Animal.137",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.001,0.16,0.6,0.23
+292,"Animal.1370",21,"Tell Mozan",5,"EBA",6,"Ast",-0.015,0.31,0.34,0.35
+293,"Animal.1371",21,"Tell Mozan",5,"EBA",6,"Ast",-0.026,0.34,0.35,0.31
+294,"Animal.1372",21,"Tell Mozan",5,"EBA",6,"Ast",-0.058,0.41,0.39,0.2
+295,"Animal.1373",21,"Tell Mozan",5,"EBA",6,"Ast",-0.032,0.35,0.36,0.28
+296,"Animal.1374",21,"Tell Mozan",5,"EBA",6,"Ast",0.032,0.16,0.25,0.58
+297,"Animal.1375",21,"Tell Mozan",5,"EBA",6,"Ast",-0.084,0.45,0.41,0.14
+298,"Animal.1376",21,"Tell Mozan",5,"EBA",6,"Ast",-0.079,0.44,0.41,0.15
+299,"Animal.1377",21,"Tell Mozan",5,"EBA",6,"Ast",-0.032,0.36,0.36,0.28
+300,"Animal.1378",21,"Tell Mozan",5,"EBA",6,"Ast",-0.047,0.39,0.38,0.23
+301,"Animal.1379",21,"Tell Mozan",5,"EBA",6,"Ast",-0.063,0.42,0.39,0.19
+302,"Animal.138",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",-0.008,0.18,0.62,0.21
+303,"Animal.1380",21,"Tell Mozan",5,"EBA",6,"Ast",-0.058,0.41,0.39,0.2
+304,"Animal.1381",21,"Tell Mozan",5,"EBA",6,"Ast",-0.042,0.38,0.37,0.25
+305,"Animal.1382",21,"Tell Mozan",5,"EBA",6,"Ast",-0.073,0.43,0.4,0.16
+306,"Animal.1383",21,"Tell Mozan",5,"EBA",6,"Ast",-0.02,0.32,0.35,0.33
+307,"Animal.1384",21,"Tell Mozan",5,"EBA",6,"Ast",0.037,0.15,0.25,0.61
+308,"Animal.1385",21,"Tell Mozan",5,"EBA",6,"Ast",-0.129,0.47,0.44,0.09
+309,"Animal.1386",21,"Tell Mozan",5,"EBA",6,"Ast",-0.1,0.46,0.42,0.12
+310,"Animal.1387",21,"Tell Mozan",5,"EBA",6,"Ast",-0.135,0.47,0.44,0.09
+311,"Animal.1388",21,"Tell Mozan",5,"EBA",6,"Ast",-0.128,0.47,0.44,0.09
+312,"Animal.1389",21,"Tell Mozan",5,"EBA",6,"Ast",0.096,0.04,0.16,0.8
+313,"Animal.139",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.03,0.12,0.54,0.33
+314,"Animal.1390",21,"Tell Mozan",5,"EBA",6,"Ast",-0.063,0.42,0.39,0.19
+315,"Animal.1391",21,"Tell Mozan",5,"EBA",6,"Ast",-0.047,0.39,0.38,0.23
+316,"Animal.1392",21,"Tell Mozan",5,"EBA",6,"Ast",-0.052,0.4,0.38,0.22
+317,"Animal.1393",21,"Tell Mozan",5,"EBA",6,"Ast",-0.117,0.47,0.43,0.1
+318,"Animal.1394",21,"Tell Mozan",5,"EBA",6,"Ast",0.046,0.12,0.23,0.65
+319,"Animal.1395",21,"Tell Mozan",5,"EBA",6,"Ast",-0.052,0.4,0.38,0.22
+320,"Animal.1396",21,"Tell Mozan",5,"EBA",6,"Ast",0.021,0.19,0.27,0.53
+321,"Animal.1397",21,"Tell Mozan",5,"EBA",6,"Ast",-0.01,0.29,0.33,0.38
+322,"Animal.1398",21,"Tell Mozan",5,"EBA",6,"Ast",-0.095,0.46,0.42,0.13
+323,"Animal.1399",21,"Tell Mozan",5,"EBA",6,"Ast",-0.036,0.37,0.37,0.27
+324,"Animal.14",25,"Tell Surezha",3,"LC 1-3",7,"Cal",0.114,0.02,0.52,0.46
+325,"Animal.140",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.017,0.14,0.57,0.29
+326,"Animal.1400",21,"Tell Mozan",5,"EBA",6,"Ast",-0.063,0.42,0.39,0.19
+327,"Animal.1401",21,"Tell Mozan",5,"EBA",6,"Ast",-0.052,0.4,0.38,0.22
+328,"Animal.1402",21,"Tell Mozan",5,"EBA",8,"Mtt",0.102,0,0.27,0.73
+329,"Animal.1403",21,"Tell Mozan",5,"EBA",8,"Mtt",0.058,0,0.39,0.61
+330,"Animal.1404",21,"Tell Mozan",5,"EBA",8,"Mtt",0,0,0.6,0.4
+331,"Animal.1405",21,"Tell Mozan",5,"EBA",8,"Mtt",-0.008,0,0.63,0.37
+332,"Animal.1406",21,"Tell Mozan",5,"EBA",8,"Mtt",-0.004,0,0.62,0.38
+333,"Animal.1407",21,"Tell Mozan",5,"EBA",8,"Mtt",0.087,0,0.31,0.69
+334,"Animal.1408",21,"Tell Mozan",5,"EBA",8,"Mtt",0.08,0,0.33,0.67
+335,"Animal.141",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.008,0.15,0.59,0.26
+336,"Animal.142",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.049,0.1,0.48,0.42
+337,"Animal.143",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.038,0.11,0.52,0.37
+338,"Animal.144",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.05,0.1,0.48,0.42
+339,"Animal.145",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.04,0.11,0.51,0.38
+340,"Animal.146",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.055,0.09,0.46,0.44
+341,"Animal.147",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.052,0.1,0.48,0.43
+342,"Animal.148",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.051,0.1,0.48,0.43
+343,"Animal.149",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.065,0.08,0.43,0.49
+344,"Animal.150",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.071,0.07,0.41,0.51
+345,"Animal.151",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.073,0.07,0.41,0.52
+346,"Animal.152",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.082,0.06,0.37,0.56
+347,"Animal.153",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.084,0.06,0.37,0.57
+348,"Animal.154",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.07,0.08,0.42,0.51
+349,"Animal.155",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.091,0.05,0.34,0.6
+350,"Animal.156",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.108,0.04,0.29,0.67
+351,"Animal.157",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.086,0.06,0.36,0.58
+352,"Animal.158",16,"Sabi Abyad",2,"Halaf",1,"Hum_dist",0.118,0.04,0.26,0.71
+353,"Animal.159",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.078,0.23,0.65,0.11
+354,"Animal.16",25,"Tell Surezha",3,"LC 1-3",7,"Cal",0.051,0.04,0.7,0.26
+355,"Animal.160",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.038,0.18,0.66,0.16
+356,"Animal.161",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.022,0.16,0.65,0.19
+357,"Animal.162",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.016,0.15,0.64,0.21
+358,"Animal.163",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.004,0.13,0.61,0.27
+359,"Animal.164",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.048,0.2,0.66,0.15
+360,"Animal.165",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.019,0.11,0.57,0.32
+361,"Animal.166",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.01,0.12,0.59,0.28
+362,"Animal.167",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.001,0.13,0.62,0.25
+363,"Animal.168",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.012,0.15,0.63,0.22
+364,"Animal.169",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.004,0.14,0.62,0.24
+365,"Animal.17",25,"Tell Surezha",3,"LC 1-3",1,"Hum_dist",0.063,0.31,0.55,0.14
+366,"Animal.170",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.004,0.13,0.61,0.26
+367,"Animal.171",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.013,0.12,0.59,0.29
+368,"Animal.172",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.013,0.12,0.59,0.29
+369,"Animal.173",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.018,0.11,0.57,0.31
+370,"Animal.174",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.009,0.12,0.59,0.28
+371,"Animal.175",17,"Sabi Abyad",1,"PN",1,"Hum_dist",-0.001,0.14,0.62,0.25
+372,"Animal.176",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.029,0.1,0.54,0.36
+373,"Animal.177",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.034,0.1,0.53,0.38
+374,"Animal.178",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.017,0.11,0.58,0.31
+375,"Animal.179",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.029,0.1,0.54,0.36
+376,"Animal.18",25,"Tell Surezha",3,"LC 1-3",1,"Hum_dist",0.168,0.12,0.37,0.51
+377,"Animal.180",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.025,0.1,0.55,0.34
+378,"Animal.181",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.048,0.08,0.48,0.44
+379,"Animal.182",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.021,0.11,0.56,0.33
+380,"Animal.183",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.041,0.09,0.5,0.41
+381,"Animal.184",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.057,0.07,0.44,0.49
+382,"Animal.185",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.047,0.08,0.48,0.44
+383,"Animal.186",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.065,0.06,0.41,0.53
+384,"Animal.187",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.089,0.04,0.31,0.64
+385,"Animal.188",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.098,0.04,0.28,0.69
+386,"Animal.189",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.089,0.04,0.31,0.64
+387,"Animal.19",25,"Tell Surezha",3,"LC 1-3",1,"Hum_dist",0.233,0.04,0.2,0.76
+388,"Animal.190",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.093,0.04,0.29,0.67
+389,"Animal.191",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.107,0.03,0.24,0.73
+390,"Animal.192",17,"Sabi Abyad",1,"PN",1,"Hum_dist",0.162,0.01,0.1,0.89
+391,"Animal.193",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",-0.004,0,0.66,0.34
+392,"Animal.194",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",0.023,0,0.56,0.44
+393,"Animal.195",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",-0.081,0.41,0.47,0.11
+394,"Animal.196",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",-0.044,0.4,0.47,0.12
+395,"Animal.197",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",-0.04,0.4,0.47,0.13
+396,"Animal.198",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",-0.031,0.39,0.48,0.13
+397,"Animal.199",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",-0.021,0.38,0.48,0.15
+398,"Animal.2",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.173,0.45,0.25,0.3
+399,"Animal.20",25,"Tell Surezha",3,"LC 1-3",4,"Mtc",0.071,0,0.72,0.28
+400,"Animal.200",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.008,0.33,0.47,0.2
+401,"Animal.201",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.011,0.33,0.47,0.2
+402,"Animal.202",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",0.04,0,0.49,0.51
+403,"Animal.203",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.058,0.22,0.42,0.36
+404,"Animal.204",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.084,0.16,0.36,0.48
+405,"Animal.205",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.1,0.12,0.32,0.56
+406,"Animal.206",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.103,0.12,0.31,0.57
+407,"Animal.207",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.134,0.07,0.23,0.7
+408,"Animal.208",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",-0.04,0,0.77,0.23
+409,"Animal.209",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",-0.04,0,0.77,0.23
+410,"Animal.21",25,"Tell Surezha",3,"LC 1-3",4,"Mtc",0.15,0,0.42,0.58
+411,"Animal.210",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",-0.033,0,0.75,0.25
+412,"Animal.211",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",-0.034,0,0.75,0.25
+413,"Animal.212",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",0.018,0,0.58,0.42
+414,"Animal.213",16,"Sabi Abyad",2,"Halaf",3,"Rad_dist",0.093,0,0.28,0.72
+415,"Animal.214",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",-0.058,0.41,0.47,0.12
+416,"Animal.215",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",-0.016,0.37,0.48,0.15
+417,"Animal.216",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.02,0.31,0.47,0.23
+418,"Animal.217",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.028,0.29,0.46,0.25
+419,"Animal.218",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.046,0.25,0.44,0.31
+420,"Animal.219",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.052,0.24,0.43,0.34
+421,"Animal.22",25,"Tell Surezha",3,"LC 1-3",4,"Mtc",0.111,0,0.57,0.43
+422,"Animal.220",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.06,0.21,0.41,0.37
+423,"Animal.221",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.084,0.16,0.36,0.48
+424,"Animal.222",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.1,0.13,0.32,0.55
+425,"Animal.223",16,"Sabi Abyad",2,"Halaf",2,"Rad_prox",0.315,0,0.11,0.89
+426,"Animal.224",17,"Sabi Abyad",1,"PN",3,"Rad_dist",-0.062,0,0.81,0.19
+427,"Animal.225",17,"Sabi Abyad",1,"PN",3,"Rad_dist",-0.062,0,0.82,0.18
+428,"Animal.226",17,"Sabi Abyad",1,"PN",3,"Rad_dist",-0.033,0,0.75,0.25
+429,"Animal.227",17,"Sabi Abyad",1,"PN",3,"Rad_dist",-0.014,0,0.69,0.31
+430,"Animal.228",17,"Sabi Abyad",1,"PN",3,"Rad_dist",-0.001,0,0.65,0.35
+431,"Animal.229",17,"Sabi Abyad",1,"PN",3,"Rad_dist",0.027,0,0.53,0.47
+432,"Animal.23",25,"Tell Surezha",3,"LC 1-3",8,"Mtt",0.158,0,0.38,0.62
+433,"Animal.230",17,"Sabi Abyad",1,"PN",3,"Rad_dist",0.036,0,0.49,0.51
+434,"Animal.231",17,"Sabi Abyad",1,"PN",3,"Rad_dist",0.045,0,0.45,0.55
+435,"Animal.232",17,"Sabi Abyad",1,"PN",3,"Rad_dist",0.093,0,0.26,0.74
+436,"Animal.233",17,"Sabi Abyad",1,"PN",2,"Rad_prox",-0.074,0.4,0.5,0.1
+437,"Animal.234",17,"Sabi Abyad",1,"PN",2,"Rad_prox",-0.052,0.38,0.51,0.12
+438,"Animal.235",17,"Sabi Abyad",1,"PN",2,"Rad_prox",-0.031,0.34,0.51,0.14
+439,"Animal.236",17,"Sabi Abyad",1,"PN",2,"Rad_prox",-0.022,0.33,0.51,0.16
+440,"Animal.237",17,"Sabi Abyad",1,"PN",2,"Rad_prox",-0.009,0.31,0.51,0.19
+441,"Animal.238",17,"Sabi Abyad",1,"PN",2,"Rad_prox",-0.004,0.3,0.5,0.2
+442,"Animal.239",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.003,0.28,0.5,0.22
+443,"Animal.24",25,"Tell Surezha",3,"LC 1-3",8,"Mtt",0.078,0,0.67,0.33
+444,"Animal.240",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.008,0.27,0.49,0.23
+445,"Animal.241",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.028,0.23,0.47,0.3
+446,"Animal.242",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.028,0.23,0.47,0.3
+447,"Animal.243",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.031,0.22,0.46,0.32
+448,"Animal.244",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.031,0.22,0.46,0.32
+449,"Animal.245",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.083,0.12,0.33,0.56
+450,"Animal.246",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.093,0.1,0.3,0.61
+451,"Animal.247",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.096,0.09,0.29,0.62
+452,"Animal.248",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.097,0.09,0.29,0.62
+453,"Animal.249",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.129,0.05,0.2,0.76
+454,"Animal.25",25,"Tell Surezha",3,"LC 1-3",2,"Rad_prox",0.07,0.43,0.37,0.2
+455,"Animal.250",17,"Sabi Abyad",1,"PN",2,"Rad_prox",0.137,0.04,0.18,0.78
+456,"Animal.251",16,"Sabi Abyad",2,"Halaf",4,"Mtc",0.075,0,0.42,0.58
+457,"Animal.258",16,"Sabi Abyad",2,"Halaf",4,"Mtc",-0.057,0,0.84,0.16
+458,"Animal.259",16,"Sabi Abyad",2,"Halaf",4,"Mtc",-0.046,0,0.82,0.18
+459,"Animal.26",25,"Tell Surezha",3,"LC 1-3",2,"Rad_prox",0.099,0.36,0.35,0.29
+460,"Animal.260",16,"Sabi Abyad",2,"Halaf",4,"Mtc",-0.004,0,0.73,0.27
+461,"Animal.261",16,"Sabi Abyad",2,"Halaf",4,"Mtc",0.029,0,0.61,0.39
+462,"Animal.262",16,"Sabi Abyad",2,"Halaf",4,"Mtc",0.05,0,0.53,0.47
+463,"Animal.263",16,"Sabi Abyad",2,"Halaf",4,"Mtc",0.057,0,0.5,0.5
+464,"Animal.264",16,"Sabi Abyad",2,"Halaf",4,"Mtc",0.078,0,0.41,0.59
+465,"Animal.265",16,"Sabi Abyad",2,"Halaf",4,"Mtc",0.081,0,0.39,0.61
+466,"Animal.266",16,"Sabi Abyad",2,"Halaf",4,"Mtc",0.095,0,0.34,0.66
+467,"Animal.268",17,"Sabi Abyad",1,"PN",4,"Mtc",0.008,0,0.76,0.24
+468,"Animal.269",17,"Sabi Abyad",1,"PN",4,"Mtc",0.046,0,0.64,0.36
+469,"Animal.27",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.104,0.59,0.3,0.11
+470,"Animal.270",17,"Sabi Abyad",1,"PN",4,"Mtc",0.063,0,0.57,0.43
+471,"Animal.271",17,"Sabi Abyad",1,"PN",4,"Mtc",0.07,0,0.54,0.46
+472,"Animal.272",17,"Sabi Abyad",1,"PN",4,"Mtc",0.074,0,0.53,0.47
+473,"Animal.273",17,"Sabi Abyad",1,"PN",4,"Mtc",0.154,0,0.2,0.8
+474,"Animal.274",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.042,0.42,0.36,0.21
+475,"Animal.275",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.183,0.04,0.12,0.83
+476,"Animal.276",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.105,0.23,0.27,0.5
+477,"Animal.277",16,"Sabi Abyad",2,"Halaf",6,"Ast",-0.036,0.54,0.38,0.08
+478,"Animal.278",16,"Sabi Abyad",2,"Halaf",6,"Ast",-0.04,0.54,0.38,0.08
+479,"Animal.279",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.028,0.45,0.37,0.17
+480,"Animal.28",25,"Tell Surezha",3,"LC 1-3",3,"Rad_dist",0.097,0,0.58,0.42
+481,"Animal.280",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.028,0.45,0.37,0.17
+482,"Animal.281",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.014,0.48,0.38,0.14
+483,"Animal.282",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.038,0.43,0.37,0.2
+484,"Animal.283",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.014,0.48,0.38,0.14
+485,"Animal.285",16,"Sabi Abyad",2,"Halaf",6,"Ast",0.038,0.43,0.37,0.2
+486,"Animal.286",17,"Sabi Abyad",1,"PN",6,"Ast",-0.022,0.51,0.4,0.09
+487,"Animal.287",17,"Sabi Abyad",1,"PN",6,"Ast",0.022,0.45,0.4,0.14
+488,"Animal.288",17,"Sabi Abyad",1,"PN",6,"Ast",0.003,0.48,0.41,0.11
+489,"Animal.289",17,"Sabi Abyad",1,"PN",6,"Ast",0.05,0.39,0.39,0.22
+490,"Animal.29",25,"Tell Surezha",3,"LC 1-3",2,"Rad_prox",0.027,0.5,0.38,0.11
+491,"Animal.290",17,"Sabi Abyad",1,"PN",6,"Ast",0.059,0.37,0.38,0.25
+492,"Animal.291",17,"Sabi Abyad",1,"PN",6,"Ast",-0.002,0.49,0.41,0.11
+493,"Animal.292",17,"Sabi Abyad",1,"PN",6,"Ast",0.088,0.3,0.33,0.37
+494,"Animal.293",17,"Sabi Abyad",1,"PN",6,"Ast",0.088,0.3,0.33,0.37
+495,"Animal.294",17,"Sabi Abyad",1,"PN",6,"Ast",0.134,0.17,0.23,0.61
+496,"Animal.295",17,"Sabi Abyad",1,"PN",6,"Ast",0.106,0.25,0.29,0.46
+497,"Animal.296",17,"Sabi Abyad",1,"PN",6,"Ast",0.083,0.31,0.34,0.35
+498,"Animal.297",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.08,0,0.43,0.57
+499,"Animal.298",16,"Sabi Abyad",2,"Halaf",7,"Cal",-0.049,0,0.81,0.19
+500,"Animal.299",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.011,0,0.66,0.34
+501,"Animal.3",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.118,0.57,0.3,0.13
+502,"Animal.30",25,"Tell Surezha",3,"LC 1-3",3,"Rad_dist",0.083,0,0.64,0.36
+503,"Animal.300",16,"Sabi Abyad",2,"Halaf",7,"Cal",-0.065,0,0.83,0.17
+504,"Animal.301",16,"Sabi Abyad",2,"Halaf",7,"Cal",-0.024,0,0.75,0.25
+505,"Animal.302",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.001,0,0.69,0.31
+506,"Animal.303",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.001,0,0.69,0.31
+507,"Animal.305",16,"Sabi Abyad",2,"Halaf",7,"Cal",-0.008,0,0.72,0.28
+508,"Animal.306",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.006,0,0.68,0.32
+509,"Animal.307",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.016,0,0.64,0.36
+510,"Animal.308",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.129,0,0.3,0.7
+511,"Animal.309",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.212,0,0.25,0.75
+512,"Animal.31",4,"El Kowm 2",1,"PN",1,"Hum_dist",-0.016,0.23,0.6,0.17
+513,"Animal.310",16,"Sabi Abyad",2,"Halaf",7,"Cal",0.153,0,0.27,0.73
+514,"Animal.311",17,"Sabi Abyad",1,"PN",7,"Cal",0.059,0,0.52,0.48
+515,"Animal.312",17,"Sabi Abyad",1,"PN",7,"Cal",-0.04,0,0.82,0.18
+516,"Animal.313",17,"Sabi Abyad",1,"PN",7,"Cal",0.078,0,0.46,0.54
+517,"Animal.314",17,"Sabi Abyad",1,"PN",7,"Cal",0.059,0,0.52,0.48
+518,"Animal.315",17,"Sabi Abyad",1,"PN",7,"Cal",0.103,0,0.38,0.62
+519,"Animal.316",16,"Sabi Abyad",2,"Halaf",8,"Mtt",-0.04,0,0.73,0.27
+520,"Animal.317",16,"Sabi Abyad",2,"Halaf",8,"Mtt",-0.04,0,0.73,0.27
+521,"Animal.318",16,"Sabi Abyad",2,"Halaf",8,"Mtt",-0.036,0,0.72,0.28
+522,"Animal.319",16,"Sabi Abyad",2,"Halaf",8,"Mtt",-0.036,0,0.71,0.29
+523,"Animal.32",4,"El Kowm 2",1,"PN",1,"Hum_dist",-0.016,0.23,0.6,0.17
+524,"Animal.320",16,"Sabi Abyad",2,"Halaf",8,"Mtt",-0.032,0,0.7,0.3
+525,"Animal.321",16,"Sabi Abyad",2,"Halaf",8,"Mtt",0.004,0,0.58,0.42
+526,"Animal.322",16,"Sabi Abyad",2,"Halaf",8,"Mtt",0.04,0,0.45,0.55
+527,"Animal.323",16,"Sabi Abyad",2,"Halaf",8,"Mtt",0.077,0,0.33,0.67
+528,"Animal.324",17,"Sabi Abyad",1,"PN",8,"Mtt",-0.016,0,0.73,0.27
+529,"Animal.325",17,"Sabi Abyad",1,"PN",8,"Mtt",-0.011,0,0.72,0.28
+530,"Animal.326",17,"Sabi Abyad",1,"PN",8,"Mtt",-0.012,0,0.72,0.28
+531,"Animal.327",17,"Sabi Abyad",1,"PN",8,"Mtt",-0.008,0,0.71,0.29
+532,"Animal.328",17,"Sabi Abyad",1,"PN",8,"Mtt",0.016,0,0.63,0.37
+533,"Animal.329",17,"Sabi Abyad",1,"PN",8,"Mtt",0.031,0,0.57,0.43
+534,"Animal.33",4,"El Kowm 2",1,"PN",1,"Hum_dist",0.049,0.13,0.49,0.38
+535,"Animal.330",17,"Sabi Abyad",1,"PN",8,"Mtt",0.035,0,0.56,0.44
+536,"Animal.331",17,"Sabi Abyad",1,"PN",8,"Mtt",0.039,0,0.54,0.46
+537,"Animal.332",17,"Sabi Abyad",1,"PN",8,"Mtt",0.075,0,0.4,0.6
+538,"Animal.333",17,"Sabi Abyad",1,"PN",8,"Mtt",0.141,0,0.21,0.79
+539,"Animal.334",18,"Tell Beydar",5,"EBA",8,"Mtt",0.133,0,0.32,0.68
+540,"Animal.335",18,"Tell Beydar",5,"EBA",8,"Mtt",0.037,0,0.69,0.31
+541,"Animal.336",18,"Tell Beydar",5,"EBA",8,"Mtt",0.017,0,0.76,0.24
+542,"Animal.337",18,"Tell Beydar",5,"EBA",8,"Mtt",0.025,0,0.73,0.27
+543,"Animal.338",18,"Tell Beydar",5,"EBA",8,"Mtt",0.064,0,0.58,0.42
+544,"Animal.339",18,"Tell Beydar",5,"EBA",8,"Mtt",0.116,0,0.38,0.62
+545,"Animal.34",4,"El Kowm 2",1,"PN",1,"Hum_dist",0.038,0.15,0.52,0.33
+546,"Animal.340",18,"Tell Beydar",5,"EBA",8,"Mtt",0.129,0,0.33,0.67
+547,"Animal.341",18,"Tell Beydar",5,"EBA",8,"Mtt",0.179,0,0.23,0.77
+548,"Animal.342",19,"Tell Beydar",3,"LC 1-3",6,"Ast",0.203,0.25,0.23,0.51
+549,"Animal.343",19,"Tell Beydar",3,"LC 1-3",6,"Ast",0.129,0.45,0.34,0.21
+550,"Animal.344",18,"Tell Beydar",5,"EBA",6,"Ast",-0.02,0.5,0.41,0.09
+551,"Animal.345",18,"Tell Beydar",5,"EBA",6,"Ast",-0.01,0.5,0.4,0.1
+552,"Animal.346",18,"Tell Beydar",5,"EBA",6,"Ast",0.02,0.49,0.39,0.12
+553,"Animal.347",18,"Tell Beydar",5,"EBA",6,"Ast",0.067,0.41,0.37,0.22
+554,"Animal.348",18,"Tell Beydar",5,"EBA",6,"Ast",0.096,0.33,0.34,0.33
+555,"Animal.349",18,"Tell Beydar",5,"EBA",6,"Ast",0.11,0.29,0.32,0.4
+556,"Animal.35",4,"El Kowm 2",1,"PN",1,"Hum_dist",0.078,0.1,0.4,0.51
+557,"Animal.350",18,"Tell Beydar",5,"EBA",6,"Ast",0.157,0.13,0.22,0.65
+558,"Animal.351",18,"Tell Beydar",5,"EBA",6,"Ast",0.205,0.04,0.13,0.82
+559,"Animal.352",18,"Tell Beydar",5,"EBA",6,"Ast",0.206,0.04,0.13,0.82
+560,"Animal.353",18,"Tell Beydar",5,"EBA",6,"Ast",0.234,0.02,0.11,0.87
+561,"Animal.354",18,"Tell Beydar",5,"EBA",6,"Ast",0.179,0.08,0.18,0.74
+562,"Animal.355",18,"Tell Beydar",5,"EBA",6,"Ast",0.188,0.07,0.16,0.77
+563,"Animal.36",4,"El Kowm 2",1,"PN",1,"Hum_dist",0.044,0.14,0.5,0.36
+564,"Animal.360",18,"Tell Beydar",5,"EBA",4,"Mtc",0.168,0,0.18,0.82
+565,"Animal.361",18,"Tell Beydar",5,"EBA",4,"Mtc",0.004,0,0.76,0.24
+566,"Animal.362",19,"Tell Beydar",3,"LC 1-3",2,"Rad_prox",0.065,0.36,0.43,0.2
+567,"Animal.363",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.258,0.01,0.11,0.89
+568,"Animal.364",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.008,0.36,0.5,0.14
+569,"Animal.365",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.086,0.23,0.42,0.36
+570,"Animal.366",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.09,0.22,0.41,0.37
+571,"Animal.367",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.15,0.09,0.27,0.64
+572,"Animal.368",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.015,0.35,0.5,0.15
+573,"Animal.37",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.064,0.19,0.57,0.24
+574,"Animal.374",6,"Gritille",1,"PPNB",1,"Hum_dist",0.123,0.05,0.32,0.63
+575,"Animal.375",6,"Gritille",1,"PPNB",1,"Hum_dist",-0.001,0.2,0.62,0.18
+576,"Animal.376",6,"Gritille",1,"PPNB",1,"Hum_dist",0.086,0.09,0.47,0.44
+577,"Animal.377",6,"Gritille",1,"PPNB",1,"Hum_dist",0.004,0.2,0.62,0.19
+578,"Animal.378",6,"Gritille",1,"PPNB",1,"Hum_dist",0.099,0.08,0.42,0.51
+579,"Animal.379",6,"Gritille",1,"PPNB",1,"Hum_dist",0.035,0.16,0.59,0.25
+580,"Animal.38",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.098,0.14,0.5,0.36
+581,"Animal.380",6,"Gritille",1,"PPNB",1,"Hum_dist",0.082,0.09,0.48,0.42
+582,"Animal.381",6,"Gritille",1,"PPNB",1,"Hum_dist",0.067,0.11,0.53,0.36
+583,"Animal.382",6,"Gritille",1,"PPNB",1,"Hum_dist",0.315,0,0.04,0.96
+584,"Animal.383",6,"Gritille",1,"PPNB",1,"Hum_dist",-0.01,0.21,0.61,0.17
+585,"Animal.384",6,"Gritille",1,"PPNB",1,"Hum_dist",0.147,0.03,0.23,0.74
+586,"Animal.385",6,"Gritille",1,"PPNB",1,"Hum_dist",0.054,0.13,0.56,0.31
+587,"Animal.386",6,"Gritille",1,"PPNB",1,"Hum_dist",0.071,0.11,0.52,0.38
+588,"Animal.387",6,"Gritille",1,"PPNB",1,"Hum_dist",0.122,0.05,0.32,0.62
+589,"Animal.388",6,"Gritille",1,"PPNB",1,"Hum_dist",0.055,0.13,0.55,0.32
+590,"Animal.389",6,"Gritille",1,"PPNB",1,"Hum_dist",0.045,0.14,0.58,0.28
+591,"Animal.39",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.106,0.12,0.47,0.4
+592,"Animal.390",6,"Gritille",1,"PPNB",1,"Hum_dist",0.055,0.13,0.56,0.31
+593,"Animal.391",6,"Gritille",1,"PPNB",1,"Hum_dist",-0.003,0.21,0.61,0.18
+594,"Animal.392",6,"Gritille",1,"PPNB",1,"Hum_dist",0.093,0.08,0.44,0.48
+595,"Animal.393",6,"Gritille",1,"PPNB",1,"Hum_dist",0.04,0.15,0.59,0.27
+596,"Animal.394",6,"Gritille",1,"PPNB",1,"Hum_dist",-0.025,0.23,0.61,0.16
+597,"Animal.395",6,"Gritille",1,"PPNB",2,"Rad_prox",0.057,0.26,0.44,0.31
+598,"Animal.396",6,"Gritille",1,"PPNB",2,"Rad_prox",0.086,0.19,0.38,0.43
+599,"Animal.397",6,"Gritille",1,"PPNB",2,"Rad_prox",0.061,0.25,0.43,0.32
+600,"Animal.398",6,"Gritille",1,"PPNB",3,"Rad_dist",0.097,0,0.38,0.62
+601,"Animal.399",6,"Gritille",1,"PPNB",2,"Rad_prox",0.046,0.28,0.45,0.27
+602,"Animal.4",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.117,0.57,0.3,0.13
+603,"Animal.40",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.064,0.19,0.57,0.24
+604,"Animal.400",6,"Gritille",1,"PPNB",3,"Rad_dist",0.006,0,0.73,0.27
+605,"Animal.401",6,"Gritille",1,"PPNB",2,"Rad_prox",-0.036,0.43,0.47,0.11
+606,"Animal.402",6,"Gritille",1,"PPNB",2,"Rad_prox",0.058,0.26,0.44,0.31
+607,"Animal.403",6,"Gritille",1,"PPNB",2,"Rad_prox",-0.048,0.44,0.47,0.1
+608,"Animal.404",6,"Gritille",1,"PPNB",2,"Rad_prox",0.044,0.29,0.45,0.25
+609,"Animal.405",6,"Gritille",1,"PPNB",2,"Rad_prox",-0.057,0.44,0.46,0.1
+610,"Animal.406",6,"Gritille",1,"PPNB",2,"Rad_prox",0.127,0.11,0.27,0.62
+611,"Animal.407",6,"Gritille",1,"PPNB",2,"Rad_prox",0.15,0.07,0.21,0.72
+612,"Animal.408",6,"Gritille",1,"PPNB",2,"Rad_prox",0.05,0.28,0.45,0.28
+613,"Animal.409",6,"Gritille",1,"PPNB",2,"Rad_prox",0.102,0.16,0.34,0.5
+614,"Animal.41",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.097,0.14,0.5,0.36
+615,"Animal.410",6,"Gritille",1,"PPNB",2,"Rad_prox",0.023,0.33,0.47,0.2
+616,"Animal.411",6,"Gritille",1,"PPNB",2,"Rad_prox",0.126,0.11,0.27,0.62
+617,"Animal.412",6,"Gritille",1,"PPNB",2,"Rad_prox",0.1,0.16,0.34,0.49
+618,"Animal.413",6,"Gritille",1,"PPNB",2,"Rad_prox",0.121,0.12,0.28,0.6
+619,"Animal.414",6,"Gritille",1,"PPNB",2,"Rad_prox",0.063,0.25,0.43,0.33
+620,"Animal.415",6,"Gritille",1,"PPNB",2,"Rad_prox",0.072,0.22,0.41,0.37
+621,"Animal.416",6,"Gritille",1,"PPNB",2,"Rad_prox",0.08,0.21,0.39,0.4
+622,"Animal.417",6,"Gritille",1,"PPNB",2,"Rad_prox",0.082,0.2,0.39,0.41
+623,"Animal.418",6,"Gritille",1,"PPNB",7,"Cal",0.017,0,0.65,0.35
+624,"Animal.419",6,"Gritille",1,"PPNB",7,"Cal",0.017,0,0.65,0.35
+625,"Animal.42",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.036,0.23,0.6,0.17
+626,"Animal.420",6,"Gritille",1,"PPNB",7,"Cal",0.149,0,0.25,0.75
+627,"Animal.421",6,"Gritille",1,"PPNB",7,"Cal",0.018,0,0.65,0.35
+628,"Animal.422",6,"Gritille",1,"PPNB",7,"Cal",-0.057,0,0.82,0.18
+629,"Animal.423",6,"Gritille",1,"PPNB",7,"Cal",-0.032,0,0.78,0.22
+630,"Animal.424",6,"Gritille",1,"PPNB",7,"Cal",0.064,0,0.48,0.52
+631,"Animal.425",6,"Gritille",1,"PPNB",7,"Cal",0.018,0,0.64,0.36
+632,"Animal.426",6,"Gritille",1,"PPNB",7,"Cal",0.161,0,0.23,0.77
+633,"Animal.427",6,"Gritille",1,"PPNB",6,"Ast",0.045,0.49,0.38,0.12
+634,"Animal.428",6,"Gritille",1,"PPNB",6,"Ast",-0.002,0.55,0.36,0.09
+635,"Animal.429",6,"Gritille",1,"PPNB",6,"Ast",0.081,0.43,0.37,0.21
+636,"Animal.43",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.092,0.15,0.51,0.34
+637,"Animal.430",6,"Gritille",1,"PPNB",6,"Ast",0.008,0.54,0.37,0.09
+638,"Animal.431",6,"Gritille",1,"PPNB",6,"Ast",0.17,0.15,0.18,0.67
+639,"Animal.433",6,"Gritille",1,"PPNB",6,"Ast",0.048,0.49,0.38,0.13
+640,"Animal.434",6,"Gritille",1,"PPNB",6,"Ast",0.051,0.48,0.38,0.14
+641,"Animal.435",6,"Gritille",1,"PPNB",6,"Ast",0.077,0.43,0.37,0.2
+642,"Animal.436",6,"Gritille",1,"PPNB",6,"Ast",0.072,0.44,0.37,0.18
+643,"Animal.437",6,"Gritille",1,"PPNB",6,"Ast",0.069,0.45,0.37,0.18
+644,"Animal.438",6,"Gritille",1,"PPNB",6,"Ast",0.054,0.48,0.38,0.14
+645,"Animal.44",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.087,0.15,0.53,0.32
+646,"Animal.440",6,"Gritille",1,"PPNB",6,"Ast",-0.007,0.55,0.36,0.09
+647,"Animal.441",6,"Gritille",1,"PPNB",6,"Ast",0.086,0.42,0.36,0.23
+648,"Animal.442",6,"Gritille",1,"PPNB",6,"Ast",0.091,0.4,0.35,0.24
+649,"Animal.444",6,"Gritille",1,"PPNB",6,"Ast",0.141,0.25,0.25,0.5
+650,"Animal.445",6,"Gritille",1,"PPNB",6,"Ast",0.145,0.23,0.25,0.52
+651,"Animal.446",6,"Gritille",1,"PPNB",6,"Ast",0.008,0.54,0.37,0.09
+652,"Animal.447",6,"Gritille",1,"PPNB",6,"Ast",0.09,0.4,0.35,0.24
+653,"Animal.448",6,"Gritille",1,"PPNB",6,"Ast",0.067,0.45,0.38,0.17
+654,"Animal.449",6,"Gritille",1,"PPNB",6,"Ast",0.072,0.45,0.37,0.18
+655,"Animal.45",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.033,0.23,0.6,0.16
+656,"Animal.450",6,"Gritille",1,"PPNB",6,"Ast",0.045,0.49,0.38,0.13
+657,"Animal.451",6,"Gritille",1,"PPNB",6,"Ast",0.022,0.53,0.38,0.1
+658,"Animal.452",6,"Gritille",1,"PPNB",6,"Ast",0.113,0.34,0.32,0.34
+659,"Animal.453",6,"Gritille",1,"PPNB",6,"Ast",0.072,0.45,0.37,0.18
+660,"Animal.454",6,"Gritille",1,"PPNB",6,"Ast",0.058,0.47,0.38,0.15
+661,"Animal.455",6,"Gritille",1,"PPNB",6,"Ast",0.072,0.44,0.37,0.18
+662,"Animal.456",6,"Gritille",1,"PPNB",6,"Ast",0.022,0.52,0.38,0.1
+663,"Animal.457",6,"Gritille",1,"PPNB",6,"Ast",0.05,0.49,0.38,0.13
+664,"Animal.458",6,"Gritille",1,"PPNB",6,"Ast",0.063,0.46,0.38,0.16
+665,"Animal.459",6,"Gritille",1,"PPNB",6,"Ast",0.068,0.45,0.38,0.17
+666,"Animal.46",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.068,0.18,0.57,0.25
+667,"Animal.461",6,"Gritille",1,"PPNB",6,"Ast",0.054,0.48,0.38,0.14
+668,"Animal.462",6,"Gritille",1,"PPNB",6,"Ast",0.104,0.37,0.33,0.3
+669,"Animal.463",6,"Gritille",1,"PPNB",6,"Ast",0.132,0.28,0.28,0.45
+670,"Animal.464",6,"Gritille",1,"PPNB",6,"Ast",0.008,0.54,0.37,0.09
+671,"Animal.465",6,"Gritille",1,"PPNB",6,"Ast",0.117,0.33,0.31,0.36
+672,"Animal.466",6,"Gritille",1,"PPNB",6,"Ast",0.091,0.4,0.35,0.24
+673,"Animal.468",6,"Gritille",1,"PPNB",6,"Ast",0.122,0.31,0.3,0.39
+674,"Animal.469",6,"Gritille",1,"PPNB",6,"Ast",0.082,0.42,0.37,0.21
+675,"Animal.47",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.039,0.23,0.6,0.17
+676,"Animal.470",6,"Gritille",1,"PPNB",6,"Ast",0.045,0.49,0.38,0.13
+677,"Animal.471",6,"Gritille",1,"PPNB",6,"Ast",0.045,0.49,0.38,0.13
+678,"Animal.472",6,"Gritille",1,"PPNB",6,"Ast",0.104,0.37,0.33,0.3
+679,"Animal.473",6,"Gritille",1,"PPNB",6,"Ast",0.079,0.43,0.37,0.2
+680,"Animal.474",6,"Gritille",1,"PPNB",6,"Ast",0.022,0.53,0.37,0.1
+681,"Animal.475",6,"Gritille",1,"PPNB",6,"Ast",0.113,0.34,0.32,0.34
+682,"Animal.4765",15,"Rubeidheh",4,"LC 4-5",1,"Hum_dist",0.12,0.14,0.57,0.29
+683,"Animal.4766",15,"Rubeidheh",4,"LC 4-5",1,"Hum_dist",0.091,0.18,0.62,0.2
+684,"Animal.4767",15,"Rubeidheh",4,"LC 4-5",1,"Hum_dist",0.233,0.03,0.22,0.75
+685,"Animal.4768",15,"Rubeidheh",4,"LC 4-5",1,"Hum_dist",0.198,0.05,0.33,0.62
+686,"Animal.4769",15,"Rubeidheh",4,"LC 4-5",1,"Hum_dist",0.092,0.18,0.62,0.2
+687,"Animal.477",6,"Gritille",1,"PPNB",6,"Ast",0.081,0.43,0.37,0.21
+688,"Animal.4770",15,"Rubeidheh",4,"LC 4-5",2,"Rad_prox",0.101,0.32,0.48,0.2
+689,"Animal.4771",15,"Rubeidheh",4,"LC 4-5",2,"Rad_prox",0.19,0.14,0.32,0.54
+690,"Animal.4772",15,"Rubeidheh",4,"LC 4-5",2,"Rad_prox",0.096,0.33,0.48,0.19
+691,"Animal.4773",15,"Rubeidheh",4,"LC 4-5",6,"Ast",0.203,0.32,0.31,0.37
+692,"Animal.4774",15,"Rubeidheh",4,"LC 4-5",6,"Ast",0.215,0.28,0.29,0.43
+693,"Animal.4775",15,"Rubeidheh",4,"LC 4-5",6,"Ast",0.131,0.47,0.39,0.14
+694,"Animal.4776",15,"Rubeidheh",4,"LC 4-5",6,"Ast",0.19,0.35,0.33,0.32
+695,"Animal.4777",15,"Rubeidheh",4,"LC 4-5",6,"Ast",0.144,0.45,0.38,0.17
+696,"Animal.4778",15,"Rubeidheh",4,"LC 4-5",8,"Mtt",0.115,0,0.67,0.33
+697,"Animal.4779",15,"Rubeidheh",4,"LC 4-5",8,"Mtt",0.205,0.01,0.34,0.66
+698,"Animal.478",6,"Gritille",1,"PPNB",6,"Ast",0.017,0.53,0.37,0.1
+699,"Animal.4780",25,"Tell Surezha",3,"LC 1-3",9,"PH1",0.066,0,0.72,0.28
+700,"Animal.4781",25,"Tell Surezha",3,"LC 1-3",9,"PH1",0.097,0,0.62,0.38
+701,"Animal.4782",25,"Tell Surezha",3,"LC 1-3",9,"PH1",0.126,0,0.51,0.49
+702,"Animal.4783",25,"Tell Surezha",3,"LC 1-3",10,"PH2",-0.036,0,0.87,0.13
+703,"Animal.4784",25,"Tell Surezha",3,"LC 1-3",10,"PH2",0.196,0,0.31,0.69
+704,"Animal.4785",25,"Tell Surezha",3,"LC 1-3",10,"PH2",0.177,0,0.36,0.64
+705,"Animal.4786",25,"Tell Surezha",3,"LC 1-3",5,"Tib",0.169,0,0.39,0.61
+706,"Animal.4787",25,"Tell Surezha",3,"LC 1-3",5,"Tib",0.104,0,0.63,0.37
+707,"Animal.4788",25,"Tell Surezha",3,"LC 1-3",5,"Tib",0.116,0.06,0.55,0.39
+708,"Animal.4789",25,"Tell Surezha",3,"LC 1-3",5,"Tib",0.113,0,0.6,0.4
+709,"Animal.479",6,"Gritille",1,"PPNB",6,"Ast",0.164,0.17,0.2,0.63
+710,"Animal.4790",25,"Tell Surezha",3,"LC 1-3",5,"Tib",0.138,0.04,0.48,0.48
+711,"Animal.4791",25,"Tell Surezha",3,"LC 1-3",5,"Tib",0.239,0,0.21,0.79
+712,"Animal.4792",25,"Tell Surezha",3,"LC 1-3",5,"Tib",0.17,0,0.38,0.62
+713,"Animal.4793",25,"Tell Surezha",3,"LC 1-3",5,"Tib",0.046,0,0.81,0.19
+714,"Animal.4794",4,"El Kowm 2",1,"PN",9,"PH1",0.192,0,0.22,0.78
+715,"Animal.4795",5,"El Kowm 2",1,"PPNB",9,"PH1",0.142,0,0.48,0.52
+716,"Animal.4796",5,"El Kowm 2",1,"PPNB",9,"PH1",0.155,0,0.43,0.57
+717,"Animal.4797",5,"El Kowm 2",1,"PPNB",9,"PH1",0.202,0,0.23,0.77
+718,"Animal.4798",5,"El Kowm 2",1,"PPNB",9,"PH1",0.083,0,0.71,0.29
+719,"Animal.4799",5,"El Kowm 2",1,"PPNB",9,"PH1",0.084,0,0.71,0.29
+720,"Animal.48",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.04,0.22,0.6,0.18
+721,"Animal.480",6,"Gritille",1,"PPNB",6,"Ast",0.127,0.3,0.29,0.42
+722,"Animal.4800",5,"El Kowm 2",1,"PPNB",10,"PH2",0.118,0,0.53,0.47
+723,"Animal.4801",5,"El Kowm 2",1,"PPNB",10,"PH2",0.085,0,0.65,0.35
+724,"Animal.4802",5,"El Kowm 2",1,"PPNB",10,"PH2",0.136,0,0.47,0.53
+725,"Animal.4803",5,"El Kowm 2",1,"PPNB",10,"PH2",0.063,0,0.72,0.28
+726,"Animal.4804",5,"El Kowm 2",1,"PPNB",10,"PH2",0.115,0,0.55,0.45
+727,"Animal.4805",5,"El Kowm 2",1,"PPNB",10,"PH2",0.164,0,0.37,0.63
+728,"Animal.4806",5,"El Kowm 2",1,"PPNB",10,"PH2",0.107,0,0.57,0.43
+729,"Animal.4807",5,"El Kowm 2",1,"PPNB",10,"PH2",0.112,0,0.56,0.44
+730,"Animal.4808",17,"Sabi Abyad",1,"PN",9,"PH1",0.018,0,0.71,0.29
+731,"Animal.4809",17,"Sabi Abyad",1,"PN",9,"PH1",0.104,0,0.37,0.63
+732,"Animal.481",6,"Gritille",1,"PPNB",6,"Ast",0.203,0.07,0.11,0.82
+733,"Animal.4810",17,"Sabi Abyad",1,"PN",9,"PH1",0.059,0,0.57,0.43
+734,"Animal.4811",16,"Sabi Abyad",2,"Halaf",10,"PH2",0.073,0,0.5,0.5
+735,"Animal.4812",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",-0.048,0,0.83,0.17
+736,"Animal.4813",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.04,0,0.62,0.38
+737,"Animal.4814",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.031,0,0.66,0.34
+738,"Animal.4815",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.006,0,0.74,0.26
+739,"Animal.4816",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.064,0,0.52,0.48
+740,"Animal.4817",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",-0.046,0,0.83,0.17
+741,"Animal.4818",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.135,0,0.23,0.77
+742,"Animal.4819",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.098,0,0.37,0.63
+743,"Animal.482",6,"Gritille",1,"PPNB",6,"Ast",0.068,0.45,0.38,0.17
+744,"Animal.4820",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.08,0,0.45,0.55
+745,"Animal.4821",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.105,0,0.34,0.66
+746,"Animal.4822",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.058,0,0.55,0.45
+747,"Animal.4823",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.141,0,0.21,0.79
+748,"Animal.4824",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.098,0,0.37,0.63
+749,"Animal.4825",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.048,0,0.59,0.41
+750,"Animal.4826",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",-0.015,0,0.79,0.21
+751,"Animal.4827",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.019,0,0.7,0.3
+752,"Animal.4828",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.124,0,0.27,0.73
+753,"Animal.4829",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.076,0,0.47,0.53
+754,"Animal.483",6,"Gritille",1,"PPNB",6,"Ast",0.068,0.45,0.37,0.17
+755,"Animal.4830",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.146,0,0.2,0.8
+756,"Animal.4831",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.078,0,0.46,0.54
+757,"Animal.4832",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.031,0,0.66,0.34
+758,"Animal.4833",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",-0.01,0,0.78,0.22
+759,"Animal.4834",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.102,0,0.36,0.64
+760,"Animal.4835",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.002,0,0.75,0.25
+761,"Animal.4836",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.043,0,0.61,0.39
+762,"Animal.4837",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",-0.011,0,0.78,0.22
+763,"Animal.4838",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",0.144,0,0.21,0.79
+764,"Animal.4839",24,"Tell Sabi Abyad (Op III)",1,"PN",9,"PH1",-0.013,0,0.78,0.22
+765,"Animal.484",6,"Gritille",1,"PPNB",6,"Ast",0.195,0.09,0.13,0.78
+766,"Animal.4840",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.064,0,0.55,0.45
+767,"Animal.4841",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.033,0,0.66,0.34
+768,"Animal.4842",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.141,0,0.29,0.71
+769,"Animal.4843",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.058,0,0.57,0.43
+770,"Animal.4844",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.046,0,0.62,0.38
+771,"Animal.4845",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.139,0,0.3,0.7
+772,"Animal.4846",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.053,0,0.59,0.41
+773,"Animal.4847",23,"Tell Sabi Abyad (Op III)",2,"Halaf",10,"PH2",0.079,0,0.49,0.51
+774,"Animal.4848",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.009,0,0.74,0.26
+775,"Animal.4849",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.028,0,0.68,0.32
+776,"Animal.485",6,"Gritille",1,"PPNB",6,"Ast",0.098,0.38,0.34,0.27
+777,"Animal.4850",24,"Tell Sabi Abyad (Op III)",1,"PN",10,"PH2",0.056,0,0.58,0.42
+778,"Animal.4851",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.074,0,0.88,0.12
+779,"Animal.4852",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.025,0,0.77,0.23
+780,"Animal.4853",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.077,0,0.4,0.6
+781,"Animal.4854",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.083,0,0.38,0.62
+782,"Animal.4855",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.057,0,0.47,0.53
+783,"Animal.4856",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.133,0,0.24,0.76
+784,"Animal.4857",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.016,0,0.63,0.37
+785,"Animal.4858",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.09,0,0.35,0.65
+786,"Animal.4859",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.043,0,0.52,0.48
+787,"Animal.486",6,"Gritille",1,"PPNB",6,"Ast",0.253,0.02,0.06,0.92
+788,"Animal.4860",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.047,0,0.83,0.17
+789,"Animal.4861",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.047,0,0.51,0.49
+790,"Animal.4862",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.005,0,0.67,0.33
+791,"Animal.4864",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.093,0,0.34,0.66
+792,"Animal.4865",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.043,0,0.52,0.48
+793,"Animal.4866",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.063,0,0.45,0.55
+794,"Animal.4867",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.05,0,0.5,0.5
+795,"Animal.4868",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.109,0,0.3,0.7
+796,"Animal.4869",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.133,0,0.24,0.76
+797,"Animal.487",6,"Gritille",1,"PPNB",4,"Mtc",0.036,0,0.59,0.41
+798,"Animal.4870",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.018,0,0.75,0.25
+799,"Animal.4871",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.05,0,0.5,0.5
+800,"Animal.4872",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.001,0,0.69,0.31
+801,"Animal.4873",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.035,0,0.8,0.2
+802,"Animal.4874",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.029,0,0.58,0.42
+803,"Animal.4875",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.145,0,0.22,0.78
+804,"Animal.4876",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.01,0,0.72,0.28
+805,"Animal.4877",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.019,0,0.62,0.38
+806,"Animal.4878",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.08,0,0.39,0.61
+807,"Animal.4879",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.08,0,0.38,0.62
+808,"Animal.488",6,"Gritille",1,"PPNB",4,"Mtc",0.009,0,0.68,0.32
+809,"Animal.4880",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.008,0,0.66,0.34
+810,"Animal.4881",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.103,0,0.31,0.69
+811,"Animal.4882",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.016,0,0.63,0.37
+812,"Animal.4884",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.001,0,0.69,0.31
+813,"Animal.4885",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.09,0,0.35,0.65
+814,"Animal.4886",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.093,0,0.34,0.66
+815,"Animal.4887",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.098,0,0.91,0.09
+816,"Animal.4888",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.067,0,0.43,0.57
+817,"Animal.4889",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.073,0,0.41,0.59
+818,"Animal.489",6,"Gritille",1,"PPNB",4,"Mtc",0.005,0,0.7,0.3
+819,"Animal.4890",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.015,0,0.63,0.37
+820,"Animal.4891",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.023,0,0.61,0.39
+821,"Animal.4892",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.03,0,0.58,0.42
+822,"Animal.4893",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.025,0,0.77,0.23
+823,"Animal.4894",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.089,0,0.9,0.1
+824,"Animal.4895",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.023,0,0.61,0.39
+825,"Animal.4896",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.043,0,0.52,0.48
+826,"Animal.4897",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.086,0,0.36,0.64
+827,"Animal.4898",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.001,0,0.69,0.31
+828,"Animal.4899",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.028,0,0.78,0.22
+829,"Animal.49",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.051,0.21,0.59,0.2
+830,"Animal.490",6,"Gritille",1,"PPNB",8,"Mtt",0.023,0,0.63,0.37
+831,"Animal.4900",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.033,0,0.56,0.44
+832,"Animal.4901",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.017,0,0.75,0.25
+833,"Animal.4902",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.086,0,0.36,0.64
+834,"Animal.4903",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.047,0,0.51,0.49
+835,"Animal.4904",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.017,0,0.75,0.25
+836,"Animal.4905",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.01,0,0.72,0.28
+837,"Animal.4906",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.033,0,0.56,0.44
+838,"Animal.4907",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.074,0,0.41,0.59
+839,"Animal.4908",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.103,0,0.31,0.69
+840,"Animal.4909",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.115,0,0.28,0.72
+841,"Animal.491",6,"Gritille",1,"PPNB",8,"Mtt",0.056,0,0.5,0.5
+842,"Animal.4910",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.005,0,0.67,0.33
+843,"Animal.4911",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.084,0,0.37,0.63
+844,"Animal.4912",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.096,0,0.33,0.67
+845,"Animal.4913",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.04,0,0.54,0.46
+846,"Animal.4914",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.043,0,0.52,0.48
+847,"Animal.4915",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.053,0,0.48,0.52
+848,"Animal.4916",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.019,0,0.62,0.38
+849,"Animal.4917",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.063,0,0.45,0.55
+850,"Animal.4918",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.021,0,0.76,0.24
+851,"Animal.492",6,"Gritille",1,"PPNB",8,"Mtt",0.061,0,0.48,0.52
+852,"Animal.4920",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.033,0,0.56,0.44
+853,"Animal.4921",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.169,0,0.19,0.81
+854,"Animal.4922",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.008,0,0.66,0.34
+855,"Animal.4923",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.06,0,0.46,0.54
+856,"Animal.4924",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.109,0,0.3,0.7
+857,"Animal.4925",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.05,0,0.5,0.5
+858,"Animal.4926",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.121,0,0.26,0.74
+859,"Animal.4927",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",-0.023,0,0.72,0.28
+860,"Animal.4928",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",-0.046,0,0.78,0.22
+861,"Animal.4929",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",0.037,0,0.5,0.5
+862,"Animal.493",6,"Gritille",1,"PPNB",8,"Mtt",0.062,0,0.48,0.52
+863,"Animal.4930",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.032,0,0.79,0.21
+864,"Animal.4931",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.109,0,0.3,0.7
+865,"Animal.4932",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.073,0,0.41,0.59
+866,"Animal.4933",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.033,0,0.56,0.44
+867,"Animal.4934",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.04,0,0.54,0.46
+868,"Animal.4935",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.115,0,0.28,0.72
+869,"Animal.4936",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.076,0,0.4,0.6
+870,"Animal.4937",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.118,0,0.27,0.73
+871,"Animal.4938",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.067,0,0.43,0.57
+872,"Animal.4939",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.021,0,0.76,0.24
+873,"Animal.494",6,"Gritille",1,"PPNB",8,"Mtt",-0.014,0,0.74,0.26
+874,"Animal.4940",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.001,0,0.69,0.31
+875,"Animal.4941",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.022,0,0.61,0.39
+876,"Animal.4942",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.06,0,0.46,0.54
+877,"Animal.4943",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.001,0,0.69,0.31
+878,"Animal.4944",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.014,0,0.74,0.26
+879,"Animal.4945",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.13,0,0.92,0.08
+880,"Animal.4946",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.008,0,0.66,0.34
+881,"Animal.4947",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.139,0,0.23,0.77
+882,"Animal.4948",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.151,0,0.21,0.79
+883,"Animal.4949",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.014,0,0.74,0.26
+884,"Animal.495",12,"Mezraa-Teleilat",1,"PPNB",3,"Rad_dist",-0.117,0,0.88,0.12
+885,"Animal.4950",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.003,0,0.7,0.3
+886,"Animal.4951",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.099,0,0.32,0.68
+887,"Animal.4952",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.073,0,0.41,0.59
+888,"Animal.4953",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.032,0,0.79,0.21
+889,"Animal.4954",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.043,0,0.52,0.48
+890,"Animal.4955",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.06,0,0.46,0.54
+891,"Animal.4956",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.077,0,0.4,0.6
+892,"Animal.4957",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.01,0,0.72,0.28
+893,"Animal.4958",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.074,0,0.4,0.6
+894,"Animal.4959",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.001,0,0.69,0.31
+895,"Animal.496",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.109,0.21,0.29,0.51
+896,"Animal.4960",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.057,0,0.47,0.53
+897,"Animal.4961",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",-0.097,0,0.91,0.09
+898,"Animal.4962",24,"Tell Sabi Abyad (Op III)",1,"PN",5,"Tib",0.128,0,0.25,0.75
+899,"Animal.4963",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",-0.009,0,0.67,0.33
+900,"Animal.4964",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",0.074,0,0.37,0.63
+901,"Animal.4965",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",0.081,0,0.35,0.65
+902,"Animal.4966",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",0.037,0,0.5,0.5
+903,"Animal.4967",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",0.002,0,0.63,0.37
+904,"Animal.4968",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",0.013,0,0.59,0.41
+905,"Animal.4969",23,"Tell Sabi Abyad (Op III)",2,"Halaf",5,"Tib",-0.009,0,0.68,0.32
+906,"Animal.497",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.005,0.47,0.4,0.13
+907,"Animal.4970",6,"Gritille",1,"PPNB",5,"Tib",0.137,0,0.26,0.74
+908,"Animal.4971",6,"Gritille",1,"PPNB",5,"Tib",0.022,0,0.7,0.3
+909,"Animal.4972",6,"Gritille",1,"PPNB",5,"Tib",0.09,0,0.43,0.57
+910,"Animal.4973",6,"Gritille",1,"PPNB",5,"Tib",0.146,0,0.24,0.76
+911,"Animal.4974",6,"Gritille",1,"PPNB",5,"Tib",0.019,0,0.71,0.29
+912,"Animal.4975",6,"Gritille",1,"PPNB",5,"Tib",0.056,0,0.57,0.43
+913,"Animal.4976",6,"Gritille",1,"PPNB",5,"Tib",0.096,0,0.41,0.59
+914,"Animal.4977",6,"Gritille",1,"PPNB",5,"Tib",0.111,0,0.35,0.65
+915,"Animal.4978",6,"Gritille",1,"PPNB",5,"Tib",0.095,0,0.41,0.59
+916,"Animal.4979",6,"Gritille",1,"PPNB",5,"Tib",-0.025,0,0.82,0.18
+917,"Animal.498",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.064,0,0.66,0.34
+918,"Animal.4980",6,"Gritille",1,"PPNB",5,"Tib",0.052,0,0.59,0.41
+919,"Animal.4981",6,"Gritille",1,"PPNB",5,"Tib",0.015,0,0.72,0.28
+920,"Animal.4982",6,"Gritille",1,"PPNB",5,"Tib",0.045,0,0.61,0.39
+921,"Animal.4983",6,"Gritille",1,"PPNB",9,"PH1",0.035,0,0.71,0.29
+922,"Animal.4984",6,"Gritille",1,"PPNB",9,"PH1",0.039,0,0.7,0.3
+923,"Animal.4985",6,"Gritille",1,"PPNB",9,"PH1",0.084,0,0.53,0.47
+924,"Animal.4986",6,"Gritille",1,"PPNB",9,"PH1",0.096,0,0.48,0.52
+925,"Animal.4987",6,"Gritille",1,"PPNB",9,"PH1",0.076,0,0.56,0.44
+926,"Animal.4988",6,"Gritille",1,"PPNB",9,"PH1",0.074,0,0.57,0.43
+927,"Animal.4989",6,"Gritille",1,"PPNB",9,"PH1",0.085,0,0.52,0.48
+928,"Animal.499",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.098,0,0.52,0.48
+929,"Animal.4990",6,"Gritille",1,"PPNB",9,"PH1",0.164,0,0.19,0.81
+930,"Animal.4991",6,"Gritille",1,"PPNB",9,"PH1",0.068,0,0.6,0.4
+931,"Animal.4992",6,"Gritille",1,"PPNB",9,"PH1",0.058,0,0.64,0.36
+932,"Animal.4993",6,"Gritille",1,"PPNB",9,"PH1",0.121,0,0.36,0.64
+933,"Animal.4994",6,"Gritille",1,"PPNB",9,"PH1",0.109,0,0.42,0.58
+934,"Animal.4995",6,"Gritille",1,"PPNB",9,"PH1",0.112,0,0.4,0.6
+935,"Animal.4996",6,"Gritille",1,"PPNB",9,"PH1",0.026,0,0.73,0.27
+936,"Animal.4997",6,"Gritille",1,"PPNB",9,"PH1",-0.018,0,0.8,0.2
+937,"Animal.4998",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.019,0,0.69,0.31
+938,"Animal.4999",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.039,0,0.61,0.39
+939,"Animal.5",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.109,0.58,0.3,0.12
+940,"Animal.50",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.148,0.07,0.32,0.61
+941,"Animal.500",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.039,0.57,0.32,0.11
+942,"Animal.5000",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.002,0,0.74,0.26
+943,"Animal.5001",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.087,0,0.41,0.59
+944,"Animal.5002",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.022,0,0.68,0.32
+945,"Animal.5003",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.003,0,0.74,0.26
+946,"Animal.5004",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.095,0,0.37,0.63
+947,"Animal.5005",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.05,0,0.57,0.43
+948,"Animal.5006",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.107,0,0.32,0.68
+949,"Animal.5007",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.147,0,0.18,0.82
+950,"Animal.5008",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",-0.026,0,0.8,0.2
+951,"Animal.5009",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",-0.011,0,0.77,0.23
+952,"Animal.501",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.071,0.52,0.3,0.18
+953,"Animal.5010",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.207,0,0.09,0.91
+954,"Animal.5011",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.056,0,0.55,0.45
+955,"Animal.5012",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",-0.011,0,0.77,0.23
+956,"Animal.5013",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.072,0,0.47,0.53
+957,"Animal.5014",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.015,0,0.74,0.26
+958,"Animal.5015",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.04,0,0.65,0.35
+959,"Animal.5016",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.073,0,0.52,0.48
+960,"Animal.5017",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.151,0,0.25,0.75
+961,"Animal.5018",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.148,0,0.26,0.74
+962,"Animal.5019",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.086,0,0.46,0.54
+963,"Animal.502",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.057,0.54,0.31,0.15
+964,"Animal.5020",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.067,0,0.54,0.46
+965,"Animal.5021",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.105,0,0.39,0.61
+966,"Animal.5022",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.001,0,0.78,0.22
+967,"Animal.5023",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.036,0,0.66,0.34
+968,"Animal.5024",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.086,0,0.47,0.53
+969,"Animal.5025",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.043,0,0.64,0.36
+970,"Animal.5026",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.05,0,0.61,0.39
+971,"Animal.5027",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.056,0,0.59,0.41
+972,"Animal.5028",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",-0.044,0,0.82,0.18
+973,"Animal.5029",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.023,0,0.67,0.33
+974,"Animal.503",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.025,0.59,0.32,0.09
+975,"Animal.5030",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.066,0,0.5,0.5
+976,"Animal.5031",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.066,0,0.5,0.5
+977,"Animal.5032",12,"Mezraa-Teleilat",1,"PPNB",10,"PH2",0.107,0,0.39,0.61
+978,"Animal.5033",12,"Mezraa-Teleilat",1,"PPNB",10,"PH2",-0.003,0,0.76,0.24
+979,"Animal.5034",12,"Mezraa-Teleilat",1,"PPNB",10,"PH2",-0.004,0,0.77,0.23
+980,"Animal.5035",12,"Mezraa-Teleilat",1,"PPNB",10,"PH2",0.003,0,0.75,0.25
+981,"Animal.5036",12,"Mezraa-Teleilat",1,"PPNB",10,"PH2",-0.005,0,0.77,0.23
+982,"Animal.5037",12,"Mezraa-Teleilat",1,"PPNB",10,"PH2",-0.015,0,0.79,0.21
+983,"Animal.5038",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.084,0,0.42,0.58
+984,"Animal.5039",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",-0.051,0,0.83,0.17
+985,"Animal.504",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",-0.013,0.64,0.31,0.06
+986,"Animal.5040",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.062,0,0.52,0.48
+987,"Animal.5041",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",-0.043,0,0.88,0.12
+988,"Animal.5042",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.106,0,0.39,0.61
+989,"Animal.5043",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.037,0,0.66,0.34
+990,"Animal.5044",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",-0.002,0,0.75,0.25
+991,"Animal.5045",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",-0.014,0,0.78,0.22
+992,"Animal.5046",12,"Mezraa-Teleilat",1,"PPNB",10,"PH2",0.108,0,0.38,0.62
+993,"Animal.5047",12,"Mezraa-Teleilat",1,"PPNB",10,"PH2",0.192,0,0.22,0.78
+994,"Animal.5049",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.06,0,0.57,0.43
+995,"Animal.505",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.171,0,0.42,0.58
+996,"Animal.5050",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.074,0,0.51,0.49
+997,"Animal.5051",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.047,0,0.62,0.38
+998,"Animal.5052",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.09,0,0.45,0.55
+999,"Animal.5053",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.124,0,0.33,0.67
+1000,"Animal.5054",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.086,0,0.46,0.54
+1001,"Animal.5055",12,"Mezraa-Teleilat",1,"PPNB",5,"Tib",0.102,0,0.4,0.6
+1002,"Animal.5056",12,"Mezraa-Teleilat",1,"PPNB",9,"PH1",0.084,0,0.42,0.58
+1003,"Animal.5057",14,"Raqai",5,"EBA",5,"Tib",0.15,0,0.35,0.65
+1004,"Animal.5058",14,"Raqai",5,"EBA",5,"Tib",0.17,0,0.29,0.71
+1005,"Animal.5059",14,"Raqai",5,"EBA",5,"Tib",0.038,0,0.76,0.24
+1006,"Animal.506",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.029,0.23,0.54,0.23
+1007,"Animal.5060",14,"Raqai",5,"EBA",5,"Tib",0.164,0,0.31,0.69
+1008,"Animal.5061",14,"Raqai",5,"EBA",5,"Tib",0.146,0,0.36,0.64
+1009,"Animal.5062",14,"Raqai",5,"EBA",5,"Tib",0.167,0,0.3,0.7
+1010,"Animal.5063",14,"Raqai",5,"EBA",5,"Tib",0.058,0,0.69,0.31
+1011,"Animal.5064",1,"Atij",5,"EBA",5,"Tib",0.131,0,0.37,0.63
+1012,"Animal.5065",1,"Atij",5,"EBA",5,"Tib",0.092,0,0.51,0.49
+1013,"Animal.5066",1,"Atij",5,"EBA",5,"Tib",0.116,0,0.42,0.58
+1014,"Animal.5067",1,"Atij",5,"EBA",5,"Tib",0.144,0,0.33,0.67
+1015,"Animal.5068",1,"Atij",5,"EBA",5,"Tib",0.09,0,0.52,0.48
+1016,"Animal.5069",1,"Atij",5,"EBA",5,"Tib",0.033,0,0.73,0.27
+1017,"Animal.507",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.072,0.15,0.44,0.41
+1018,"Animal.5070",7,"Gudeda",5,"EBA",5,"Tib",0.117,0,0.41,0.59
+1019,"Animal.5071",7,"Gudeda",5,"EBA",5,"Tib",0.117,0,0.41,0.59
+1020,"Animal.5072",7,"Gudeda",5,"EBA",5,"Tib",0.054,0,0.65,0.35
+1021,"Animal.5073",1,"Atij",5,"EBA",9,"PH1",0.096,0,0.56,0.44
+1022,"Animal.5074",1,"Atij",5,"EBA",9,"PH1",0.156,0,0.33,0.67
+1023,"Animal.5075",1,"Atij",5,"EBA",9,"PH1",0.173,0,0.27,0.73
+1024,"Animal.5076",1,"Atij",5,"EBA",9,"PH1",0.137,0,0.4,0.6
+1025,"Animal.5077",1,"Atij",5,"EBA",9,"PH1",0.012,0,0.8,0.2
+1026,"Animal.5078",7,"Gudeda",5,"EBA",9,"PH1",0.102,0,0.46,0.54
+1027,"Animal.5079",7,"Gudeda",5,"EBA",9,"PH1",0.049,0,0.66,0.34
+1028,"Animal.508",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",-0.015,0.31,0.57,0.12
+1029,"Animal.5080",7,"Gudeda",5,"EBA",9,"PH1",0.041,0,0.68,0.32
+1030,"Animal.5081",14,"Raqai",5,"EBA",9,"PH1",0.021,0,0.75,0.25
+1031,"Animal.5082",14,"Raqai",5,"EBA",9,"PH1",0.11,0,0.42,0.58
+1032,"Animal.5083",14,"Raqai",5,"EBA",9,"PH1",0.152,0,0.27,0.73
+1033,"Animal.5084",14,"Raqai",5,"EBA",9,"PH1",0.178,0,0.2,0.8
+1034,"Animal.5085",14,"Raqai",5,"EBA",9,"PH1",0.141,0,0.3,0.7
+1035,"Animal.5086",14,"Raqai",5,"EBA",9,"PH1",0.058,0,0.63,0.37
+1036,"Animal.5087",14,"Raqai",5,"EBA",9,"PH1",0.068,0,0.59,0.41
+1037,"Animal.5088",14,"Raqai",5,"EBA",9,"PH1",0.031,0,0.72,0.28
+1038,"Animal.5089",14,"Raqai",5,"EBA",9,"PH1",0.112,0,0.41,0.59
+1039,"Animal.509",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.059,0.17,0.47,0.35
+1040,"Animal.5090",14,"Raqai",5,"EBA",9,"PH1",0.098,0,0.47,0.53
+1041,"Animal.5091",14,"Raqai",5,"EBA",9,"PH1",0.092,0,0.49,0.51
+1042,"Animal.5092",14,"Raqai",5,"EBA",9,"PH1",0.11,0,0.42,0.58
+1043,"Animal.5093",14,"Raqai",5,"EBA",9,"PH1",0.166,0,0.23,0.77
+1044,"Animal.5094",14,"Raqai",5,"EBA",9,"PH1",0.11,0,0.42,0.58
+1045,"Animal.5095",14,"Raqai",5,"EBA",9,"PH1",-0.022,0,0.83,0.17
+1046,"Animal.5096",14,"Raqai",5,"EBA",9,"PH1",0.017,0,0.76,0.24
+1047,"Animal.5097",14,"Raqai",5,"EBA",9,"PH1",0.022,0,0.74,0.26
+1048,"Animal.5098",14,"Raqai",5,"EBA",9,"PH1",0.193,0,0.17,0.83
+1049,"Animal.5099",14,"Raqai",5,"EBA",9,"PH1",0.077,0,0.55,0.45
+1050,"Animal.51",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.106,0.12,0.48,0.4
+1051,"Animal.510",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.127,0.07,0.27,0.66
+1052,"Animal.5100",14,"Raqai",5,"EBA",9,"PH1",0.016,0,0.76,0.24
+1053,"Animal.5101",1,"Atij",5,"EBA",10,"PH2",0.288,0,0.22,0.78
+1054,"Animal.5102",1,"Atij",5,"EBA",10,"PH2",0.155,0,0.47,0.53
+1055,"Animal.5103",7,"Gudeda",5,"EBA",10,"PH2",0.145,0,0.36,0.64
+1056,"Animal.5104",7,"Gudeda",5,"EBA",10,"PH2",0.012,0,0.78,0.22
+1057,"Animal.5105",14,"Raqai",5,"EBA",10,"PH2",0.159,0,0.36,0.64
+1058,"Animal.5106",14,"Raqai",5,"EBA",10,"PH2",0.107,0,0.55,0.45
+1059,"Animal.5107",14,"Raqai",5,"EBA",10,"PH2",0.181,0,0.31,0.69
+1060,"Animal.5108",14,"Raqai",5,"EBA",10,"PH2",0.092,0,0.6,0.4
+1061,"Animal.5109",14,"Raqai",5,"EBA",10,"PH2",0.097,0,0.58,0.42
+1062,"Animal.511",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.125,0.07,0.27,0.65
+1063,"Animal.5110",14,"Raqai",5,"EBA",10,"PH2",0.157,0,0.37,0.63
+1064,"Animal.5111",14,"Raqai",5,"EBA",10,"PH2",0.124,0,0.48,0.52
+1065,"Animal.5112",14,"Raqai",5,"EBA",10,"PH2",0.154,0,0.38,0.62
+1066,"Animal.5113",14,"Raqai",5,"EBA",10,"PH2",0.067,0,0.69,0.31
+1067,"Animal.5114",14,"Raqai",5,"EBA",10,"PH2",0.213,0,0.25,0.75
+1068,"Animal.512",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.069,0.16,0.45,0.39
+1069,"Animal.513",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.078,0.14,0.42,0.44
+1070,"Animal.514",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",-0.008,0.3,0.57,0.14
+1071,"Animal.515",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",-0.024,0.32,0.57,0.11
+1072,"Animal.516",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.016,0.26,0.55,0.19
+1073,"Animal.517",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.075,0.15,0.43,0.42
+1074,"Animal.518",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.092,0.12,0.38,0.5
+1075,"Animal.519",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.098,0.11,0.36,0.53
+1076,"Animal.52",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.027,0.24,0.61,0.15
+1077,"Animal.520",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.018,0.25,0.55,0.2
+1078,"Animal.5200",18,"Tell Beydar",5,"EBA",5,"Tib",0.155,0,0.25,0.75
+1079,"Animal.5201",18,"Tell Beydar",5,"EBA",5,"Tib",0.015,0,0.74,0.26
+1080,"Animal.5202",18,"Tell Beydar",5,"EBA",5,"Tib",0.044,0,0.64,0.36
+1081,"Animal.5203",18,"Tell Beydar",5,"EBA",5,"Tib",0.048,0,0.63,0.37
+1082,"Animal.5204",18,"Tell Beydar",5,"EBA",5,"Tib",0.054,0,0.6,0.4
+1083,"Animal.5205",18,"Tell Beydar",5,"EBA",5,"Tib",0.072,0,0.53,0.47
+1084,"Animal.5206",18,"Tell Beydar",5,"EBA",5,"Tib",0.17,0,0.22,0.78
+1085,"Animal.5207",18,"Tell Beydar",5,"EBA",5,"Tib",0.112,0,0.38,0.62
+1086,"Animal.5208",18,"Tell Beydar",5,"EBA",5,"Tib",0.026,0,0.7,0.3
+1087,"Animal.5209",18,"Tell Beydar",5,"EBA",5,"Tib",0.14,0,0.29,0.71
+1088,"Animal.521",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.087,0.13,0.39,0.48
+1089,"Animal.5210",18,"Tell Beydar",5,"EBA",9,"PH1",-0.082,0,0.87,0.13
+1090,"Animal.5211",18,"Tell Beydar",5,"EBA",9,"PH1",-0.02,0,0.8,0.2
+1091,"Animal.5212",18,"Tell Beydar",5,"EBA",9,"PH1",0.002,0,0.76,0.24
+1092,"Animal.5213",18,"Tell Beydar",5,"EBA",9,"PH1",0.022,0,0.7,0.3
+1093,"Animal.5214",18,"Tell Beydar",5,"EBA",9,"PH1",-0.004,0,0.77,0.23
+1094,"Animal.5215",18,"Tell Beydar",5,"EBA",9,"PH1",0.061,0,0.55,0.45
+1095,"Animal.5216",18,"Tell Beydar",5,"EBA",9,"PH1",0.1,0,0.39,0.61
+1096,"Animal.5217",18,"Tell Beydar",5,"EBA",9,"PH1",0.091,0,0.43,0.57
+1097,"Animal.5218",18,"Tell Beydar",5,"EBA",9,"PH1",0.098,0,0.4,0.6
+1098,"Animal.5219",18,"Tell Beydar",5,"EBA",9,"PH1",0.179,0,0.16,0.84
+1099,"Animal.522",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.095,0.11,0.37,0.52
+1100,"Animal.5220",18,"Tell Beydar",5,"EBA",9,"PH1",0.145,0,0.23,0.77
+1101,"Animal.5221",18,"Tell Beydar",5,"EBA",9,"PH1",0.024,0,0.69,0.31
+1102,"Animal.5222",18,"Tell Beydar",5,"EBA",9,"PH1",0.063,0,0.55,0.45
+1103,"Animal.5223",18,"Tell Beydar",5,"EBA",9,"PH1",0.007,0,0.74,0.26
+1104,"Animal.5224",18,"Tell Beydar",5,"EBA",9,"PH1",0.037,0,0.65,0.35
+1105,"Animal.5225",18,"Tell Beydar",5,"EBA",9,"PH1",0.051,0,0.59,0.41
+1106,"Animal.5226",18,"Tell Beydar",5,"EBA",9,"PH1",0.103,0,0.38,0.62
+1107,"Animal.5227",18,"Tell Beydar",5,"EBA",9,"PH1",0.118,0,0.32,0.68
+1108,"Animal.5228",18,"Tell Beydar",5,"EBA",9,"PH1",0.151,0,0.22,0.78
+1109,"Animal.5229",18,"Tell Beydar",5,"EBA",9,"PH1",0.163,0,0.19,0.81
+1110,"Animal.523",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.053,0.19,0.49,0.33
+1111,"Animal.5230",18,"Tell Beydar",5,"EBA",9,"PH1",0.126,0,0.29,0.71
+1112,"Animal.5231",18,"Tell Beydar",5,"EBA",10,"PH2",-0.064,0,0.87,0.13
+1113,"Animal.5232",18,"Tell Beydar",5,"EBA",10,"PH2",-0.046,0,0.86,0.14
+1114,"Animal.5233",18,"Tell Beydar",5,"EBA",10,"PH2",0.01,0,0.76,0.24
+1115,"Animal.5234",18,"Tell Beydar",5,"EBA",10,"PH2",0.011,0,0.76,0.24
+1116,"Animal.5235",18,"Tell Beydar",5,"EBA",10,"PH2",0.043,0,0.66,0.34
+1117,"Animal.5236",18,"Tell Beydar",5,"EBA",10,"PH2",0.009,0,0.77,0.23
+1118,"Animal.5237",18,"Tell Beydar",5,"EBA",10,"PH2",0.086,0,0.5,0.5
+1119,"Animal.5238",18,"Tell Beydar",5,"EBA",10,"PH2",0.145,0,0.31,0.69
+1120,"Animal.5239",18,"Tell Beydar",5,"EBA",10,"PH2",0.068,0,0.57,0.43
+1121,"Animal.524",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.048,0.19,0.5,0.3
+1122,"Animal.5240",18,"Tell Beydar",5,"EBA",10,"PH2",0.102,0,0.44,0.56
+1123,"Animal.5241",18,"Tell Beydar",5,"EBA",10,"PH2",0.08,0,0.52,0.48
+1124,"Animal.5242",18,"Tell Beydar",5,"EBA",10,"PH2",0.035,0,0.69,0.31
+1125,"Animal.5243",18,"Tell Beydar",5,"EBA",10,"PH2",0.117,0,0.38,0.62
+1126,"Animal.5244",18,"Tell Beydar",5,"EBA",10,"PH2",0.117,0,0.39,0.61
+1127,"Animal.5245",18,"Tell Beydar",5,"EBA",10,"PH2",0.147,0,0.3,0.7
+1128,"Animal.5246",18,"Tell Beydar",5,"EBA",10,"PH2",0.085,0,0.5,0.5
+1129,"Animal.5247",18,"Tell Beydar",5,"EBA",10,"PH2",0.162,0,0.27,0.73
+1130,"Animal.5248",18,"Tell Beydar",5,"EBA",10,"PH2",0.156,0,0.28,0.72
+1131,"Animal.5249",18,"Tell Beydar",5,"EBA",10,"PH2",0.179,0,0.24,0.76
+1132,"Animal.525",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.086,0.13,0.4,0.47
+1133,"Animal.5250",18,"Tell Beydar",5,"EBA",9,"PH1",0.02,0,0.71,0.29
+1134,"Animal.5251",18,"Tell Beydar",5,"EBA",9,"PH1",0.048,0,0.61,0.39
+1135,"Animal.5252",18,"Tell Beydar",5,"EBA",9,"PH1",0.047,0,0.61,0.39
+1136,"Animal.5253",18,"Tell Beydar",5,"EBA",9,"PH1",0.082,0,0.47,0.53
+1137,"Animal.5254",18,"Tell Beydar",5,"EBA",9,"PH1",0.11,0,0.35,0.65
+1138,"Animal.5255",18,"Tell Beydar",5,"EBA",9,"PH1",0.079,0,0.48,0.52
+1139,"Animal.5256",18,"Tell Beydar",5,"EBA",9,"PH1",0.096,0,0.41,0.59
+1140,"Animal.5257",18,"Tell Beydar",5,"EBA",9,"PH1",0.092,0,0.43,0.57
+1141,"Animal.5258",18,"Tell Beydar",5,"EBA",9,"PH1",0.074,0,0.5,0.5
+1142,"Animal.5259",19,"Tell Beydar",3,"LC 1-3",9,"PH1",0.056,0,0.75,0.25
+1143,"Animal.526",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.128,0.07,0.27,0.66
+1144,"Animal.5260",19,"Tell Beydar",3,"LC 1-3",9,"PH1",0.094,0,0.63,0.37
+1145,"Animal.5261",19,"Tell Beydar",3,"LC 1-3",9,"PH1",0.113,0,0.56,0.44
+1146,"Animal.5262",19,"Tell Beydar",3,"LC 1-3",9,"PH1",0.157,0,0.38,0.62
+1147,"Animal.5263",18,"Tell Beydar",5,"EBA",9,"PH1",0.033,0,0.66,0.34
+1148,"Animal.5264",18,"Tell Beydar",5,"EBA",9,"PH1",-0.018,0,0.8,0.2
+1149,"Animal.5265",18,"Tell Beydar",5,"EBA",9,"PH1",0.041,0,0.63,0.37
+1150,"Animal.5266",18,"Tell Beydar",5,"EBA",9,"PH1",-0.013,0,0.79,0.21
+1151,"Animal.5267",18,"Tell Beydar",5,"EBA",9,"PH1",0.044,0,0.62,0.38
+1152,"Animal.5268",18,"Tell Beydar",5,"EBA",9,"PH1",0.127,0,0.29,0.71
+1153,"Animal.5269",18,"Tell Beydar",5,"EBA",9,"PH1",0.16,0,0.2,0.8
+1154,"Animal.527",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.019,0.25,0.55,0.2
+1155,"Animal.5270",18,"Tell Beydar",5,"EBA",9,"PH1",0.119,0,0.32,0.68
+1156,"Animal.5271",18,"Tell Beydar",5,"EBA",9,"PH1",0.173,0,0.17,0.83
+1157,"Animal.5272",18,"Tell Beydar",5,"EBA",10,"PH2",0.157,0,0.28,0.72
+1158,"Animal.5273",18,"Tell Beydar",5,"EBA",10,"PH2",0.208,0,0.22,0.78
+1159,"Animal.5274",18,"Tell Beydar",5,"EBA",10,"PH2",0.103,0,0.44,0.56
+1160,"Animal.5275",21,"Tell Mozan",5,"EBA",5,"Tib",-0.17,0,0.59,0.41
+1161,"Animal.5276",21,"Tell Mozan",5,"EBA",5,"Tib",-0.188,0,0.66,0.34
+1162,"Animal.5277",21,"Tell Mozan",5,"EBA",5,"Tib",-0.14,0,0.48,0.52
+1163,"Animal.5278",21,"Tell Mozan",5,"EBA",5,"Tib",-0.047,0,0.27,0.73
+1164,"Animal.5279",21,"Tell Mozan",5,"EBA",5,"Tib",-0.17,0,0.59,0.41
+1165,"Animal.528",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.082,0.14,0.41,0.45
+1166,"Animal.5280",21,"Tell Mozan",5,"EBA",5,"Tib",-0.104,0,0.36,0.64
+1167,"Animal.5281",21,"Tell Mozan",5,"EBA",5,"Tib",-0.202,0,0.71,0.29
+1168,"Animal.5282",21,"Tell Mozan",5,"EBA",5,"Tib",-0.092,0,0.33,0.67
+1169,"Animal.5283",21,"Tell Mozan",5,"EBA",5,"Tib",-0.188,0,0.66,0.34
+1170,"Animal.5284",21,"Tell Mozan",5,"EBA",5,"Tib",-0.093,0,0.34,0.66
+1171,"Animal.5285",21,"Tell Mozan",5,"EBA",5,"Tib",-0.179,0,0.62,0.38
+1172,"Animal.5286",21,"Tell Mozan",5,"EBA",5,"Tib",-0.116,0,0.4,0.6
+1173,"Animal.5287",21,"Tell Mozan",5,"EBA",5,"Tib",-0.302,0,0.9,0.1
+1174,"Animal.5288",21,"Tell Mozan",5,"EBA",5,"Tib",-0.258,0,0.86,0.14
+1175,"Animal.5289",21,"Tell Mozan",5,"EBA",5,"Tib",-0.278,0,0.88,0.12
+1176,"Animal.529",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.05,0.19,0.5,0.31
+1177,"Animal.5290",21,"Tell Mozan",5,"EBA",5,"Tib",-0.188,0,0.66,0.34
+1178,"Animal.5291",21,"Tell Mozan",5,"EBA",5,"Tib",-0.066,0,0.29,0.71
+1179,"Animal.5292",21,"Tell Mozan",5,"EBA",5,"Tib",-0.129,0,0.44,0.56
+1180,"Animal.5293",21,"Tell Mozan",5,"EBA",5,"Tib",-0.12,0,0.41,0.59
+1181,"Animal.5294",21,"Tell Mozan",5,"EBA",5,"Tib",-0.17,0,0.59,0.41
+1182,"Animal.5295",21,"Tell Mozan",5,"EBA",5,"Tib",-0.268,0,0.87,0.13
+1183,"Animal.5296",21,"Tell Mozan",5,"EBA",5,"Tib",-0.254,0,0.85,0.15
+1184,"Animal.5297",21,"Tell Mozan",5,"EBA",5,"Tib",-0.081,0,0.31,0.69
+1185,"Animal.5298",21,"Tell Mozan",5,"EBA",5,"Tib",-0.171,0,0.59,0.41
+1186,"Animal.5299",21,"Tell Mozan",5,"EBA",5,"Tib",-0.133,0,0.45,0.55
+1187,"Animal.53",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.022,0.25,0.61,0.14
+1188,"Animal.530",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.155,0.05,0.2,0.76
+1189,"Animal.5300",21,"Tell Mozan",5,"EBA",5,"Tib",-0.278,0,0.88,0.12
+1190,"Animal.5301",21,"Tell Mozan",5,"EBA",5,"Tib",-0.157,0,0.54,0.46
+1191,"Animal.5302",21,"Tell Mozan",5,"EBA",5,"Tib",-0.193,0,0.68,0.32
+1192,"Animal.5303",21,"Tell Mozan",5,"EBA",5,"Tib",-0.253,0,0.85,0.15
+1193,"Animal.5304",21,"Tell Mozan",5,"EBA",5,"Tib",-0.136,0,0.46,0.54
+1194,"Animal.5305",21,"Tell Mozan",5,"EBA",5,"Tib",-0.093,0,0.34,0.66
+1195,"Animal.5306",21,"Tell Mozan",5,"EBA",5,"Tib",-0.158,0,0.54,0.46
+1196,"Animal.5307",21,"Tell Mozan",5,"EBA",5,"Tib",-0.12,0,0.41,0.59
+1197,"Animal.5308",21,"Tell Mozan",5,"EBA",5,"Tib",-0.145,0,0.49,0.51
+1198,"Animal.5309",21,"Tell Mozan",5,"EBA",5,"Tib",-0.225,0,0.78,0.22
+1199,"Animal.531",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",-0.084,0.39,0.55,0.06
+1200,"Animal.5310",21,"Tell Mozan",5,"EBA",5,"Tib",-0.263,0,0.87,0.13
+1201,"Animal.5311",21,"Tell Mozan",5,"EBA",5,"Tib",-0.17,0,0.59,0.41
+1202,"Animal.5312",21,"Tell Mozan",5,"EBA",5,"Tib",-0.104,0,0.36,0.64
+1203,"Animal.5313",21,"Tell Mozan",5,"EBA",5,"Tib",-0.162,0,0.56,0.44
+1204,"Animal.5314",21,"Tell Mozan",5,"EBA",5,"Tib",-0.112,0,0.39,0.61
+1205,"Animal.5315",21,"Tell Mozan",5,"EBA",5,"Tib",-0.124,0,0.42,0.58
+1206,"Animal.5316",21,"Tell Mozan",5,"EBA",5,"Tib",-0.17,0,0.59,0.41
+1207,"Animal.5317",21,"Tell Mozan",5,"EBA",5,"Tib",-0.153,0,0.52,0.48
+1208,"Animal.532",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.007,0.27,0.56,0.17
+1209,"Animal.533",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.005,0.28,0.56,0.16
+1210,"Animal.534",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.157,0.04,0.19,0.77
+1211,"Animal.535",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.059,0.18,0.47,0.35
+1212,"Animal.536",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.052,0.19,0.49,0.32
+1213,"Animal.537",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0,0.28,0.56,0.15
+1214,"Animal.538",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.097,0.11,0.36,0.52
+1215,"Animal.539",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",-0.022,0.32,0.57,0.11
+1216,"Animal.54",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.007,0.27,0.61,0.12
+1217,"Animal.540",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.074,0.15,0.43,0.42
+1218,"Animal.541",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.116,0.09,0.3,0.61
+1219,"Animal.542",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",-0.041,0.35,0.57,0.09
+1220,"Animal.543",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.062,0.34,0.36,0.29
+1221,"Animal.544",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.008,0.47,0.4,0.14
+1222,"Animal.545",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.138,0.13,0.22,0.65
+1223,"Animal.546",12,"Mezraa-Teleilat",1,"PPNB",3,"Rad_dist",0.018,0,0.65,0.35
+1224,"Animal.547",12,"Mezraa-Teleilat",1,"PPNB",3,"Rad_dist",0.031,0,0.61,0.39
+1225,"Animal.548",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.017,0.45,0.39,0.15
+1226,"Animal.549",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.048,0.38,0.38,0.24
+1227,"Animal.55",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.051,0.21,0.59,0.2
+1228,"Animal.550",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.054,0.36,0.37,0.26
+1229,"Animal.551",12,"Mezraa-Teleilat",1,"PPNB",3,"Rad_dist",0.027,0,0.62,0.38
+1230,"Animal.552",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",-0.012,0.5,0.39,0.1
+1231,"Animal.553",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.008,0.47,0.4,0.14
+1232,"Animal.554",12,"Mezraa-Teleilat",1,"PPNB",3,"Rad_dist",0.125,0,0.25,0.75
+1233,"Animal.555",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.076,0.3,0.35,0.35
+1234,"Animal.556",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.042,0.39,0.38,0.22
+1235,"Animal.557",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.05,0,0.71,0.29
+1236,"Animal.558",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.15,0,0.3,0.7
+1237,"Animal.559",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.015,0,0.8,0.2
+1238,"Animal.56",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.084,0.16,0.54,0.31
+1239,"Animal.560",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.084,0,0.58,0.42
+1240,"Animal.561",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.061,0,0.67,0.33
+1241,"Animal.562",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.141,0,0.33,0.67
+1242,"Animal.563",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.147,0.3,0.2,0.5
+1243,"Animal.564",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.071,0.52,0.3,0.18
+1244,"Animal.565",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.125,0.38,0.23,0.39
+1245,"Animal.566",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.061,0.54,0.31,0.16
+1246,"Animal.567",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.085,0.49,0.28,0.22
+1247,"Animal.568",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.129,0.36,0.22,0.41
+1248,"Animal.57",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.051,0.21,0.59,0.2
+1249,"Animal.571",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.048,0.56,0.31,0.13
+1250,"Animal.572",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.034,0.58,0.32,0.1
+1251,"Animal.573",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.08,0.5,0.29,0.21
+1252,"Animal.574",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.133,0.35,0.22,0.43
+1253,"Animal.575",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.076,0.51,0.3,0.2
+1254,"Animal.576",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.103,0.45,0.26,0.29
+1255,"Animal.578",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.121,0.39,0.24,0.37
+1256,"Animal.58",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.106,0.12,0.47,0.4
+1257,"Animal.582",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.071,0.52,0.3,0.18
+1258,"Animal.583",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.016,0.61,0.32,0.08
+1259,"Animal.584",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",-0.033,0.66,0.3,0.05
+1260,"Animal.585",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.006,0.62,0.32,0.07
+1261,"Animal.586",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.099,0.46,0.27,0.27
+1262,"Animal.588",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.075,0.51,0.29,0.2
+1263,"Animal.589",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.121,0.39,0.24,0.37
+1264,"Animal.59",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.119,0.11,0.43,0.46
+1265,"Animal.590",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.112,0.42,0.25,0.33
+1266,"Animal.591",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.221,0,0.29,0.71
+1267,"Animal.592",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.151,0,0.48,0.52
+1268,"Animal.593",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.082,0,0.73,0.27
+1269,"Animal.594",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.159,0,0.46,0.54
+1270,"Animal.595",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.156,0.23,0.34,0.43
+1271,"Animal.596",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.167,0,0.43,0.57
+1272,"Animal.597",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.216,0,0.29,0.71
+1273,"Animal.598",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.136,0.3,0.36,0.34
+1274,"Animal.599",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.054,0.18,0.49,0.33
+1275,"Animal.6",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.099,0.59,0.3,0.1
+1276,"Animal.60",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.216,0.02,0.13,0.85
+1277,"Animal.600",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.095,0.11,0.37,0.52
+1278,"Animal.601",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.113,0.09,0.31,0.6
+1279,"Animal.602",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.036,0.22,0.52,0.26
+1280,"Animal.603",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.059,0.17,0.47,0.35
+1281,"Animal.604",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.059,0.17,0.47,0.35
+1282,"Animal.605",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.028,0.23,0.54,0.23
+1283,"Animal.606",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.017,0.25,0.55,0.2
+1284,"Animal.607",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.095,0.11,0.37,0.52
+1285,"Animal.608",12,"Mezraa-Teleilat",1,"PPNB",1,"Hum_dist",0.1,0.11,0.35,0.54
+1286,"Animal.609",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.042,0.4,0.38,0.22
+1287,"Animal.61",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.139,0.08,0.36,0.56
+1288,"Animal.610",12,"Mezraa-Teleilat",1,"PPNB",3,"Rad_dist",0.031,0,0.61,0.39
+1289,"Animal.611",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.017,0.45,0.39,0.16
+1290,"Animal.612",12,"Mezraa-Teleilat",1,"PPNB",3,"Rad_dist",0.079,0,0.41,0.59
+1291,"Animal.613",12,"Mezraa-Teleilat",1,"PPNB",2,"Rad_prox",0.095,0.25,0.31,0.44
+1292,"Animal.614",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.15,0,0.3,0.7
+1293,"Animal.6149",2,"Basur Hoyuk",6,"MBA",5,"Tib",0.085,0,0.75,0.25
+1294,"Animal.615",12,"Mezraa-Teleilat",1,"PPNB",4,"Mtc",0.13,0,0.38,0.62
+1295,"Animal.6150",2,"Basur Hoyuk",6,"MBA",9,"PH1",0.297,0,0.24,0.76
+1296,"Animal.6151",2,"Basur Hoyuk",6,"MBA",9,"PH1",0.248,0,0.4,0.6
+1297,"Animal.6153",8,"Hirbemerdon Tepe",6,"MBA",5,"Tib",0.256,0,0.26,0.74
+1298,"Animal.6154",8,"Hirbemerdon Tepe",6,"MBA",5,"Tib",0.201,0,0.42,0.58
+1299,"Animal.6155",8,"Hirbemerdon Tepe",6,"MBA",5,"Tib",0.136,0,0.66,0.34
+1300,"Animal.6159",8,"Hirbemerdon Tepe",6,"MBA",9,"PH1",0.104,0,0.81,0.19
+1301,"Animal.616",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.011,0.61,0.32,0.07
+1302,"Animal.6160",8,"Hirbemerdon Tepe",6,"MBA",9,"PH1",0.338,0,0.14,0.86
+1303,"Animal.6161",8,"Hirbemerdon Tepe",6,"MBA",9,"PH1",0.356,0,0.13,0.87
+1304,"Animal.6163",8,"Hirbemerdon Tepe",6,"MBA",9,"PH1",0.104,0,0.81,0.19
+1305,"Animal.6164",8,"Hirbemerdon Tepe",6,"MBA",9,"PH1",0.254,0,0.32,0.68
+1306,"Animal.617",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.001,0.62,0.31,0.06
+1307,"Animal.6176",10,"Kenan Tepe",6,"MBA",5,"Tib",0.153,0,0.43,0.57
+1308,"Animal.6177",10,"Kenan Tepe",6,"MBA",5,"Tib",0.147,0,0.45,0.55
+1309,"Animal.6178",10,"Kenan Tepe",6,"MBA",10,"PH2",0.119,0,0.55,0.45
+1310,"Animal.6179",10,"Kenan Tepe",6,"MBA",10,"PH2",0.096,0,0.62,0.38
+1311,"Animal.618",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.116,0.41,0.25,0.35
+1312,"Animal.6180",13,"Muslumantepe",6,"MBA",5,"Tib",0.114,0,0.65,0.35
+1313,"Animal.6182",13,"Muslumantepe",6,"MBA",10,"PH2",0.154,0,0.59,0.41
+1314,"Animal.6185",3,"Domuztepe",2,"Halaf",7,"Cal",0.083,0,0.36,0.64
+1315,"Animal.6186",3,"Domuztepe",2,"Halaf",7,"Cal",-0.036,0,0.74,0.26
+1316,"Animal.6188",3,"Domuztepe",2,"Halaf",7,"Cal",-0.082,0,0.83,0.17
+1317,"Animal.6189",3,"Domuztepe",2,"Halaf",7,"Cal",0.105,0,0.31,0.69
+1318,"Animal.619",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.066,0.53,0.3,0.17
+1319,"Animal.6190",3,"Domuztepe",2,"Halaf",7,"Cal",-0.088,0,0.84,0.16
+1320,"Animal.6191",3,"Domuztepe",2,"Halaf",5,"Tib",0.018,0,0.64,0.36
+1321,"Animal.6192",3,"Domuztepe",2,"Halaf",5,"Tib",0.103,0,0.34,0.66
+1322,"Animal.6193",3,"Domuztepe",2,"Halaf",5,"Tib",0.039,0,0.57,0.43
+1323,"Animal.6194",3,"Domuztepe",2,"Halaf",5,"Tib",0.069,0,0.45,0.55
+1324,"Animal.6195",3,"Domuztepe",2,"Halaf",5,"Tib",0.003,0,0.69,0.31
+1325,"Animal.6196",3,"Domuztepe",2,"Halaf",9,"PH1",0.057,0,0.58,0.42
+1326,"Animal.6197",3,"Domuztepe",2,"Halaf",9,"PH1",0.062,0,0.56,0.44
+1327,"Animal.6198",3,"Domuztepe",2,"Halaf",9,"PH1",0.026,0,0.69,0.31
+1328,"Animal.6199",3,"Domuztepe",2,"Halaf",9,"PH1",0.073,0,0.51,0.49
+1329,"Animal.62",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.078,0.17,0.55,0.29
+1330,"Animal.620",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.016,0.61,0.32,0.08
+1331,"Animal.6200",3,"Domuztepe",2,"Halaf",9,"PH1",0.01,0,0.73,0.27
+1332,"Animal.6201",3,"Domuztepe",2,"Halaf",9,"PH1",-0.044,0,0.8,0.2
+1333,"Animal.6202",3,"Domuztepe",2,"Halaf",9,"PH1",0.036,0,0.65,0.35
+1334,"Animal.6203",3,"Domuztepe",2,"Halaf",9,"PH1",0.05,0,0.61,0.39
+1335,"Animal.6204",3,"Domuztepe",2,"Halaf",9,"PH1",0.325,0,0.07,0.93
+1336,"Animal.6205",3,"Domuztepe",2,"Halaf",9,"PH1",-0.045,0,0.8,0.2
+1337,"Animal.6206",3,"Domuztepe",2,"Halaf",9,"PH1",-0.055,0,0.81,0.19
+1338,"Animal.6208",3,"Domuztepe",2,"Halaf",9,"PH1",0.13,0,0.25,0.75
+1339,"Animal.6209",3,"Domuztepe",2,"Halaf",9,"PH1",0.019,0,0.71,0.29
+1340,"Animal.621",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.084,0.49,0.29,0.22
+1341,"Animal.6210",3,"Domuztepe",2,"Halaf",10,"PH2",0.002,0,0.67,0.33
+1342,"Animal.6211",3,"Domuztepe",2,"Halaf",10,"PH2",0.08,0,0.4,0.6
+1343,"Animal.6212",3,"Domuztepe",2,"Halaf",10,"PH2",-0.057,0,0.81,0.19
+1344,"Animal.6213",5,"El Kowm 2",1,"PPNB",5,"Tib",0.106,0,0.5,0.5
+1345,"Animal.622",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.066,0.53,0.3,0.17
+1346,"Animal.623",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.048,0.56,0.31,0.13
+1347,"Animal.624",12,"Mezraa-Teleilat",1,"PPNB",6,"Ast",0.075,0.51,0.29,0.19
+1348,"Animal.625",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.135,0,0.54,0.46
+1349,"Animal.626",12,"Mezraa-Teleilat",1,"PPNB",7,"Cal",0.179,0,0.39,0.61
+1350,"Animal.627",12,"Mezraa-Teleilat",1,"PPNB",8,"Mtt",0.14,0,0.35,0.65
+1351,"Animal.628",1,"Atij",5,"EBA",1,"Hum_dist",0.165,0.05,0.25,0.7
+1352,"Animal.629",1,"Atij",5,"EBA",1,"Hum_dist",-0.033,0.28,0.62,0.1
+1353,"Animal.63",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.139,0.08,0.36,0.56
+1354,"Animal.630",1,"Atij",5,"EBA",1,"Hum_dist",0.029,0.23,0.59,0.18
+1355,"Animal.6300",15,"Rubeidheh",4,"LC 4-5",5,"Tib",0.106,0,0.78,0.22
+1356,"Animal.6301",15,"Rubeidheh",4,"LC 4-5",5,"Tib",0.179,0,0.54,0.46
+1357,"Animal.6302",15,"Rubeidheh",4,"LC 4-5",5,"Tib",0.172,0,0.57,0.43
+1358,"Animal.6303",15,"Rubeidheh",4,"LC 4-5",5,"Tib",0.278,0,0.2,0.8
+1359,"Animal.6304",15,"Rubeidheh",4,"LC 4-5",5,"Tib",0.323,0,0.14,0.86
+1360,"Animal.6305",15,"Rubeidheh",4,"LC 4-5",5,"Tib",0.116,0,0.76,0.24
+1361,"Animal.6306",15,"Rubeidheh",4,"LC 4-5",5,"Tib",0.211,0,0.41,0.59
+1362,"Animal.631",1,"Atij",5,"EBA",1,"Hum_dist",0.119,0.1,0.39,0.5
+1363,"Animal.632",1,"Atij",5,"EBA",1,"Hum_dist",0.065,0.18,0.54,0.28
+1364,"Animal.633",1,"Atij",5,"EBA",1,"Hum_dist",0.134,0.08,0.35,0.57
+1365,"Animal.634",1,"Atij",5,"EBA",1,"Hum_dist",0.078,0.16,0.51,0.33
+1366,"Animal.635",1,"Atij",5,"EBA",1,"Hum_dist",0.131,0.08,0.36,0.56
+1367,"Animal.636",1,"Atij",5,"EBA",1,"Hum_dist",0.238,0.01,0.12,0.86
+1368,"Animal.637",7,"Gudeda",5,"EBA",1,"Hum_dist",0.217,0.02,0.16,0.81
+1369,"Animal.638",7,"Gudeda",5,"EBA",1,"Hum_dist",0.067,0.2,0.55,0.25
+1370,"Animal.639",7,"Gudeda",5,"EBA",1,"Hum_dist",0.093,0.16,0.5,0.34
+1371,"Animal.64",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.195,0.03,0.17,0.8
+1372,"Animal.640",7,"Gudeda",5,"EBA",1,"Hum_dist",0.097,0.15,0.49,0.36
+1373,"Animal.641",14,"Raqai",5,"EBA",1,"Hum_dist",0.1,0.1,0.41,0.49
+1374,"Animal.642",14,"Raqai",5,"EBA",1,"Hum_dist",0.039,0.19,0.56,0.25
+1375,"Animal.643",14,"Raqai",5,"EBA",1,"Hum_dist",0.091,0.12,0.43,0.45
+1376,"Animal.644",14,"Raqai",5,"EBA",1,"Hum_dist",0.053,0.17,0.53,0.3
+1377,"Animal.645",14,"Raqai",5,"EBA",1,"Hum_dist",0.087,0.12,0.44,0.43
+1378,"Animal.646",14,"Raqai",5,"EBA",1,"Hum_dist",0.127,0.07,0.32,0.6
+1379,"Animal.647",1,"Atij",5,"EBA",3,"Rad_dist",0.072,0,0.57,0.43
+1380,"Animal.648",1,"Atij",5,"EBA",2,"Rad_prox",0.13,0.19,0.3,0.51
+1381,"Animal.649",1,"Atij",5,"EBA",2,"Rad_prox",0.036,0.39,0.43,0.18
+1382,"Animal.65",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.1,0.13,0.49,0.38
+1383,"Animal.650",7,"Gudeda",5,"EBA",3,"Rad_dist",0.197,0,0.24,0.76
+1384,"Animal.651",7,"Gudeda",5,"EBA",2,"Rad_prox",0.054,0.36,0.41,0.22
+1385,"Animal.652",14,"Raqai",5,"EBA",2,"Rad_prox",-0.022,0.43,0.47,0.1
+1386,"Animal.653",14,"Raqai",5,"EBA",2,"Rad_prox",0.001,0.41,0.46,0.13
+1387,"Animal.654",14,"Raqai",5,"EBA",2,"Rad_prox",0.207,0.03,0.15,0.82
+1388,"Animal.655",14,"Raqai",5,"EBA",3,"Rad_dist",0,0,0.71,0.29
+1389,"Animal.656",14,"Raqai",5,"EBA",3,"Rad_dist",0.015,0,0.66,0.34
+1390,"Animal.657",14,"Raqai",5,"EBA",2,"Rad_prox",0.121,0.16,0.3,0.53
+1391,"Animal.658",14,"Raqai",5,"EBA",2,"Rad_prox",0.064,0.3,0.4,0.29
+1392,"Animal.659",14,"Raqai",5,"EBA",2,"Rad_prox",0.065,0.3,0.4,0.29
+1393,"Animal.66",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.178,0.04,0.22,0.74
+1394,"Animal.660",14,"Raqai",5,"EBA",2,"Rad_prox",0.119,0.17,0.31,0.53
+1395,"Animal.661",29,"Ziyadeh",5,"EBA",3,"Rad_dist",0.174,0,0.31,0.69
+1396,"Animal.662",7,"Gudeda",5,"EBA",4,"Mtc",0.03,0,0.77,0.23
+1397,"Animal.663",7,"Gudeda",5,"EBA",4,"Mtc",0.062,0,0.67,0.33
+1398,"Animal.664",7,"Gudeda",5,"EBA",4,"Mtc",0.108,0,0.49,0.51
+1399,"Animal.665",7,"Gudeda",5,"EBA",4,"Mtc",0.183,0,0.22,0.78
+1400,"Animal.666",7,"Gudeda",5,"EBA",4,"Mtc",0.163,0,0.27,0.73
+1401,"Animal.667",7,"Gudeda",5,"EBA",4,"Mtc",0.066,0,0.65,0.35
+1402,"Animal.668",14,"Raqai",5,"EBA",4,"Mtc",0.171,0,0.27,0.73
+1403,"Animal.669",14,"Raqai",5,"EBA",4,"Mtc",0.017,0,0.81,0.19
+1404,"Animal.67",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.198,0.03,0.17,0.81
+1405,"Animal.670",14,"Raqai",5,"EBA",4,"Mtc",0.133,0,0.41,0.59
+1406,"Animal.671",14,"Raqai",5,"EBA",4,"Mtc",0.126,0,0.44,0.56
+1407,"Animal.672",14,"Raqai",5,"EBA",4,"Mtc",0.091,0,0.58,0.42
+1408,"Animal.673",14,"Raqai",5,"EBA",4,"Mtc",0.075,0,0.64,0.36
+1409,"Animal.674",14,"Raqai",5,"EBA",4,"Mtc",0.104,0,0.53,0.47
+1410,"Animal.675",14,"Raqai",5,"EBA",4,"Mtc",0.182,0,0.24,0.76
+1411,"Animal.676",14,"Raqai",5,"EBA",4,"Mtc",0.151,0,0.34,0.66
+1412,"Animal.677",14,"Raqai",5,"EBA",4,"Mtc",0.144,0,0.37,0.63
+1413,"Animal.678",1,"Atij",5,"EBA",6,"Ast",0.124,0.32,0.26,0.43
+1414,"Animal.679",1,"Atij",5,"EBA",6,"Ast",0.082,0.44,0.31,0.25
+1415,"Animal.68",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.141,0.08,0.35,0.57
+1416,"Animal.680",1,"Atij",5,"EBA",6,"Ast",0.05,0.5,0.34,0.16
+1417,"Animal.681",1,"Atij",5,"EBA",6,"Ast",-0.003,0.56,0.36,0.09
+1418,"Animal.683",1,"Atij",5,"EBA",6,"Ast",0.067,0.47,0.33,0.2
+1419,"Animal.684",7,"Gudeda",5,"EBA",6,"Ast",0.062,0.49,0.33,0.18
+1420,"Animal.685",7,"Gudeda",5,"EBA",6,"Ast",0.031,0.53,0.35,0.12
+1421,"Animal.686",7,"Gudeda",5,"EBA",6,"Ast",0.075,0.46,0.32,0.22
+1422,"Animal.687",14,"Raqai",5,"EBA",6,"Ast",0.068,0.46,0.33,0.21
+1423,"Animal.688",14,"Raqai",5,"EBA",6,"Ast",0.009,0.54,0.36,0.09
+1424,"Animal.689",14,"Raqai",5,"EBA",6,"Ast",0.025,0.53,0.36,0.12
+1425,"Animal.69",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.139,0.08,0.36,0.56
+1426,"Animal.690",14,"Raqai",5,"EBA",6,"Ast",0.042,0.5,0.35,0.14
+1427,"Animal.691",14,"Raqai",5,"EBA",6,"Ast",0.093,0.41,0.3,0.3
+1428,"Animal.692",14,"Raqai",5,"EBA",6,"Ast",0.042,0.51,0.35,0.15
+1429,"Animal.693",14,"Raqai",5,"EBA",6,"Ast",0.029,0.52,0.36,0.12
+1430,"Animal.694",14,"Raqai",5,"EBA",6,"Ast",0.125,0.31,0.25,0.44
+1431,"Animal.695",14,"Raqai",5,"EBA",6,"Ast",0.125,0.31,0.25,0.44
+1432,"Animal.696",14,"Raqai",5,"EBA",6,"Ast",0.141,0.25,0.23,0.52
+1433,"Animal.697",14,"Raqai",5,"EBA",6,"Ast",0.059,0.48,0.34,0.18
+1434,"Animal.698",14,"Raqai",5,"EBA",6,"Ast",0.077,0.44,0.32,0.24
+1435,"Animal.699",14,"Raqai",5,"EBA",6,"Ast",0.103,0.38,0.29,0.34
+1436,"Animal.7",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.139,0.53,0.29,0.18
+1437,"Animal.70",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.131,0.09,0.39,0.52
+1438,"Animal.700",14,"Raqai",5,"EBA",6,"Ast",0.132,0.28,0.24,0.47
+1439,"Animal.701",14,"Raqai",5,"EBA",6,"Ast",0.053,0.49,0.34,0.17
+1440,"Animal.702",1,"Atij",5,"EBA",7,"Cal",0.142,0,0.4,0.6
+1441,"Animal.703",7,"Gudeda",5,"EBA",7,"Cal",0.14,0,0.45,0.55
+1442,"Animal.704",7,"Gudeda",5,"EBA",7,"Cal",0.152,0,0.41,0.59
+1443,"Animal.705",7,"Gudeda",5,"EBA",7,"Cal",0.17,0,0.36,0.64
+1444,"Animal.706",7,"Gudeda",5,"EBA",7,"Cal",0.172,0,0.35,0.65
+1445,"Animal.707",14,"Raqai",5,"EBA",7,"Cal",0.129,0,0.36,0.64
+1446,"Animal.708",14,"Raqai",5,"EBA",7,"Cal",0.119,0,0.39,0.61
+1447,"Animal.709",14,"Raqai",5,"EBA",7,"Cal",0.096,0,0.46,0.54
+1448,"Animal.71",5,"El Kowm 2",1,"PPNB",1,"Hum_dist",0.101,0.13,0.49,0.38
+1449,"Animal.710",14,"Raqai",5,"EBA",7,"Cal",0.12,0,0.39,0.61
+1450,"Animal.712",14,"Raqai",5,"EBA",7,"Cal",0.066,0,0.58,0.42
+1451,"Animal.713",14,"Raqai",5,"EBA",7,"Cal",0.173,0,0.28,0.72
+1452,"Animal.714",14,"Raqai",5,"EBA",7,"Cal",0.188,0,0.26,0.74
+1453,"Animal.715",14,"Raqai",5,"EBA",7,"Cal",-0.134,0,0.89,0.11
+1454,"Animal.717",14,"Raqai",5,"EBA",7,"Cal",0.057,0,0.61,0.39
+1455,"Animal.718",14,"Raqai",5,"EBA",7,"Cal",0.181,0,0.27,0.73
+1456,"Animal.72",5,"El Kowm 2",1,"PPNB",2,"Rad_prox",0.126,0.2,0.34,0.47
+1457,"Animal.720",14,"Raqai",5,"EBA",7,"Cal",0.079,0,0.53,0.47
+1458,"Animal.721",1,"Atij",5,"EBA",8,"Mtt",0.054,0,0.59,0.41
+1459,"Animal.722",1,"Atij",5,"EBA",8,"Mtt",0.056,0,0.58,0.42
+1460,"Animal.723",7,"Gudeda",5,"EBA",8,"Mtt",0.163,0,0.32,0.68
+1461,"Animal.724",14,"Raqai",5,"EBA",8,"Mtt",0.005,0,0.71,0.29
+1462,"Animal.725",14,"Raqai",5,"EBA",8,"Mtt",0.068,0,0.48,0.52
+1463,"Animal.73",5,"El Kowm 2",1,"PPNB",3,"Rad_dist",0.041,0,0.69,0.31
+1464,"Animal.74",5,"El Kowm 2",1,"PPNB",2,"Rad_prox",0.034,0.4,0.45,0.15
+1465,"Animal.75",5,"El Kowm 2",1,"PPNB",3,"Rad_dist",0.02,0,0.75,0.25
+1466,"Animal.7583",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.171,0.06,0.36,0.59
+1467,"Animal.7584",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.123,0.11,0.5,0.39
+1468,"Animal.7585",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.147,0.08,0.43,0.49
+1469,"Animal.7586",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.055,0.18,0.64,0.18
+1470,"Animal.7587",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.155,0.07,0.41,0.52
+1471,"Animal.7588",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.067,0.17,0.63,0.2
+1472,"Animal.7589",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.091,0.14,0.58,0.28
+1473,"Animal.7590",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.111,0.12,0.53,0.35
+1474,"Animal.7591",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.157,0.07,0.4,0.53
+1475,"Animal.7592",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.108,0.12,0.54,0.33
+1476,"Animal.7593",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.105,0.13,0.55,0.32
+1477,"Animal.7594",22,"Tell Mozan",6,"MBA",1,"Hum_dist",0.158,0.07,0.4,0.54
+1478,"Animal.7595",22,"Tell Mozan",6,"MBA",3,"Rad_dist",-0.081,0,0.88,0.12
+1479,"Animal.7596",22,"Tell Mozan",6,"MBA",3,"Rad_dist",-0.009,0,0.78,0.22
+1480,"Animal.7597",22,"Tell Mozan",6,"MBA",2,"Rad_prox",0.01,0.36,0.53,0.11
+1481,"Animal.7598",22,"Tell Mozan",6,"MBA",3,"Rad_dist",0.076,0,0.49,0.51
+1482,"Animal.7599",22,"Tell Mozan",6,"MBA",2,"Rad_prox",0.24,0.02,0.18,0.8
+1483,"Animal.76",5,"El Kowm 2",1,"PPNB",3,"Rad_dist",0.105,0,0.43,0.57
+1484,"Animal.7600",22,"Tell Mozan",6,"MBA",2,"Rad_prox",0.081,0.28,0.47,0.25
+1485,"Animal.7601",22,"Tell Mozan",6,"MBA",2,"Rad_prox",0.076,0.29,0.48,0.23
+1486,"Animal.7602",22,"Tell Mozan",6,"MBA",2,"Rad_prox",0.098,0.25,0.45,0.3
+1487,"Animal.7605",22,"Tell Mozan",6,"MBA",4,"Mtc",0.131,0,0.51,0.49
+1488,"Animal.7606",22,"Tell Mozan",6,"MBA",4,"Mtc",0.233,0,0.19,0.81
+1489,"Animal.7608",22,"Tell Mozan",6,"MBA",4,"Mtc",0.111,0,0.59,0.41
+1490,"Animal.7616",22,"Tell Mozan",6,"MBA",4,"Mtc",0.147,0,0.45,0.55
+1491,"Animal.7618",22,"Tell Mozan",6,"MBA",4,"Mtc",0.076,0,0.71,0.29
+1492,"Animal.7620",22,"Tell Mozan",6,"MBA",4,"Mtc",0.1,0,0.63,0.37
+1493,"Animal.7621",22,"Tell Mozan",6,"MBA",4,"Mtc",0.08,0,0.7,0.3
+1494,"Animal.7624",22,"Tell Mozan",6,"MBA",4,"Mtc",0.045,0,0.79,0.21
+1495,"Animal.7628",22,"Tell Mozan",6,"MBA",5,"Tib",0.117,0,0.51,0.49
+1496,"Animal.7629",22,"Tell Mozan",6,"MBA",5,"Tib",0.063,0,0.7,0.3
+1497,"Animal.7630",22,"Tell Mozan",6,"MBA",5,"Tib",-0.09,0,0.91,0.09
+1498,"Animal.7631",22,"Tell Mozan",6,"MBA",5,"Tib",0.203,0,0.28,0.72
+1499,"Animal.7632",22,"Tell Mozan",6,"MBA",5,"Tib",0.073,0,0.67,0.33
+1500,"Animal.7633",22,"Tell Mozan",6,"MBA",5,"Tib",0.091,0,0.6,0.4
+1501,"Animal.7634",22,"Tell Mozan",6,"MBA",5,"Tib",0.191,0,0.3,0.7
+1502,"Animal.7635",22,"Tell Mozan",6,"MBA",5,"Tib",0.139,0,0.43,0.57
+1503,"Animal.7636",22,"Tell Mozan",6,"MBA",5,"Tib",0.031,0,0.8,0.2
+1504,"Animal.7637",22,"Tell Mozan",6,"MBA",5,"Tib",0.2,0,0.28,0.72
+1505,"Animal.7638",22,"Tell Mozan",6,"MBA",5,"Tib",0.107,0,0.55,0.45
+1506,"Animal.7639",22,"Tell Mozan",6,"MBA",5,"Tib",0.091,0,0.6,0.4
+1507,"Animal.764",8,"Hirbemerdon Tepe",6,"MBA",2,"Rad_prox",0.142,0.3,0.43,0.28
+1508,"Animal.7640",22,"Tell Mozan",6,"MBA",5,"Tib",0.185,0,0.31,0.69
+1509,"Animal.7641",22,"Tell Mozan",6,"MBA",5,"Tib",0.034,0,0.79,0.21
+1510,"Animal.7642",22,"Tell Mozan",6,"MBA",5,"Tib",0.152,0,0.39,0.61
+1511,"Animal.7643",22,"Tell Mozan",6,"MBA",5,"Tib",0.09,0,0.61,0.39
+1512,"Animal.7644",22,"Tell Mozan",6,"MBA",7,"Cal",0.137,0,0.53,0.47
+1513,"Animal.7645",22,"Tell Mozan",6,"MBA",7,"Cal",0.056,0,0.76,0.24
+1514,"Animal.7646",22,"Tell Mozan",6,"MBA",7,"Cal",0.061,0,0.76,0.24
+1515,"Animal.7647",22,"Tell Mozan",6,"MBA",7,"Cal",0.306,0,0.31,0.69
+1516,"Animal.7648",22,"Tell Mozan",6,"MBA",6,"Ast",0.092,0.42,0.38,0.21
+1517,"Animal.7649",22,"Tell Mozan",6,"MBA",6,"Ast",0.187,0.15,0.24,0.61
+1518,"Animal.765",10,"Kenan Tepe",6,"MBA",2,"Rad_prox",0.057,0.34,0.47,0.19
+1519,"Animal.7650",22,"Tell Mozan",6,"MBA",6,"Ast",0.161,0.23,0.28,0.49
+1520,"Animal.7651",22,"Tell Mozan",6,"MBA",6,"Ast",0.057,0.47,0.4,0.13
+1521,"Animal.7652",22,"Tell Mozan",6,"MBA",6,"Ast",0.088,0.42,0.38,0.19
+1522,"Animal.7653",22,"Tell Mozan",6,"MBA",6,"Ast",0.042,0.49,0.41,0.1
+1523,"Animal.7654",22,"Tell Mozan",6,"MBA",6,"Ast",0.028,0.5,0.41,0.09
+1524,"Animal.7655",22,"Tell Mozan",6,"MBA",6,"Ast",0.143,0.28,0.31,0.41
+1525,"Animal.7656",22,"Tell Mozan",6,"MBA",6,"Ast",0.023,0.5,0.42,0.09
+1526,"Animal.7657",22,"Tell Mozan",6,"MBA",6,"Ast",0.102,0.4,0.37,0.24
+1527,"Animal.7658",22,"Tell Mozan",6,"MBA",6,"Ast",0.088,0.43,0.38,0.19
+1528,"Animal.7659",22,"Tell Mozan",6,"MBA",6,"Ast",0.138,0.3,0.32,0.38
+1529,"Animal.766",26,"Turbe Hoyuk",6,"MBA",2,"Rad_prox",0.162,0.31,0.4,0.29
+1530,"Animal.7660",22,"Tell Mozan",6,"MBA",6,"Ast",0.079,0.44,0.39,0.17
+1531,"Animal.7661",22,"Tell Mozan",6,"MBA",6,"Ast",0.075,0.45,0.39,0.16
+1532,"Animal.7662",22,"Tell Mozan",6,"MBA",8,"Mtt",-0.128,0,0.91,0.09
+1533,"Animal.7663",22,"Tell Mozan",6,"MBA",8,"Mtt",0.123,0,0.38,0.62
+1534,"Animal.767",26,"Turbe Hoyuk",6,"MBA",3,"Rad_dist",0.212,0,0.42,0.58
+1535,"Animal.768",9,"Kavusan Hoyuk",6,"MBA",3,"Rad_dist",0.099,0,0.64,0.36
+1536,"Animal.7681",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.154,0.11,0.31,0.58
+1537,"Animal.7682",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.105,0.2,0.43,0.38
+1538,"Animal.7683",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.175,0.08,0.26,0.66
+1539,"Animal.7684",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.135,0.14,0.36,0.51
+1540,"Animal.7685",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.108,0.19,0.42,0.39
+1541,"Animal.7686",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.075,0.26,0.49,0.26
+1542,"Animal.7687",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.006,0.34,0.56,0.1
+1543,"Animal.7688",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.168,0.09,0.28,0.64
+1544,"Animal.7689",20,"Tell Chuera",5,"EBA",1,"Hum_dist",-0.012,0.35,0.58,0.08
+1545,"Animal.769",13,"Muslumantepe",6,"MBA",2,"Rad_prox",0.18,0.24,0.39,0.36
+1546,"Animal.7690",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.114,0.18,0.41,0.42
+1547,"Animal.7691",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.105,0.19,0.43,0.38
+1548,"Animal.7692",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.163,0.09,0.29,0.62
+1549,"Animal.7693",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.151,0.11,0.32,0.57
+1550,"Animal.7694",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.157,0.1,0.3,0.6
+1551,"Animal.7695",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.066,0.27,0.5,0.22
+1552,"Animal.7696",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.051,0.3,0.52,0.18
+1553,"Animal.7697",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.109,0.19,0.42,0.39
+1554,"Animal.7698",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.094,0.22,0.45,0.33
+1555,"Animal.7699",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.108,0.19,0.42,0.39
+1556,"Animal.77",5,"El Kowm 2",1,"PPNB",4,"Mtc",0.058,0,0.71,0.29
+1557,"Animal.770",13,"Muslumantepe",6,"MBA",2,"Rad_prox",0.198,0.2,0.36,0.43
+1558,"Animal.7700",20,"Tell Chuera",5,"EBA",1,"Hum_dist",-0.009,0.35,0.57,0.08
+1559,"Animal.7701",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.097,0.21,0.45,0.34
+1560,"Animal.7704",20,"Tell Chuera",5,"EBA",2,"Rad_prox",-0.035,0.51,0.43,0.06
+1561,"Animal.7705",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.1,0.38,0.32,0.3
+1562,"Animal.7706",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.092,0.4,0.33,0.28
+1563,"Animal.7707",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.138,0.26,0.28,0.46
+1564,"Animal.7708",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.12,0.32,0.3,0.38
+1565,"Animal.7709",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.135,0.27,0.28,0.45
+1566,"Animal.771",8,"Hirbemerdon Tepe",6,"MBA",2,"Rad_prox",0.19,0.19,0.35,0.46
+1567,"Animal.7710",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.065,0.46,0.35,0.19
+1568,"Animal.7711",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.078,0.43,0.34,0.23
+1569,"Animal.7712",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.056,0.47,0.36,0.17
+1570,"Animal.7713",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.035,0,0.76,0.24
+1571,"Animal.7714",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.127,0,0.43,0.57
+1572,"Animal.7715",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.083,0,0.6,0.4
+1573,"Animal.7716",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.154,0,0.34,0.66
+1574,"Animal.7717",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.207,0,0.21,0.79
+1575,"Animal.7718",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.083,0,0.6,0.4
+1576,"Animal.7719",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.016,0,0.81,0.19
+1577,"Animal.772",8,"Hirbemerdon Tepe",6,"MBA",3,"Rad_dist",0.276,0,0.21,0.79
+1578,"Animal.7730",20,"Tell Chuera",5,"EBA",4,"Mtc",0.087,0,0.61,0.39
+1579,"Animal.7732",20,"Tell Chuera",5,"EBA",4,"Mtc",0.172,0,0.29,0.71
+1580,"Animal.7733",20,"Tell Chuera",5,"EBA",4,"Mtc",0.024,0,0.81,0.19
+1581,"Animal.7734",20,"Tell Chuera",5,"EBA",4,"Mtc",0.069,0,0.67,0.33
+1582,"Animal.7735",20,"Tell Chuera",5,"EBA",4,"Mtc",0.1,0,0.56,0.44
+1583,"Animal.7736",20,"Tell Chuera",5,"EBA",4,"Mtc",0.1,0,0.56,0.44
+1584,"Animal.7737",20,"Tell Chuera",5,"EBA",4,"Mtc",0.172,0,0.29,0.71
+1585,"Animal.7749",20,"Tell Chuera",5,"EBA",6,"Ast",0.14,0.48,0.24,0.28
+1586,"Animal.7750",20,"Tell Chuera",5,"EBA",6,"Ast",0.092,0.57,0.28,0.15
+1587,"Animal.7751",20,"Tell Chuera",5,"EBA",6,"Ast",0.139,0.48,0.23,0.28
+1588,"Animal.7753",20,"Tell Chuera",5,"EBA",6,"Ast",0.096,0.57,0.27,0.16
+1589,"Animal.7754",20,"Tell Chuera",5,"EBA",6,"Ast",0.1,0.56,0.27,0.17
+1590,"Animal.7755",20,"Tell Chuera",5,"EBA",6,"Ast",0.139,0.48,0.24,0.28
+1591,"Animal.7756",20,"Tell Chuera",5,"EBA",6,"Ast",0.109,0.55,0.26,0.19
+1592,"Animal.7757",20,"Tell Chuera",5,"EBA",6,"Ast",0.082,0.58,0.28,0.13
+1593,"Animal.7758",20,"Tell Chuera",5,"EBA",6,"Ast",0.157,0.43,0.22,0.35
+1594,"Animal.7759",20,"Tell Chuera",5,"EBA",6,"Ast",0.027,0.63,0.31,0.06
+1595,"Animal.7760",20,"Tell Chuera",5,"EBA",6,"Ast",0.1,0.56,0.27,0.17
+1596,"Animal.7761",20,"Tell Chuera",5,"EBA",6,"Ast",0.144,0.47,0.23,0.3
+1597,"Animal.7762",20,"Tell Chuera",5,"EBA",6,"Ast",0.083,0.58,0.28,0.13
+1598,"Animal.7763",20,"Tell Chuera",5,"EBA",6,"Ast",0.135,0.49,0.24,0.26
+1599,"Animal.7764",20,"Tell Chuera",5,"EBA",6,"Ast",0.139,0.48,0.23,0.28
+1600,"Animal.7765",20,"Tell Chuera",5,"EBA",6,"Ast",0.012,0.63,0.31,0.05
+1601,"Animal.7766",20,"Tell Chuera",5,"EBA",6,"Ast",0.152,0.45,0.22,0.33
+1602,"Animal.7767",20,"Tell Chuera",5,"EBA",6,"Ast",0.069,0.6,0.29,0.11
+1603,"Animal.7768",20,"Tell Chuera",5,"EBA",6,"Ast",0.152,0.45,0.22,0.33
+1604,"Animal.7769",20,"Tell Chuera",5,"EBA",6,"Ast",0.183,0.34,0.2,0.46
+1605,"Animal.7770",20,"Tell Chuera",5,"EBA",6,"Ast",0.082,0.59,0.28,0.13
+1606,"Animal.7771",20,"Tell Chuera",5,"EBA",6,"Ast",0.147,0.46,0.23,0.31
+1607,"Animal.7772",20,"Tell Chuera",5,"EBA",6,"Ast",0.135,0.49,0.24,0.27
+1608,"Animal.7792",20,"Tell Chuera",5,"EBA",8,"Mtt",0.08,0,0.55,0.45
+1609,"Animal.7793",20,"Tell Chuera",5,"EBA",8,"Mtt",0.166,0,0.29,0.71
+1610,"Animal.7794",20,"Tell Chuera",5,"EBA",8,"Mtt",0.156,0,0.31,0.69
+1611,"Animal.7795",20,"Tell Chuera",5,"EBA",8,"Mtt",0.154,0,0.32,0.68
+1612,"Animal.7796",20,"Tell Chuera",5,"EBA",8,"Mtt",0.122,0,0.39,0.61
+1613,"Animal.7797",20,"Tell Chuera",5,"EBA",8,"Mtt",-0.124,0,0.92,0.08
+1614,"Animal.7798",20,"Tell Chuera",5,"EBA",8,"Mtt",0.076,0,0.56,0.44
+1615,"Animal.7799",20,"Tell Chuera",5,"EBA",8,"Mtt",0.123,0,0.39,0.61
+1616,"Animal.78",5,"El Kowm 2",1,"PPNB",4,"Mtc",0.051,0,0.73,0.27
+1617,"Animal.7800",20,"Tell Chuera",5,"EBA",8,"Mtt",0.195,0,0.26,0.74
+1618,"Animal.7801",20,"Tell Chuera",5,"EBA",8,"Mtt",0.116,0,0.41,0.59
+1619,"Animal.7802",20,"Tell Chuera",5,"EBA",9,"PH1",0.212,0,0.21,0.79
+1620,"Animal.7803",20,"Tell Chuera",5,"EBA",9,"PH1",0.099,0,0.61,0.39
+1621,"Animal.7804",20,"Tell Chuera",5,"EBA",9,"PH1",0.111,0,0.56,0.44
+1622,"Animal.7805",20,"Tell Chuera",5,"EBA",9,"PH1",0.158,0,0.38,0.62
+1623,"Animal.7806",20,"Tell Chuera",5,"EBA",9,"PH1",0.111,0,0.56,0.44
+1624,"Animal.7807",20,"Tell Chuera",5,"EBA",9,"PH1",0.093,0,0.63,0.37
+1625,"Animal.7808",20,"Tell Chuera",5,"EBA",9,"PH1",0.11,0,0.57,0.43
+1626,"Animal.7809",20,"Tell Chuera",5,"EBA",9,"PH1",0.109,0,0.57,0.43
+1627,"Animal.7810",20,"Tell Chuera",5,"EBA",9,"PH1",0.115,0,0.55,0.45
+1628,"Animal.7811",20,"Tell Chuera",5,"EBA",9,"PH1",0.162,0,0.36,0.64
+1629,"Animal.7812",20,"Tell Chuera",5,"EBA",9,"PH1",0.088,0,0.65,0.35
+1630,"Animal.7813",20,"Tell Chuera",5,"EBA",9,"PH1",0.03,0,0.81,0.19
+1631,"Animal.7814",20,"Tell Chuera",5,"EBA",9,"PH1",0.109,0,0.57,0.43
+1632,"Animal.7815",20,"Tell Chuera",5,"EBA",9,"PH1",0.131,0,0.48,0.52
+1633,"Animal.7816",20,"Tell Chuera",5,"EBA",9,"PH1",0.124,0,0.51,0.49
+1634,"Animal.7817",20,"Tell Chuera",5,"EBA",9,"PH1",0.108,0,0.58,0.42
+1635,"Animal.7818",20,"Tell Chuera",5,"EBA",9,"PH1",0.165,0,0.35,0.65
+1636,"Animal.7819",20,"Tell Chuera",5,"EBA",9,"PH1",0.11,0,0.57,0.43
+1637,"Animal.782",8,"Hirbemerdon Tepe",6,"MBA",7,"Cal",0.268,0,0.27,0.73
+1638,"Animal.7820",20,"Tell Chuera",5,"EBA",9,"PH1",0.14,0,0.45,0.55
+1639,"Animal.7821",20,"Tell Chuera",5,"EBA",9,"PH1",0.101,0,0.6,0.4
+1640,"Animal.7822",20,"Tell Chuera",5,"EBA",9,"PH1",0.019,0,0.83,0.17
+1641,"Animal.7823",20,"Tell Chuera",5,"EBA",9,"PH1",0.067,0,0.72,0.28
+1642,"Animal.7824",20,"Tell Chuera",5,"EBA",9,"PH1",0.213,0,0.21,0.79
+1643,"Animal.7825",20,"Tell Chuera",5,"EBA",9,"PH1",0.155,0,0.39,0.61
+1644,"Animal.7826",20,"Tell Chuera",5,"EBA",9,"PH1",0.177,0,0.31,0.69
+1645,"Animal.7827",20,"Tell Chuera",5,"EBA",9,"PH1",0.213,0,0.21,0.79
+1646,"Animal.7828",20,"Tell Chuera",5,"EBA",9,"PH1",0.144,0,0.43,0.57
+1647,"Animal.7829",20,"Tell Chuera",5,"EBA",9,"PH1",0.179,0,0.3,0.7
+1648,"Animal.783",8,"Hirbemerdon Tepe",6,"MBA",7,"Cal",-0.001,0,0.86,0.14
+1649,"Animal.7830",20,"Tell Chuera",5,"EBA",9,"PH1",0.098,0,0.61,0.39
+1650,"Animal.7831",20,"Tell Chuera",5,"EBA",9,"PH1",0.094,0,0.63,0.37
+1651,"Animal.7832",20,"Tell Chuera",5,"EBA",9,"PH1",0.079,0,0.68,0.32
+1652,"Animal.7833",20,"Tell Chuera",5,"EBA",9,"PH1",0.038,0,0.79,0.21
+1653,"Animal.7834",20,"Tell Chuera",5,"EBA",9,"PH1",0.157,0,0.38,0.62
+1654,"Animal.7835",20,"Tell Chuera",5,"EBA",9,"PH1",0.065,0,0.72,0.28
+1655,"Animal.7836",20,"Tell Chuera",5,"EBA",9,"PH1",0.22,0,0.2,0.8
+1656,"Animal.7837",20,"Tell Chuera",5,"EBA",9,"PH1",0.22,0,0.2,0.8
+1657,"Animal.7838",20,"Tell Chuera",5,"EBA",10,"PH2",0.248,0,0.28,0.72
+1658,"Animal.7839",20,"Tell Chuera",5,"EBA",10,"PH2",0.253,0,0.28,0.72
+1659,"Animal.784",8,"Hirbemerdon Tepe",6,"MBA",7,"Cal",0.019,0,0.85,0.15
+1660,"Animal.7840",20,"Tell Chuera",5,"EBA",10,"PH2",-0.086,0,0.83,0.17
+1661,"Animal.7841",20,"Tell Chuera",5,"EBA",10,"PH2",0.174,0,0.38,0.62
+1662,"Animal.7842",20,"Tell Chuera",5,"EBA",10,"PH2",0.159,0,0.42,0.58
+1663,"Animal.7843",20,"Tell Chuera",5,"EBA",10,"PH2",0.187,0,0.35,0.65
+1664,"Animal.7844",20,"Tell Chuera",5,"EBA",10,"PH2",0.327,0,0.33,0.67
+1665,"Animal.7845",20,"Tell Chuera",5,"EBA",10,"PH2",0.077,0,0.69,0.31
+1666,"Animal.7846",20,"Tell Chuera",5,"EBA",10,"PH2",0.16,0,0.42,0.58
+1667,"Animal.7847",20,"Tell Chuera",5,"EBA",10,"PH2",0.06,0,0.74,0.26
+1668,"Animal.7848",20,"Tell Chuera",5,"EBA",10,"PH2",0.138,0,0.49,0.51
+1669,"Animal.7849",20,"Tell Chuera",5,"EBA",10,"PH2",0.076,0,0.69,0.31
+1670,"Animal.785",10,"Kenan Tepe",6,"MBA",7,"Cal",-0.127,0,0.88,0.12
+1671,"Animal.786",10,"Kenan Tepe",6,"MBA",7,"Cal",0.134,0,0.4,0.6
+1672,"Animal.787",13,"Muslumantepe",6,"MBA",7,"Cal",0.109,0,0.7,0.3
+1673,"Animal.7871",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.085,0.24,0.47,0.29
+1674,"Animal.7872",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.216,0.04,0.19,0.77
+1675,"Animal.7873",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.157,0.1,0.3,0.6
+1676,"Animal.7874",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.188,0.06,0.23,0.7
+1677,"Animal.7875",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.159,0.1,0.3,0.6
+1678,"Animal.7876",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.07,0.26,0.5,0.24
+1679,"Animal.7877",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.187,0.06,0.24,0.7
+1680,"Animal.7878",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.114,0.18,0.41,0.41
+1681,"Animal.7879",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.009,0.34,0.56,0.1
+1682,"Animal.7880",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.032,0.32,0.54,0.13
+1683,"Animal.7881",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.134,0.14,0.36,0.5
+1684,"Animal.7882",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.191,0.06,0.23,0.71
+1685,"Animal.7883",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.089,0.23,0.47,0.31
+1686,"Animal.7884",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.136,0.14,0.35,0.51
+1687,"Animal.7886",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.061,0.28,0.51,0.21
+1688,"Animal.7887",20,"Tell Chuera",5,"EBA",1,"Hum_dist",0.163,0.09,0.29,0.62
+1689,"Animal.7888",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",0.095,0.14,0.48,0.38
+1690,"Animal.7889",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",-0.014,0.28,0.6,0.12
+1691,"Animal.7890",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",0.243,0.01,0.11,0.88
+1692,"Animal.7891",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",0.218,0.02,0.14,0.84
+1693,"Animal.7892",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",0.025,0.24,0.59,0.17
+1694,"Animal.7893",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",0.091,0.14,0.49,0.37
+1695,"Animal.7894",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",0.017,0.25,0.59,0.15
+1696,"Animal.7895",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",0.032,0.24,0.58,0.18
+1697,"Animal.7896",11,"Kharab Sayyar",5,"EBA",1,"Hum_dist",0.184,0.03,0.2,0.76
+1698,"Animal.7897",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.1,0.37,0.32,0.3
+1699,"Animal.7898",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.21,0.08,0.19,0.73
+1700,"Animal.7899",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.09,0.4,0.33,0.27
+1701,"Animal.79",5,"El Kowm 2",1,"PPNB",4,"Mtc",0.156,0,0.31,0.69
+1702,"Animal.7900",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.013,0.52,0.38,0.09
+1703,"Animal.7901",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.143,0.25,0.27,0.48
+1704,"Animal.7902",20,"Tell Chuera",5,"EBA",2,"Rad_prox",0.112,0.34,0.31,0.35
+1705,"Animal.7903",11,"Kharab Sayyar",5,"EBA",2,"Rad_prox",0.168,0.19,0.3,0.51
+1706,"Animal.7904",11,"Kharab Sayyar",5,"EBA",2,"Rad_prox",0.206,0.11,0.23,0.66
+1707,"Animal.7905",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.133,0,0.41,0.59
+1708,"Animal.7906",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.146,0,0.36,0.64
+1709,"Animal.7907",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.126,0,0.43,0.57
+1710,"Animal.7908",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.039,0,0.75,0.25
+1711,"Animal.7909",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.101,0,0.53,0.47
+1712,"Animal.7910",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.083,0,0.6,0.4
+1713,"Animal.7911",20,"Tell Chuera",5,"EBA",3,"Rad_dist",0.053,0,0.71,0.29
+1714,"Animal.7912",11,"Kharab Sayyar",5,"EBA",3,"Rad_dist",0.125,0,0.36,0.64
+1715,"Animal.7913",11,"Kharab Sayyar",5,"EBA",3,"Rad_dist",0.026,0,0.73,0.27
+1716,"Animal.7914",11,"Kharab Sayyar",5,"EBA",3,"Rad_dist",0.045,0,0.67,0.33
+1717,"Animal.793",8,"Hirbemerdon Tepe",6,"MBA",6,"Ast",0.091,0.49,0.37,0.14
+1718,"Animal.7938",20,"Tell Chuera",5,"EBA",6,"Ast",0.14,0.48,0.24,0.28
+1719,"Animal.7939",20,"Tell Chuera",5,"EBA",6,"Ast",0.095,0.57,0.27,0.16
+1720,"Animal.794",8,"Hirbemerdon Tepe",6,"MBA",6,"Ast",0.132,0.41,0.34,0.25
+1721,"Animal.7940",20,"Tell Chuera",5,"EBA",6,"Ast",0.082,0.58,0.28,0.13
+1722,"Animal.7941",20,"Tell Chuera",5,"EBA",6,"Ast",0.104,0.55,0.26,0.18
+1723,"Animal.7942",20,"Tell Chuera",5,"EBA",6,"Ast",0.074,0.6,0.29,0.12
+1724,"Animal.7943",20,"Tell Chuera",5,"EBA",6,"Ast",0.105,0.55,0.27,0.18
+1725,"Animal.7944",20,"Tell Chuera",5,"EBA",6,"Ast",0.027,0.63,0.31,0.06
+1726,"Animal.7945",20,"Tell Chuera",5,"EBA",6,"Ast",0.105,0.55,0.27,0.18
+1727,"Animal.7946",20,"Tell Chuera",5,"EBA",6,"Ast",0.139,0.48,0.24,0.28
+1728,"Animal.7947",11,"Kharab Sayyar",5,"EBA",6,"Ast",0.084,0.5,0.33,0.18
+1729,"Animal.7948",11,"Kharab Sayyar",5,"EBA",6,"Ast",0.07,0.52,0.33,0.15
+1730,"Animal.7949",11,"Kharab Sayyar",5,"EBA",6,"Ast",0.187,0.19,0.19,0.63
+1731,"Animal.795",8,"Hirbemerdon Tepe",6,"MBA",6,"Ast",0.06,0.52,0.38,0.1
+1732,"Animal.7950",11,"Kharab Sayyar",5,"EBA",6,"Ast",0.084,0.5,0.32,0.18
+1733,"Animal.7951",11,"Kharab Sayyar",5,"EBA",6,"Ast",0.102,0.46,0.31,0.23
+1734,"Animal.7953",11,"Kharab Sayyar",5,"EBA",6,"Ast",0.048,0.55,0.34,0.11
+1735,"Animal.7954",20,"Tell Chuera",5,"EBA",7,"Cal",0.179,0,0.36,0.64
+1736,"Animal.7955",11,"Kharab Sayyar",5,"EBA",7,"Cal",0.259,0,0.26,0.74
+1737,"Animal.7956",11,"Kharab Sayyar",5,"EBA",7,"Cal",0.281,0,0.24,0.76
+1738,"Animal.7957",11,"Kharab Sayyar",5,"EBA",7,"Cal",0.222,0,0.33,0.67
+1739,"Animal.796",2,"Basur Hoyuk",6,"MBA",6,"Ast",0.228,0.31,0.28,0.41
+1740,"Animal.797",10,"Kenan Tepe",6,"MBA",6,"Ast",0.095,0.45,0.36,0.18
+1741,"Animal.7970",11,"Kharab Sayyar",5,"EBA",4,"Mtc",0.028,0,0.73,0.27
+1742,"Animal.7972",20,"Tell Chuera",5,"EBA",4,"Mtc",0.159,0,0.33,0.67
+1743,"Animal.7973",11,"Kharab Sayyar",5,"EBA",4,"Mtc",0.131,0,0.35,0.65
+1744,"Animal.7974",11,"Kharab Sayyar",5,"EBA",4,"Mtc",0.039,0,0.7,0.3
+1745,"Animal.7979",20,"Tell Chuera",5,"EBA",8,"Mtt",-0.011,0,0.85,0.15
+1746,"Animal.798",10,"Kenan Tepe",6,"MBA",6,"Ast",0.108,0.43,0.35,0.22
+1747,"Animal.7983",20,"Tell Chuera",5,"EBA",8,"Mtt",0.173,0,0.28,0.72
+1748,"Animal.7984",20,"Tell Chuera",5,"EBA",8,"Mtt",0.068,0,0.59,0.41
+1749,"Animal.7985",20,"Tell Chuera",5,"EBA",8,"Mtt",0.06,0,0.63,0.37
+1750,"Animal.7987",20,"Tell Chuera",5,"EBA",8,"Mtt",0.134,0,0.36,0.64
+1751,"Animal.7988",20,"Tell Chuera",5,"EBA",8,"Mtt",0.029,0,0.74,0.26
+1752,"Animal.7989",20,"Tell Chuera",5,"EBA",8,"Mtt",0.112,0,0.43,0.57
+1753,"Animal.799",10,"Kenan Tepe",6,"MBA",6,"Ast",0.109,0.43,0.35,0.22
+1754,"Animal.7990",20,"Tell Chuera",5,"EBA",8,"Mtt",0.087,0,0.52,0.48
+1755,"Animal.7991",20,"Tell Chuera",5,"EBA",8,"Mtt",0.038,0,0.71,0.29
+1756,"Animal.7992",11,"Kharab Sayyar",5,"EBA",8,"Mtt",-0.008,0,0.78,0.22
+1757,"Animal.7993",20,"Tell Chuera",5,"EBA",9,"PH1",0.065,0,0.73,0.27
+1758,"Animal.7994",20,"Tell Chuera",5,"EBA",9,"PH1",0.063,0,0.73,0.27
+1759,"Animal.7995",20,"Tell Chuera",5,"EBA",9,"PH1",0.09,0,0.64,0.36
+1760,"Animal.7996",20,"Tell Chuera",5,"EBA",9,"PH1",0.195,0,0.25,0.75
+1761,"Animal.7997",20,"Tell Chuera",5,"EBA",9,"PH1",0.137,0,0.46,0.54
+1762,"Animal.7998",20,"Tell Chuera",5,"EBA",9,"PH1",0.083,0,0.67,0.33
+1763,"Animal.7999",20,"Tell Chuera",5,"EBA",9,"PH1",0.057,0,0.75,0.25
+1764,"Animal.8",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.249,0.18,0.15,0.67
+1765,"Animal.80",5,"El Kowm 2",1,"PPNB",4,"Mtc",0.125,0,0.45,0.55
+1766,"Animal.800",13,"Muslumantepe",6,"MBA",6,"Ast",0.271,0.21,0.23,0.56
+1767,"Animal.8000",20,"Tell Chuera",5,"EBA",9,"PH1",0.179,0,0.3,0.7
+1768,"Animal.8001",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.034,0,0.72,0.28
+1769,"Animal.8002",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.066,0,0.61,0.39
+1770,"Animal.8003",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.121,0,0.39,0.61
+1771,"Animal.8005",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.111,0,0.43,0.57
+1772,"Animal.8006",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.052,0,0.66,0.34
+1773,"Animal.8007",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.028,0,0.74,0.26
+1774,"Animal.8008",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.151,0,0.27,0.73
+1775,"Animal.8009",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.04,0,0.7,0.3
+1776,"Animal.801",13,"Muslumantepe",6,"MBA",6,"Ast",0.226,0.33,0.3,0.37
+1777,"Animal.8010",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.106,0,0.45,0.55
+1778,"Animal.8011",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.034,0,0.72,0.28
+1779,"Animal.8012",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.107,0,0.45,0.55
+1780,"Animal.8013",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.054,0,0.66,0.34
+1781,"Animal.8014",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.083,0,0.55,0.45
+1782,"Animal.8015",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.094,0,0.5,0.5
+1783,"Animal.8016",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.058,0,0.64,0.36
+1784,"Animal.8017",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.024,0,0.75,0.25
+1785,"Animal.8018",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.108,0,0.44,0.56
+1786,"Animal.8019",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.046,0,0.69,0.31
+1787,"Animal.8020",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.126,0,0.37,0.63
+1788,"Animal.8021",11,"Kharab Sayyar",5,"EBA",9,"PH1",0.132,0,0.35,0.65
+1789,"Animal.8022",20,"Tell Chuera",5,"EBA",10,"PH2",-0.049,0,0.84,0.16
+1790,"Animal.8023",20,"Tell Chuera",5,"EBA",10,"PH2",0.187,0,0.34,0.66
+1791,"Animal.8024",20,"Tell Chuera",5,"EBA",10,"PH2",0.272,0,0.28,0.72
+1792,"Animal.8025",20,"Tell Chuera",5,"EBA",10,"PH2",0.028,0,0.8,0.2
+1793,"Animal.8026",20,"Tell Chuera",5,"EBA",10,"PH2",0.028,0,0.8,0.2
+1794,"Animal.8027",20,"Tell Chuera",5,"EBA",10,"PH2",0.084,0,0.67,0.33
+1795,"Animal.8028",20,"Tell Chuera",5,"EBA",10,"PH2",0.187,0,0.35,0.65
+1796,"Animal.8029",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.084,0,0.65,0.35
+1797,"Animal.8030",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.06,0,0.72,0.28
+1798,"Animal.8031",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.061,0,0.72,0.28
+1799,"Animal.8033",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.3,0,0.2,0.8
+1800,"Animal.8034",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.158,0,0.4,0.6
+1801,"Animal.8035",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.077,0,0.67,0.33
+1802,"Animal.8036",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.069,0,0.7,0.3
+1803,"Animal.8037",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.171,0,0.35,0.65
+1804,"Animal.8038",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.136,0,0.47,0.53
+1805,"Animal.8039",11,"Kharab Sayyar",5,"EBA",10,"PH2",0.114,0,0.55,0.45
+1806,"Animal.81",5,"El Kowm 2",1,"PPNB",8,"Mtt",0.034,0,0.74,0.26
+1807,"Animal.813",8,"Hirbemerdon Tepe",6,"MBA",8,"Mtt",-0.015,0,0.86,0.14
+1808,"Animal.814",8,"Hirbemerdon Tepe",6,"MBA",8,"Mtt",0.025,0,0.78,0.22
+1809,"Animal.815",26,"Turbe Hoyuk",6,"MBA",8,"Mtt",0.186,0,0.55,0.45
+1810,"Animal.816",26,"Turbe Hoyuk",6,"MBA",8,"Mtt",0.274,0,0.28,0.72
+1811,"Animal.817",8,"Hirbemerdon Tepe",6,"MBA",8,"Mtt",0.079,0,0.62,0.38
+1812,"Animal.82",5,"El Kowm 2",1,"PPNB",8,"Mtt",0.103,0,0.48,0.52
+1813,"Animal.83",5,"El Kowm 2",1,"PPNB",8,"Mtt",0.144,0,0.33,0.67
+1814,"Animal.84",5,"El Kowm 2",1,"PPNB",8,"Mtt",0.106,0,0.47,0.53
+1815,"Animal.841",18,"Tell Beydar",5,"EBA",1,"Hum_dist",0.091,0.13,0.54,0.33
+1816,"Animal.842",18,"Tell Beydar",5,"EBA",1,"Hum_dist",0.169,0.05,0.3,0.66
+1817,"Animal.843",18,"Tell Beydar",5,"EBA",1,"Hum_dist",0.156,0.06,0.34,0.6
+1818,"Animal.844",18,"Tell Beydar",5,"EBA",1,"Hum_dist",0.212,0.02,0.18,0.79
+1819,"Animal.845",18,"Tell Beydar",5,"EBA",2,"Rad_prox",-0.016,0.37,0.51,0.11
+1820,"Animal.846",18,"Tell Beydar",5,"EBA",3,"Rad_dist",0.032,0,0.7,0.3
+1821,"Animal.847",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.084,0.23,0.42,0.35
+1822,"Animal.848",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.128,0.13,0.32,0.54
+1823,"Animal.849",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.136,0.12,0.3,0.58
+1824,"Animal.85",5,"El Kowm 2",1,"PPNB",8,"Mtt",0.067,0,0.62,0.38
+1825,"Animal.850",18,"Tell Beydar",5,"EBA",3,"Rad_dist",0.026,0,0.72,0.28
+1826,"Animal.851",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.092,0.21,0.41,0.38
+1827,"Animal.852",18,"Tell Beydar",5,"EBA",2,"Rad_prox",0.125,0.14,0.33,0.53
+1828,"Animal.853",18,"Tell Beydar",5,"EBA",3,"Rad_dist",0.062,0,0.58,0.42
+1829,"Animal.854",18,"Tell Beydar",5,"EBA",3,"Rad_dist",0.152,0,0.25,0.75
+1830,"Animal.855",18,"Tell Beydar",5,"EBA",3,"Rad_dist",0.041,0,0.66,0.34
+1831,"Animal.856",18,"Tell Beydar",5,"EBA",3,"Rad_dist",0.163,0,0.22,0.78
+1832,"Animal.857",18,"Tell Beydar",5,"EBA",4,"Mtc",0.04,0,0.64,0.36
+1833,"Animal.858",18,"Tell Beydar",5,"EBA",4,"Mtc",0.055,0,0.59,0.41
+1834,"Animal.859",18,"Tell Beydar",5,"EBA",4,"Mtc",0.047,0,0.62,0.38
+1835,"Animal.86",5,"El Kowm 2",1,"PPNB",8,"Mtt",0.037,0,0.72,0.28
+1836,"Animal.860",18,"Tell Beydar",5,"EBA",6,"Ast",0.138,0.19,0.26,0.55
+1837,"Animal.861",18,"Tell Beydar",5,"EBA",6,"Ast",0.043,0.46,0.39,0.16
+1838,"Animal.862",18,"Tell Beydar",5,"EBA",6,"Ast",0.067,0.41,0.37,0.22
+1839,"Animal.863",18,"Tell Beydar",5,"EBA",6,"Ast",0.073,0.4,0.37,0.23
+1840,"Animal.864",18,"Tell Beydar",5,"EBA",6,"Ast",-0.04,0.5,0.41,0.09
+1841,"Animal.866",18,"Tell Beydar",5,"EBA",6,"Ast",0.053,0.44,0.38,0.18
+1842,"Animal.867",18,"Tell Beydar",5,"EBA",6,"Ast",0.063,0.42,0.38,0.2
+1843,"Animal.868",18,"Tell Beydar",5,"EBA",6,"Ast",0.082,0.37,0.36,0.27
+1844,"Animal.869",18,"Tell Beydar",5,"EBA",6,"Ast",0.124,0.24,0.29,0.47
+1845,"Animal.870",18,"Tell Beydar",5,"EBA",6,"Ast",0.015,0.49,0.39,0.11
+1846,"Animal.871",18,"Tell Beydar",5,"EBA",6,"Ast",0.125,0.23,0.29,0.48
+1847,"Animal.872",18,"Tell Beydar",5,"EBA",6,"Ast",0.091,0.35,0.35,0.31
+1848,"Animal.873",18,"Tell Beydar",5,"EBA",6,"Ast",0.067,0.41,0.37,0.22
+1849,"Animal.874",18,"Tell Beydar",5,"EBA",6,"Ast",0.024,0.48,0.39,0.12
+1850,"Animal.875",18,"Tell Beydar",5,"EBA",6,"Ast",0.011,0.5,0.39,0.11
+1851,"Animal.876",18,"Tell Beydar",5,"EBA",6,"Ast",0.222,0.03,0.12,0.86
+1852,"Animal.877",18,"Tell Beydar",5,"EBA",6,"Ast",0.01,0.5,0.4,0.11
+1853,"Animal.878",18,"Tell Beydar",5,"EBA",6,"Ast",0.053,0.44,0.38,0.18
+1854,"Animal.879",18,"Tell Beydar",5,"EBA",6,"Ast",0.025,0.48,0.39,0.12
+1855,"Animal.881",18,"Tell Beydar",5,"EBA",7,"Cal",0.072,0,0.54,0.46
+1856,"Animal.882",18,"Tell Beydar",5,"EBA",7,"Cal",-0.015,0,0.8,0.2
+1857,"Animal.883",18,"Tell Beydar",5,"EBA",7,"Cal",0.049,0,0.62,0.38
+1858,"Animal.885",18,"Tell Beydar",5,"EBA",7,"Cal",0.186,0,0.25,0.75
+1859,"Animal.886",18,"Tell Beydar",5,"EBA",8,"Mtt",0.101,0,0.43,0.57
+1860,"Animal.887",18,"Tell Beydar",5,"EBA",8,"Mtt",0.176,0,0.23,0.77
+1861,"Animal.888",18,"Tell Beydar",5,"EBA",8,"Mtt",0.057,0,0.61,0.39
+1862,"Animal.889",18,"Tell Beydar",5,"EBA",8,"Mtt",0.108,0,0.41,0.59
+1863,"Animal.890",18,"Tell Beydar",5,"EBA",8,"Mtt",0.119,0,0.37,0.63
+1864,"Animal.891",18,"Tell Beydar",5,"EBA",8,"Mtt",0.143,0,0.3,0.7
+1865,"Animal.892",18,"Tell Beydar",5,"EBA",8,"Mtt",0.16,0,0.26,0.74
+1866,"Animal.893",18,"Tell Beydar",5,"EBA",8,"Mtt",-0.071,0,0.91,0.09
+1867,"Animal.894",18,"Tell Beydar",5,"EBA",8,"Mtt",-0.037,0,0.88,0.12
+1868,"Animal.895",18,"Tell Beydar",5,"EBA",8,"Mtt",0.075,0,0.53,0.47
+1869,"Animal.896",18,"Tell Beydar",5,"EBA",8,"Mtt",0.126,0,0.35,0.65
+1870,"Animal.897",18,"Tell Beydar",5,"EBA",8,"Mtt",0.139,0,0.31,0.69
+1871,"Animal.898",18,"Tell Beydar",5,"EBA",8,"Mtt",0.142,0,0.3,0.7
+1872,"Animal.899",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.106,0.25,0.29,0.46
+1873,"Animal.9",25,"Tell Surezha",3,"LC 1-3",6,"Ast",0.194,0.38,0.22,0.4
+1874,"Animal.900",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.187,0.06,0.13,0.81
+1875,"Animal.901",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.116,0.22,0.27,0.51
+1876,"Animal.902",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.111,0.24,0.28,0.48
+1877,"Animal.903",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.102,0.26,0.3,0.44
+1878,"Animal.904",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.06,0.38,0.37,0.25
+1879,"Animal.905",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.017,0.47,0.4,0.13
+1880,"Animal.906",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.083,0.32,0.34,0.34
+1881,"Animal.907",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.068,0.55,0.38,0.07
+1882,"Animal.908",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.078,0.33,0.35,0.32
+1883,"Animal.909",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.063,0.55,0.38,0.07
+1884,"Animal.91",4,"El Kowm 2",1,"PN",6,"Ast",0.059,0.48,0.37,0.15
+1885,"Animal.910",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.023,0.46,0.4,0.14
+1886,"Animal.913",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.051,0.4,0.38,0.21
+1887,"Animal.914",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.078,0.33,0.35,0.32
+1888,"Animal.915",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.021,0.52,0.39,0.09
+1889,"Animal.916",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.05,0.4,0.38,0.21
+1890,"Animal.917",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.228,0.02,0.09,0.89
+1891,"Animal.918",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.046,0.41,0.39,0.2
+1892,"Animal.92",4,"El Kowm 2",1,"PN",6,"Ast",0.181,0.15,0.17,0.68
+1893,"Animal.920",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.102,0.26,0.3,0.43
+1894,"Animal.921",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.06,0.38,0.37,0.24
+1895,"Animal.922",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.007,0.48,0.4,0.12
+1896,"Animal.923",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.002,0.5,0.4,0.11
+1897,"Animal.924",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.032,0.44,0.39,0.16
+1898,"Animal.926",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.125,0.2,0.25,0.55
+1899,"Animal.927",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.134,0.17,0.23,0.6
+1900,"Animal.929",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.032,0.44,0.39,0.16
+1901,"Animal.93",4,"El Kowm 2",1,"PN",6,"Ast",0.082,0.44,0.35,0.21
+1902,"Animal.932",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.069,0.36,0.36,0.28
+1903,"Animal.933",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.17,0.09,0.15,0.76
+1904,"Animal.934",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.056,0.39,0.38,0.23
+1905,"Animal.936",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.022,0.46,0.4,0.14
+1906,"Animal.937",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.008,0.48,0.4,0.12
+1907,"Animal.938",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.022,0.46,0.4,0.14
+1908,"Animal.939",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.107,0.25,0.29,0.46
+1909,"Animal.94",4,"El Kowm 2",1,"PN",6,"Ast",0.059,0.48,0.37,0.15
+1910,"Animal.940",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.032,0.53,0.39,0.08
+1911,"Animal.941",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.134,0.17,0.23,0.6
+1912,"Animal.942",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.079,0.33,0.35,0.32
+1913,"Animal.943",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.079,0.33,0.35,0.32
+1914,"Animal.944",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.011,0.51,0.4,0.1
+1915,"Animal.945",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.07,0.36,0.36,0.28
+1916,"Animal.946",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.007,0.48,0.4,0.12
+1917,"Animal.947",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.051,0.4,0.38,0.21
+1918,"Animal.949",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.097,0.28,0.31,0.41
+1919,"Animal.951",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.055,0.39,0.38,0.23
+1920,"Animal.952",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.05,0.4,0.38,0.21
+1921,"Animal.953",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.065,0.37,0.37,0.26
+1922,"Animal.954",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.041,0.42,0.39,0.19
+1923,"Animal.956",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.022,0.46,0.4,0.14
+1924,"Animal.957",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.125,0.2,0.25,0.56
+1925,"Animal.958",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.002,0.49,0.4,0.11
+1926,"Animal.959",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.079,0.33,0.35,0.32
+1927,"Animal.96",4,"El Kowm 2",1,"PN",6,"Ast",0.05,0.5,0.37,0.13
+1928,"Animal.960",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.093,0.29,0.32,0.39
+1929,"Animal.961",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.074,0.35,0.35,0.3
+1930,"Animal.962",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.003,0.49,0.4,0.11
+1931,"Animal.963",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.031,0.44,0.4,0.16
+1932,"Animal.964",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.041,0.42,0.39,0.19
+1933,"Animal.965",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.003,0.49,0.4,0.11
+1934,"Animal.966",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.032,0.53,0.39,0.08
+1935,"Animal.967",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.05,0.4,0.38,0.21
+1936,"Animal.968",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.045,0.42,0.39,0.2
+1937,"Animal.969",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.007,0.5,0.4,0.1
+1938,"Animal.970",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.003,0.49,0.4,0.11
+1939,"Animal.971",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.116,0.22,0.27,0.51
+1940,"Animal.972",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.079,0.33,0.35,0.32
+1941,"Animal.974",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.088,0.31,0.33,0.36
+1942,"Animal.976",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.046,0.41,0.39,0.2
+1943,"Animal.977",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.027,0.45,0.4,0.15
+1944,"Animal.978",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.002,0.49,0.4,0.11
+1945,"Animal.979",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.157,0.11,0.18,0.71
+1946,"Animal.98",5,"El Kowm 2",1,"PPNB",6,"Ast",0.096,0.48,0.36,0.16
+1947,"Animal.980",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.088,0.31,0.33,0.36
+1948,"Animal.981",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.074,0.35,0.35,0.3
+1949,"Animal.982",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",-0.052,0.54,0.38,0.08
+1950,"Animal.983",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.152,0.12,0.19,0.69
+1951,"Animal.984",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.121,0.21,0.26,0.54
+1952,"Animal.985",24,"Tell Sabi Abyad (Op III)",1,"PN",6,"Ast",0.013,0.48,0.4,0.13
+1953,"Animal.986",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.22,0,0.32,0.68
+1954,"Animal.987",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.172,0,0.46,0.54
+1955,"Animal.988",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.052,0,0.83,0.17
+1956,"Animal.989",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.197,0,0.38,0.62
+1957,"Animal.99",5,"El Kowm 2",1,"PPNB",6,"Ast",0.06,0.54,0.37,0.09
+1958,"Animal.990",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.193,0,0.39,0.61
+1959,"Animal.991",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.062,0,0.82,0.18
+1960,"Animal.992",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.257,0,0.24,0.76
+1961,"Animal.993",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.161,0,0.5,0.5
+1962,"Animal.994",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.149,0,0.55,0.45
+1963,"Animal.995",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.219,0,0.32,0.68
+1964,"Animal.996",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.173,0,0.46,0.54
+1965,"Animal.997",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.128,0,0.63,0.37
+1966,"Animal.998",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.165,0,0.49,0.51
+1967,"Animal.999",24,"Tell Sabi Abyad (Op III)",1,"PN",7,"Cal",0.238,0,0.28,0.72

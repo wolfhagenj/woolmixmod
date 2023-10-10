@@ -1,4 +1,4 @@
-# woolmixmod: Untangling the Zooarchaeological Evidnece for Intensive Wool Production in Northern Mesopotamia, c. 4500-1500 cal. BC
+# woolmixmod: Untangling the Zooarchaeological Evidence for Intensive Wool Production in Northern Mesopotamia, c. 4500-1500 cal. BC
 
 This GitHub repository maintains the code and data files necessary to reproduce the analyses of the manuscript "Wool They, Won’t They: Untangling the Zooarchaeological Evidence for Intensive Wool Production in Northern Mesopotamia c. 4500-1500 cal. BC”, authored by Max D. Price and Jesse Wolfhagen, submitted to the *Journal of Anthropological Archaeology*. The methods rely on [Stan](https://mc-stan.org/) for Bayesian analysis and are written for use in the R statistical computing framework.
 

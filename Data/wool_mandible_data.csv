@@ -1,0 +1,78 @@
+Site_No,Site Name,Site,Period,N_GHI,N_Total,Reference
+1,Basur Hoyuk,Basur Hoyuk,Neolithic,8,20,Berthon 2011
+2,Cafer Höyük,Cafer Hoyuk,Neolithic,4,21,Helmer and Gourichon 2007
+3,Cafer Höyük,Cafer Höyük,Neolithic,49,176,Helmer and Gourichon 2007
+4,El Kowm 2 (lower levels),El Kowm 2 (PPNB),Neolithic,48,198,Helmer and Gourichon 2007
+5,El Kowm 2 (PN),El Kowm 2 (PN),Neolithic,20,34,Helmer and Gourichon 2007
+6,Gritille,Gritille,Neolithic,19,77,Monahan 2000:233
+7,"Maghzaliyah 1/5, 6/8, 9/10, 12/14, 15/16",Maghzaliyah,Neolithic,35,167,Helmer and Gourichon 2007
+8,Qdeir,Qdeir,Neolithic,32,206,Helmer and Gourichon 2007
+9,"Ras Shamra VC1, V2/3",Ras Shamra,Neolithic,18,73,Helmer and Gourichon 2007
+10,Tell Aswad,Tell Aswad,Neolithic,35,116,Helmer and Gourichon 2007
+11,Tell Aswad,Tell Aswad,Neolithic,23,97,Helmer and Gourichon 2007
+12,Tell Aswad,Tell Aswad,Neolithic,14,59,Helmer and Gourichon 2007
+13,"Tell Halula 11, 12, 18",Tell Halula,Neolithic,18,133,Helmer and Gourichon 2007
+14,"Tell Halula 25, 26",Tell Halula,Neolithic,54,310,Helmer and Gourichon 2007
+15,Tell Halula 5,Tell Halula,Neolithic,18,133,Helmer and Gourichon 2007
+16,Tell Seker al-Aheimar (base and late),Tell Seker al-Aheimar,Neolithic,31,141,Helmer and Gourichon 2007
+17,Tell Seker al-Aheimar (PN),Tell Seker al-Aheimar,Neolithic,13,29,Helmer and Gourichon 2007
+18,Tell Sotto,Tell Sotto,Neolithic,5,12,Helmer and Gourichon 2007
+19,Umm el Tlell,Umm el Tlell,Neolithic,12,100,Helmer and Gourichon 2007
+20,Domuztepe,Domuztepe,Halaf-Ubaid,42,110,Lau 2016 (Ditch material only' Kansa gives 210/186 sheep goat for other contexts)
+21,Khirbet Derak,Khirbet Derak,Halaf-Ubaid,21,41,Helmer and Gourichon 2007
+22,Sabi Abyad,Sabi Abyad,Halaf-Ubaid,68,271,Russell 2010
+23,"Kosak Shamali, E North Ubaid",Kosak Shamali,Halaf-Ubaid,1,14,Gourichon and Helmer
+24,"Kosak Shamali, Late N Ubaid",Kosak Shamali,Halaf-Ubaid,8,19,Gourichon and Helmer
+25,Zeidan,Zeidan,Halaf-Ubaid,2,35,Grossman and Hinman 2013
+26,Hacinebi  A,Hacinebi,LC 1-3,25,37,Bigelow thesis p. 354 --
+27,Hacinebi B1,Hacinebi,LC 1-3,11,27,"Bigelow thesis, p. 364"
+28,"Kosak Shamali, post-Ubaid",Kosak Shamali,LC 1-3,10,26,Gourichon and Helmer
+29,Tell Surezha,Tell Surezha,LC 1-3,5,18,Price et al. 2021
+30,Tell Surezha,Tell Surezha,LC 1-3,4,18,Price et al. 2021
+31,Zeidan,Zeidan,LC 1-3,3,13,"Fisher Dissertation, p. 246 (citing Grossman)"
+32,El Kowm 2 (Uruk),El Kowm 2,LC 4-5,34,140,Helmer and Gourichon 2007
+33,Hacinebi B2,Hacinebi,LC 4-5,7,14,"Bigelow thesis, p. 375"
+34,Hassek Höyük,Hassek Höyük,LC 4-5,9,34,Boessneck 1992
+35,"Kosak Shamali, Uruk",Kosak Shamali,LC 4-5,13,27,Helmer and Gourichon 2007
+36,Mashnaqa,Mashnaqa,LC 4-5,27,160,Helmer and Gourichon 2007
+37,Rubeideh,Rubeideh,LC 4-5,22,50,Payne 1988
+38,Sheikh Hassan (L. Uruk),Skeikh Hassan,LC 4-5,28,166,Helmer and Gourichon 2007
+39,Sheikh Hassan (Mid. Uruk),Skeikh Hassan,LC 4-5,150,644,Helmer and Gourichon 2007
+40,"Atiqeh, Akkadian",Atiqeh,EBA,3,21,Boessneck 1987
+41,Gritille,Gritille,EBA,10,32,Stein 1987
+42,Gudeda,Gudeda,EBA,5,13,Rufolo 2011: 415
+43,Hassek Höyük,Hassek Hoyuk,EBA,15,70,Boessneck 1992
+44,Kharab Sayyar,Kharab Sayyar,EBA,3,12,Vila 2010
+45,Kharab Sayyar,Kharab Sayyar,EBA,5,19,Vila 2010
+46,Kharab Sayyar,Kharab Sayyar,EBA,4,12,Vila 2010
+47,Kurban,Kurban III,EBA,11,25,Wattenmaker 1987
+48,Kurban,Kurban IV,EBA,9,21,Wattenmaker 1987
+49,Kutan,Kutan,EBA,72,193,Helmer and Gourichon 2007
+50,Lidar Höyük,Lidar Höyük,EBA,11,53,Kussinger 1988 Dissertation p. 58
+51,Mari,Mari,EBA,34,117,Helmer and Gourichon 2007
+52,Mishrife (Qatna),Mishrife,EBA,12,40,Helmer and Gourichon 2007
+53,Raqai (levels 2-5),Raqai,EBA,7,44,Rufolo 2011: 468
+54,Rawda,Rawda,EBA,23,141,Helmer and Gourichon 2007
+55,"Sweyhat Main,",Sweyhat,EBA,12,27,Weber Dissertation p.229
+56,Sweyhat post-Main,Sweyhat,EBA,7,18,Weber Dissertation p.229
+57,Sweyhat V and IV (EB IV),Sweyhat,EBA,19,78,Buitenhuis 1983: 139
+58,Tell Bderi,Tell Bderi,EBA,20,47,Omar 2017
+59,Tell Beydar,Tell Beydar,EBA,4,15,DeCupere and Van Neer
+60,"Tell Chuera, Sect. H+K, EJ III-IV",Tell Chuera,EBA,6,20,Vila 2010
+61,"Tell Chuera, Sect. H+K, EJ 0-I",Tell Chuera,EBA,6,25,Vila 2010
+62,"Tell Chuera, Sect. H+K, EJ II",Tell Chuera,EBA,16,43,Vila 2010
+63,"Tell Chuera, Sect. A (Steinbau 1)",Tell Chuera,EBA,23,57,Vila 1995
+64,"Tell Halawa Tell A Schnict 3 (2300-2200, Houses and Temple)",Tell Halawa,EBA,6,26,Boessneck and von den Driesch 1989
+65,Tell Halawa Tell B (2700-2500; Temple and Houses),Tell Halawa,EBA,59,329,Boessneck and von den Driesch 1989
+66,Tell Knedig,Tell Knedig,EBA,17,80,Helmer and Gourichon 2007
+67,"Tell Razuk, ED I-II",Tell Razuk,EBA,8,36,Boessneck 1987
+68,Tell Shiukh Fawqani,Tell Shiukh Fawqani,EBA,21,45,Helmer and Gourichon 2007; Vila 2005
+69,Tell Tuqan,Tell Tuqan,EBA,18,45,Minniti 2014
+70,Titris Hoyuk,Titris Hoyuk,EBA,2,15,Trella Dissertation p. 261
+71,Titris Hoyuk,Titris Hoyuk,EBA,3,24,Trella Dissertation p. 260
+72,Hirbemerdon Tepe,Hirbemerdon Tepe,MBA,22,48,Berthon 2011
+73,Kenan Tepe,Kenan Tepe,MBA,20,41,Berthon 2011
+74,Lidar Höyük,Lidar Höyük,MBA,25,116,Kussinger 1988 Dissertation p. 58
+75,"Tell Halawa Tell A Schnict 2 (2000-1800, Houses)",Tell Halawa,MBA,2,12,Boessneck and von den Driesch 1989
+76,Tell Tuqan,Tell Tuqan,MBA,25,59,Minniti 2014
+77,Turbe Hoyuk,Turbe Hoyuk,MBA,4,17,Berthon2011
